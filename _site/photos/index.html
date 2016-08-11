@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qasar Younis</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="http://qasaryounis.com//style.css">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for Qasar Younis" href="http://qasaryounis.com//feed.xml" />
+  <link rel="shortcut icon" type="image/png" href="http://qasaryounis.com//favicon.ico" >
+
+  <!-- Begin Jekyll SEO tag v2.0.0 -->
+<title>Qasar Younis - Qasar Younis</title>
+<meta property="og:title" content="Qasar Younis" />
+<meta name="description" content="Qasar Younis" />
+<meta property="og:description" content="Qasar Younis" />
+<link rel="canonical" href="//qasaryounis.comhttp://qasaryounis.com//photos/" />
+<meta property="og:url" content="//qasaryounis.comhttp://qasaryounis.com//photos/" />
+<meta property="og:site_name" content="Qasar Younis" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@qasar" />
+<meta name="twitter:creator" content="@Qasar Younis" />
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "headline": "Qasar Younis",
+    "description": "Qasar Younis",
+    "url": "//qasaryounis.comhttp://qasaryounis.com//photos/"
+  }
+</script>
+<!-- End Jekyll SEO tag -->
+</head>
+<body>
+  <div class="container">
+    <script>
+var imageGallery = [
+  "http://i.imgur.com/9Cu1XB9.png",
+ "http://i.imgur.com/VW74f2r.png" ,      
+ "http://i.imgur.com/V574RyL.png",
+  "http://i.imgur.com/y7Wx7PX.png",
+  ];
+
+var imageText = [
+"Jackie's roar being recorded for use at the beginning of MGM talking movies. A sound stage was built around his cage to make the recording.",
+"YCombinator Demo Day",
+"Man on rocketship startup", 
+"Earth",
+]
+
+var imgCount = 0;
+var totalImgs = imageGallery.length -1;
+
+function next() {
+    if(imgCount == totalImgs){
+      imgCount = 0;
+    }  else {
+      imgCount++;
+    }
+   document.getElementById("gallery").src = imageGallery[imgCount];
+   document.getElementById("imageText").innerHTML = imageText[imgCount]; 
+}
+
+function previous() {
+    imgCount--;
+  if(imgCount < 0) imgCount = totalImgs ;
+       document.getElementById("gallery").src = imageGallery[imgCount];  
+       document.getElementById("imageText").innerHTML = imageText[imgCount];  
+    } 
+
+document.addEventListener("keydown", function(e){
+	console.log(e.keyCode)
+	if (e.keyCode == 37) {
+		previous()
+	} else if (e.keyCode == 39) {
+		next()
+	}
+});
+
+</script>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<header class="masthead">
+  <h1 class="masthead-title">
+      <strong><a href="http://qasaryounis.com//">Qasar Younis</a></strong>
+  </h1>
+  <nav class="masthead-nav">
+      <ul class="navlist">
+    
+    <li class="navitem"><a href="http://qasaryounis.com//writing">My Writings</a></li>
+    
+    <li class="navitem"><a href="http://qasaryounis.com//readings">Readings</a></li>
+    
+    <li class="navitem"><a href="http://qasaryounis.com//photos">Photos</a></li>
+    
+    <li class="navitem"><a href="http://qasaryounis.com//speaking">Speaking</a></li>
+    
+    <li class="navitem"><a href="http://qasaryounis.com//about">About Me</a></li>
+    
+    </ul>
+  </nav>
+</header>
+
+<div class="content list">
+<div id="gallerycontainer">
+<img id="gallery" onclick="next()" src="http://i.imgur.com/9Cu1XB9.png" >
+<div id="imageText"> Jackie's roar being recorded for use at the beginning of MGM talking movies. A sound stage was built around his cage to make the recording. </div>
+
+<div class="buttons">
+<a href="#" onclick="previous(); return false;">Back</a> |
+<a href="#" onclick="next(); return false;">Next</a> 
+</div>
+
+
+</div>
+</div>
+
+  </div>
+</body>
+</html>

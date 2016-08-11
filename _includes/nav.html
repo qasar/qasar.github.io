@@ -1,0 +1,14 @@
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<header class="masthead">
+  <h1 class="masthead-title">
+      <strong><a href="{{ site.baseurl }}/">{{ site.name }}</a></strong>
+  </h1>
+  <nav class="masthead-nav">
+      <ul class="navlist">
+    {% for nav in site.nav %}
+    <li class="navitem"><a href="{{site.baseurl}}/{{ nav.href }}">{{ nav.name }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
+</header>

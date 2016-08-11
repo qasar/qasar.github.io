@@ -1,30 +1,19 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">Writings</a></li>
-	        		<li><a href="/cv">Photography</a></li>
-	        		<li><a href="/blog">Reading</a></li>
-	    			<li><a href="/blog">Speaking</a></li>
-	    			<li><a href="/blog">Bio</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:q@talkbin.com">Contact</a></li>
-	        		<li><a href="https://qasaryounis.com">qasaryounis.com</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="shortcut icon" type="image/png" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
+
+  {% seo %}
+</head>
+<body>
+  <div class="container">
+    {{ content }}
+  </div>
+</body>
+</html>

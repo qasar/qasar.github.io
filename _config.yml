@@ -1,3 +1,56 @@
-name: Hank Quinlan, Horrible Cop
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Basic
+name:               "Qasar Younis"
+description:        "Qasar Younis"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "//qasaryounis.com"
+author:             "Qasar Younis"
+twitter:
+  username:         "qasar"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
+
+# URL
+#baseurl:            "https://rohanpai.github.io/website"
+baseurl:            "http://qasaryounis.com" #For Root Domain
+permalink:          /essays/:title/
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "My Writings"
+    href:           "writing"
+  - name:           "Readings"
+    href:           "readings"
+  - name:           "Photos"
+    href:           "photos"
+  - name:           "Speaking"
+    href:           "speaking"
+  - name:           "About Me"
+    href:           "about"
+
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-seo-tag

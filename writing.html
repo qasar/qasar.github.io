@@ -1,23 +1,20 @@
 ---
 layout: default
+permalink: /writing/
 ---
 {% include nav.html %}
 <div class="content list">
+<h1 class="page-title">My Writings</h1>
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
-<img src="{{ site.baseurl }}/assets/5.png" style="border-radius: 4px;"/>
-<!--
+<ul>
 {% for post in site.posts %}
-  <div class="list-item">
-    <h2 class="list-post-title">
+    <li class="writing">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    <div class="list-post-date">
-      <time>{{ post.date | date_to_string }}</time>
-    </div>
-  </div>
+    </li>
 {% endfor %}
--->
+</ul>
+
 {% endif %}
 </div>
