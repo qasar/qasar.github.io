@@ -53,7 +53,7 @@ permalink: /readings/
 
 <p>Bill Gates</p>
 
-<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. The ideas now seem dated and it serves more as a historical account. I read it shortly before I moved into high tech from the automotive industry and served as a great primer to how much things can change in a short time.</p>
+<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. I read it shortly before I moved into high tech from the automotive industry and served as a great primer to how much things can change in a short time. The ideas now seem dated and the book serves more as a historical account then anything else but it's still great.</p>
 </div>
 <hr>
 
