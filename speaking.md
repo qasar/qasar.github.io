@@ -2,9 +2,6 @@
 title: Speaking
 permalink: /speaking/
 ---
--
-
-
 
 I infrequently speak at conferences, mostly international. 
 
