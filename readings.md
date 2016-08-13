@@ -59,6 +59,16 @@ permalink: /readings/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523" target="_blank"><img class="book" src="http://www.abebooks.com/blog/wp-content/uploads/2012/07/Brave-New-World-Huxley-8.jpg" alt="book-huxley" width="122" height="180"></a><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523">Brave New World</a></h3>
+
+<p>Aldous Huxley</p>
+
+<p>I happened to read this book nearly back to back with 1984 and quickly thought that the future would much more likely resemble this book then 1984. This is because we resist control from others but willingly subjugate ourselves if we get something in return. I would recommend reading it for no other reason to see aspects of our modern society so accurately reflected by someone writing in 1932.</p>
+</div>
+<hr>
+
 
 
 <!--
