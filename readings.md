@@ -26,22 +26,25 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3>
-
-<a href="https://amzn.com/B00193RJEM" target="_blank">
-
-<img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41MVP7EKa-L._SY344_BO1,204,203,200_.jpg" alt="book-malcolm" width="122" height="180"></a>
-
-<a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a>
-
-</h3>
-
-<p>Malcolm X</p>
+<h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41MVP7EKa-L._SY344_BO1,204,203,200_.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
 <p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are fascinating as they are dramatic. After reading, one can't help but think Malcolm X is one of the greatest Americans that have ever lived.
 </p>
 </div>
 <hr>
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51hdHY1gTSL._SY344_BO1,204,203,200_.jpg" alt="book-walton" width="122" height="180"></a><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835">Made In America</a></h3>
+
+<p>Sam Walton</p>
+
+<p>This is perhaps my all time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. There is an irony in the book title as Walmart has become so synonymous with selling products which are indeed not made in America.</p>
+</div>
+<hr>
+
+
 
 
 
