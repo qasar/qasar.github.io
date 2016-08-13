@@ -3,6 +3,5 @@ title: Speaking
 permalink: /speaking/
 ---
 
-Speaking.
+I infrequently speak at conferences, mostly international. If there is something you think would be interesting, let me know.
 
-![alt text](https://fortunedotcom.files.wordpress.com/2015/08/dscf3406.jpg?w=840&h=485&crop=1 "Logo Title Text 1")
