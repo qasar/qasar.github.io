@@ -47,6 +47,19 @@ permalink: /readings/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="book" src="https://upload.wikimedia.org/wikipedia/en/e/e2/The_Road_Ahead_(Bill_Gates_book).jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133">The Road Ahead</a></h3>
+
+<p>Bill Gates</p>
+
+<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. The ideas now seem dated and it serves more as a historical account. I read it shortly before I moved into high tech from the automotive industry and served as a great primer to how much things can change in a short time.</p>
+</div>
+<hr>
+
+
+
+
 
 <!--
 
