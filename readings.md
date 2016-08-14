@@ -50,7 +50,7 @@ permalink: /readings/
 
 <h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41MVP7EKa-L._SY344_BO1,204,203,200_.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
-<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived.
+<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few Americans that have left such a lasting mark on our culuture.  
 </p>
 </div>
 <hr>
