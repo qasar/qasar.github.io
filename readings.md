@@ -120,7 +120,7 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41l1dmD8PRL._SX334_BO1,204,203,200_.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">Saddam Hussein: The Politics of Revenge</a></h3>
+<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41l1dmD8PRL._SX334_BO1,204,203,200_.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">The Politics of Revenge</a></h3>
 
 <p>Said K. Aburish</p>
 
