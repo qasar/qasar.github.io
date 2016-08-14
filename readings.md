@@ -97,6 +97,20 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51p5DyquENL.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189">Long Walk to Freedom</a></h3>
+
+<p>Nelson Mandela</p>
+
+<p>Just looking at the cover of this book stirs a deep emotion in me. It was perhaps the first book that I read out of interest and left a deep impression. Mandela was a revolutionary but unlike others, he succeeded in lifting his people from the yoke of foreign oppression and lived to harvest the fruits of his sacrifice. The tale of South Africa is a bittersweet one however and in the words of Mandela "After climbing a great hill, one only finds that there are many more hills to climb".</p>
+</div>
+<hr>
+
+
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51LVx6UrW5L._SX326_BO1,204,203,200_.jpg" alt="book-cover-guns" width="122" height="180"></a><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552">Guns, Germs, and Steel</a></h3>
 
 <p>Jared M. Diamond</p>
