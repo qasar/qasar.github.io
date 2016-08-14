@@ -1,5 +1,5 @@
 ---
-title: Readings: Books I Recommend
+title: Readings
 permalink: /readings/
 ---
 
