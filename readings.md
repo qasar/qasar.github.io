@@ -120,6 +120,41 @@ permalink: /readings/
 <hr>
 
 
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41Ln6o6gcxL._SX327_BO1,204,203,200_.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286">Lenin</a></h3>
+
+<p>Robert Service </p>
+
+<p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediatly read his book on Stalin right after this and once again, I was not diappointed. </p>
+</div>
+<hr>
+
+<!--
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41yP7fNKjyL._SX329_BO1,204,203,200_.jpg" alt="book-stalin" width="122" height="180"></a><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580">Stalin</a></h3>
+
+<p>Robert Service</p>
+
+<p>Although Lenin probably had a bigger influence on communism, it's hard to argue anyone had a bigger influence onthe USSR than Stalin. This work is a great read and provides excellent </p>
+</div>
+<hr>
+
+
+
+-->
+
+
+
+
+
+
+
+
+
 <!-- FOOLED BY RANDOM -->
 <div class = "bookContainer">
 
