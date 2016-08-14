@@ -1,5 +1,5 @@
 ---
-title: Readings
+title: Readings: Books I Recommend
 permalink: /readings/
 ---
 
@@ -118,7 +118,15 @@ permalink: /readings/
 <hr>
 
 
+<div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41l1dmD8PRL._SX334_BO1,204,203,200_.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">Saddam Hussein: The Politics of Revenge</a></h3>
+
+<p>Said K. Aburish</p>
+
+<p>I read this sometime before the 2003 Iraq invasion. In some ways the handwriting was on the wall then that could have helped us avoid the catastrophe that has unfolded over the past decade. Although the book provides a comprehensive study of Saddam Hussein, it's also a good read to understand Iraq and recent history of its people.</p>
+</div>
+<hr>
 
 
 
