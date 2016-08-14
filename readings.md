@@ -3,16 +3,17 @@ title: Readings
 permalink: /readings/
 ---
 
-<!-- FOOLED BY RANDOM -->
+
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg" alt="book-fooled-by-randomness" width="122" height="180"></a><a href="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg">Fooled by Randomness</a></h3>
+<h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51TsjdgBMAL._SX327_BO1,204,203,200_.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X">The Commanding Heights</a></h3>
 
-<p>Nassim Nicholas Taleb</p>
+<p>Daniel Yergin and Joseph Stanislaw</p>
 
-<p>I read this book long before I started investing. It casts a long shadow on the way I think. Most specifically not to over learn in early stage investing in both success and failure. Taleb argues that events that happen with little help from luck are more resistant to randomness. What I learn from that is that there should be some process to drive repeatable outcomes, even in something with as much variance as early stage technology investing.</p>
+<p>I decided to pursue an economics minor in undergrad after reading this book. A deeply insightful analysis about the debate around the one of the most important questions shaping the last century: central planning vs free market economics. As Stalin said, "Mankind is divided into rich and poor, into property owners and exploited; and to abstract oneself from this fundamental division; and from the antagonism between poor and rich means abstracting oneself from fundamental facts."</p>
 </div>
 <hr>
+
 
 
 
@@ -55,19 +56,13 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/415PDTW8ENL._UY250_.jpg" alt="book-chaos" width="122" height="180"></a><a href="http://https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613">Chaos On The Shop Floor (Labor And Social Change)</a></h3>
+<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/415PDTW8ENL._UY250_.jpg" alt="book-chaos" width="122" height="180"></a><a href="http://https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613">Chaos On The Shop Floor </a></h3>
 
 <p>Tom Juravich</p>
 
 <p>I read this book when I was a 19 year old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
 </div>
 <hr>
-
-
-
-
-
-
 
 
 
@@ -93,6 +88,36 @@ permalink: /readings/
 <p>I happened to read this book nearly back to back with 1984 and quickly thought that the future would much more likely resemble this book then 1984. This is because we resist control from others but willingly subjugate ourselves if we get something in return. I would recommend reading it for no other reason to see aspects of our modern society so accurately reflected by someone writing in 1932.</p>
 </div>
 <hr>
+
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51LVx6UrW5L._SX326_BO1,204,203,200_.jpg" alt="book-cover-guns" width="122" height="180"></a><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552">Guns, Germs, and Steel</a></h3>
+
+<p>Jared M. Diamond</p>
+
+<p>This is must read book if you are interested in how civilizations have developed and wonder about questions like "why are some countries rich and others poor?" It's much more dense and therefore rewarding than many pop-culture books that have come to dominate airport convenience shops.</p>
+</div>
+<hr>
+
+
+<!-- FOOLED BY RANDOM -->
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg" alt="book-fooled-by-randomness" width="122" height="180"></a><a href="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg">Fooled by Randomness</a></h3>
+
+<p>Nassim Nicholas Taleb</p>
+
+<p>I read this book long before I started investing. It casts a long shadow on the way I think. Most specifically not to over learn in early stage investing in both success and failure. Taleb argues that events that happen with little help from luck are more resistant to randomness. What I learn from that is that there should be some process to drive repeatable outcomes, even in something with as much variance as early stage technology investing.</p>
+</div>
+<hr>
+
+
+
+
+
+
 
 
 
