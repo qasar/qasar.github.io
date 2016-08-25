@@ -89,7 +89,7 @@ permalink: /readings/
 
 <p>Aldous Huxley</p>
 
-<p>I happened to read this book nearly back to back with 1984 and quickly thought that the future would much more likely resemble this book then 1984. This is because we resist control from others but willingly subjugate ourselves if we get something in return. I would recommend reading it for no other reason to see aspects of our modern society so accurately reflected by someone writing in 1932.</p>
+<p>I happened to read this book nearly back to back with 1984 and quickly thought that the future would much more likely resemble this book than 1984. This is because we resist control from others but willingly subjugate ourselves if we get something in return. I would recommend reading it for no other reason to see aspects of our modern society so accurately reflected by someone writing in 1932.</p>
 </div>
 <hr>
 
