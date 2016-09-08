@@ -37,7 +37,7 @@ permalink: /readings/
 
 <p>Tom Juravich</p>
 
-<p>I read this book when I was a 19 year old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
+<p>I read this book when I was a 19 years old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
 </div>
 <hr>
 
