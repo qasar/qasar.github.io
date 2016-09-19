@@ -33,6 +33,8 @@ nav:
     href:           "about"
   - name:           "Test"
     href:           "test"
+  - name:           "Test"
+    href:           "testpage"
 
 
 # Sass
