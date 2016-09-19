@@ -29,10 +29,6 @@ nav:
     href:           "photos"
   - name:           "Speaking"
     href:           "speaking"
-  - name:           "About Me1"
-    href:           "about"
-  - name:           "Test"
-    href:           "test"
   - name:           "Test"
     href:           "testpage"
 
