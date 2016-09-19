@@ -31,6 +31,8 @@ nav:
     href:           "speaking"
   - name:           "About Me"
     href:           "about"
+  - name:           "Test"
+    href:           "testpage"
 
 
 # Sass
