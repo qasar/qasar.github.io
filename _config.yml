@@ -29,8 +29,8 @@ nav:
     href:           "photos"
   - name:           "Speaking"
     href:           "speaking"
-  - name:           "Test"
-    href:           "testpage"
+  - name:           "About Me"
+    href:           "about"
 
 
 # Sass
