@@ -32,7 +32,7 @@ nav:
   - name:           "About Me"
     href:           "about"
   - name:           "Test"
-    href:           "testpage"
+    href:           "test"
 
 
 # Sass
