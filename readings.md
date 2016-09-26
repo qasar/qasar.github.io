@@ -33,7 +33,7 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/415PDTW8ENL._UY250_.jpg" alt="book-chaos" width="122" height="180"></a><a href="http://https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613">Chaos On The Shop Floor </a></h3>
+<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/415PDTW8ENL._UY250_.jpg" alt="book-chaos" width="122" height="180"></a><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613">Chaos On The Shop Floor </a></h3>
 
 <p>Tom Juravich</p>
 
