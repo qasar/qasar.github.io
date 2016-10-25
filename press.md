@@ -3,8 +3,6 @@ layout: default
 permalink: /press/
 ---
 
-This is a test file
-
 {% include nav.html %}
 <div class="content list">
 <h1 class="page-title">My Writings</h1>
