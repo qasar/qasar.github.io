@@ -1,21 +1,5 @@
 ---
-layout: default
+layout: press
 permalink: /press/
 ---
-
-{% include nav.html %}
-<div class="content list">
-<h1 class="page-title">My Writings</h1>
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% else %}
-<ul>
-{% for post in site.posts %}
-    <li class="writing">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-
-{% endif %}
-</div>
+</a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X">The Commanding Heights</a></h3>
