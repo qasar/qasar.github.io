@@ -27,8 +27,6 @@ nav:
     href:           "readings"
   - name:           "Photos"
     href:           "photos"
-  - name:           "Speaking"
-    href:           "speaking"
   - name:           "About Me"
     href:           "about"
 
