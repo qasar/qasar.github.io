@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /press/
+---
+
+This is a test file
+
+{% include nav.html %}
+<div class="content list">
+<h1 class="page-title">My Writings</h1>
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+<ul>
+{% for post in site.posts %}
+    <li class="writing">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+{% endif %}
+</div>
