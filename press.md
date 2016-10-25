@@ -3,6 +3,8 @@ title: Press
 permalink: /press/
 ---
 
+
+
 <a href="http://www.wsj.com/articles/instavest-the-startup-that-wants-to-uproot-hedge-funds-1477319576
 ">Instavest: The Startup That Wants to Uproot Hedge Funds</a> (WSJ)
 
