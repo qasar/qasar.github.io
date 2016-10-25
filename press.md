@@ -4,11 +4,12 @@ permalink: /press/
 ---
 
 
-
 <a href="http://www.wsj.com/articles/instavest-the-startup-that-wants-to-uproot-hedge-funds-1477319576
 ">Instavest: The Startup That Wants to Uproot Hedge Funds</a> (WSJ)
 
 <a href="https://www.washingtonpost.com/news/the-switch/wp/2016/08/29/inside-one-of-silicon-valleys-most-celebrated-rituals-raising-cash/">Inside Silicon Valley’s most grueling ritual </a> (Washington Post, Profile)
+
+<a href="http://venturebeat.com/2016/07/07/y-combinator-will-hold-an-investor-day-for-meetings-with-startups-after-demo-day/">Investor Day</a> (VentureBeat)
 
 <a href="http://fortune.com/2015/08/26/meet-y-combinators-new-coo/">Meet Y Combinator's New COO</a> (Fortune, Profile)
 
