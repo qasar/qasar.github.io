@@ -5,7 +5,7 @@ permalink: /press/
 
 
 
-<a href="https://www.washingtonpost.com/news/the-switch/wp/2016/08/29/inside-one-of-silicon-valleys-most-celebrated-rituals-raising-cash/">Inside Silicon Valley’s most grueling ritual: Raising cash </a><p>(Washington Post)</p>
+<a href="https://www.washingtonpost.com/news/the-switch/wp/2016/08/29/inside-one-of-silicon-valleys-most-celebrated-rituals-raising-cash/">Inside Silicon Valley’s most grueling ritual: Raising cash </a> (Washington Post)
 
 <a href="http://fortune.com/2015/08/26/meet-y-combinators-new-coo/">Meet Y Combinator's New COO (Fortune)</a>
 
