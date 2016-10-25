@@ -7,6 +7,7 @@ permalink: /about/
 
 I work at Y Combinator where I invest in early stage technology companies. 
 
-I put my best thoughts on twitter: @qasar. 
+Everything I know, I put on twitter: @qasar. 
 
 You can also find me on snapchat: @qasar.
+
