@@ -8,9 +8,9 @@ permalink: /press/
 
 <a href="http://venturebeat.com/2016/07/07/y-combinator-will-hold-an-investor-day-for-meetings-with-startups-after-demo-day/">Investor Day</a> (VentureBeat)
 
-<a href="http://fortune.com/2015/08/26/meet-y-combinators-new-coo/">Meet Y Combinator's New COO</a> (Fortune, Profile)
-
 <a href="https://www.alumni.hbs.edu/stories/Pages/story-impact.aspx?num=5765">3 Minute Briefing</a> (Harvard Alumni Magazine)
+
+<a href="http://fortune.com/2015/08/26/meet-y-combinators-new-coo/">Meet Y Combinator's New COO</a> (Fortune, Profile)
 
 <a href="http://www.forbes.com/sites/tomiogeron/2011/11/16/coupa-cafe-where-startups-meet-work-and-test-products/">Coupa Cafe: Where Startups Meet, Work And Test Products</a> (Forbes)
 
