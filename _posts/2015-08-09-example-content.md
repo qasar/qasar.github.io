@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[place holder 3] Example content"
 # jekyll-seo-tag
 description:  "A short description of the page's content"
 image:        "http://placehold.it/400x200"
