@@ -1,5 +1,5 @@
 ---
-title: [placeholder 2] Here's my new post!?
+title: Here's my new post!?
 ---
 
 <p class="lead"> <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.</p>
