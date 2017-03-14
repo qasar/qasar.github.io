@@ -24,7 +24,7 @@ permalink: /readings/
 
 <p>Mohandas Karamchand Gandhi</p>
 
-<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian hertiage.  actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian hertiage. </p>
+<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian hertiage. Perhaps one of the most important books ever written.</p>
 </div>
 <hr>
 
