@@ -140,39 +140,6 @@ permalink: /readings/
 
 <p>This is a gripping book that makes moutaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climinbing a rock. The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
 </div>
-<hr>
-
-
-
-
-
-
-
-<hr>
-
-<!--
-
-<div class = "bookContainer">
-
-<h3><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41yP7fNKjyL._SX329_BO1,204,203,200_.jpg" alt="book-stalin" width="122" height="180"></a><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580">Stalin</a></h3>
-
-<p>Robert Service</p>
-
-<p>Although Lenin probably had a bigger influence on communism, it's hard to argue anyone had a bigger influence onthe USSR than Stalin. This work is a great read and provides excellent </p>
-</div>
-<hr>
-
-
-
--->
-
-
-
-
-
-
-
-
 
 <!-- FOOLED BY RANDOM -->
 <div class = "bookContainer">
@@ -189,6 +156,7 @@ permalink: /readings/
 <div class = "bookContainer">
 
 <h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41l1dmD8PRL._SX334_BO1,204,203,200_.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">The Politics of Revenge</a></h3>
+
 
 <p>Said K. Aburish</p>
 
@@ -208,15 +176,18 @@ permalink: /readings/
 <hr>
 
 
-
-
-
-
-
-
-
-
 <!--
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41yP7fNKjyL._SX329_BO1,204,203,200_.jpg" alt="book-stalin" width="122" height="180"></a><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580">Stalin</a></h3>
+
+<p>Robert Service</p>
+
+<p>Although Lenin probably had a bigger influence on communism, it's hard to argue anyone had a bigger influence onthe USSR than Stalin. This work is a great read and provides excellent </p>
+</div>
+<hr>
+
 
 <div class = "bookContainer">
 
