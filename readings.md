@@ -24,7 +24,7 @@ permalink: /readings/
 
 <p>Mohandas Karamchand Gandhi</p>
 
-<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian hertiage. Perhaps one of the most important books ever written.</p>
+<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written.</p>
 </div>
 <hr>
 
@@ -50,7 +50,7 @@ permalink: /readings/
 
 <h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41MVP7EKa-L._SY344_BO1,204,203,200_.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
-<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are as  fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting mark on our culuture.  
+<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are as  fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting mark on our culture.  
 </p>
 </div>
 <hr>
@@ -127,7 +127,7 @@ permalink: /readings/
 
 <p>Robert Service </p>
 
-<p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediatly read his book on Stalin right after this and once again, I was not diappointed. </p>
+<p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediately read his book on Stalin right after this and once again, I was not disappointed. </p>
 </div>
 <hr>
 
@@ -140,7 +140,7 @@ permalink: /readings/
 
 <p>Jon Krakauer</p>
 
-<p>This is a gripping book that makes moutaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climinbing a rock. The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
+<p>This is a gripping book that makes mountaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climbing a rock. The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
 </div>
 <hr>
 
