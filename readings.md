@@ -129,6 +129,8 @@ permalink: /readings/
 
 <p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediatly read his book on Stalin right after this and once again, I was not diappointed. </p>
 </div>
+<hr>
+
 
 
 
@@ -140,8 +142,10 @@ permalink: /readings/
 
 <p>This is a gripping book that makes moutaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climinbing a rock. The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
 </div>
+<hr>
 
-<!-- FOOLED BY RANDOM -->
+
+
 <div class = "bookContainer">
 
 <h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg" alt="book-fooled-by-randomness" width="122" height="180"></a><a href="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg">Fooled by Randomness</a></h3>
