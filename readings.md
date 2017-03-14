@@ -37,7 +37,7 @@ permalink: /readings/
 
 <p>Tom Juravich</p>
 
-<p>I read this book when I was a 19 years old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
+<p>I read this book when I was a 19 year old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
 </div>
 <hr>
 
@@ -50,7 +50,7 @@ permalink: /readings/
 
 <h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41MVP7EKa-L._SY344_BO1,204,203,200_.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
-<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few Americans that have left such a lasting mark on our culuture.  
+<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are as  fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting mark on our culuture.  
 </p>
 </div>
 <hr>
@@ -129,6 +129,25 @@ permalink: /readings/
 
 <p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediatly read his book on Stalin right after this and once again, I was not diappointed. </p>
 </div>
+
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785" target="_blank"><img class="book" src="http://blog.choicewriter.com/wp-content/uploads/2014/09/into-thin-air.jpg" alt="book-thinair" width="122" height="180"></a><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785">Into Thin Air</a></h3>
+
+<p>Jon Krakauer</p>
+
+<p>This is a gripping book that makes moutaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climinbing a rock. The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
+</div>
+<hr>
+
+
+
+
+
+
+
 <hr>
 
 <!--
