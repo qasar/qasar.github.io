@@ -9,6 +9,5 @@ About me: I was an engineer, then got an MBA. I've started two companies, with t
 
 Everything I know, I put on twitter: @qasar. 
 
-I'm also on snapchat: @qasar.
 
 
