@@ -21,12 +21,8 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "My Writings"
-    href:           "writing"
   - name:           "Readings"
     href:           "readings"
-  - name:           "Photos"
-    href:           "photos"
   - name:           "Press"
     href:           "press"
   - name:           "About Me"
