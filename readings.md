@@ -171,7 +171,7 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657" target="_blank"><img class="book" src="http://66.media.tumblr.com/bce1adc3c3d62ccdbbc873ade205b620/tumblr_ntnoikjrT61r2igm4o3_1280.jpg" alt="book-standing-up" width="122" height="180"></a><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657">Born Standing Up: A Comic's Life</a></h3>
+<h3><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657" target="_blank"><img class="book" src="http://66.media.tumblr.com/bce1adc3c3d62ccdbbc873ade205b620/tumblr_ntnoikjrT61r2igm4o3_1280.jpg" alt="book-standing-up" width="122" height="180"></a><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657">Born Standing Up</a></h3>
 
 <p>Steve Martin</p>
 
