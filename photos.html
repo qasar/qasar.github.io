@@ -1,0 +1,65 @@
+----		
+ -layout: default		
+ -permalink: /photos/		
+ ----		
+ -<script>		
+ -var imageGallery = [		
+ -	"http://qasaryounis.com/assets/space.jpg",		
+ -	"http://qasaryounis.com/assets/space.jpg",		
+ -	"http://qasaryounis.com/assets/space.jpg",		
+ -	"http://qasaryounis.com/assets/space.jpg",		
+ -		
+ -  ];		
+ -		
+ -		
+ -var imageText = [		
+ -"I am time, the destroyer of all. I have come to consume the world.  test 1",		
+ -"I am time, the destroyer of all. I have come to consume the world.  test 2",		
+ -"I am time, the destroyer of all. I have come to consume the world.  test 3",		
+ -"I am time, the destroyer of all. I have come to consume the world.  test 4",		
+ -]		
+ -		
+ -var imgCount = 0;		
+ -var totalImgs = imageGallery.length -1;		
+ -		
+ -function next() {		
+ -    if(imgCount == totalImgs){		
+ -      imgCount = 0;		
+ -    }  else {		
+ -      imgCount++;		
+ -    }		
+ -   document.getElementById("gallery").src = imageGallery[imgCount];		
+ -   document.getElementById("imageText").innerHTML = imageText[imgCount]; 		
+ -}		
+ -		
+ -function previous() {		
+ -    imgCount--;		
+ -  if(imgCount < 0) imgCount = totalImgs ;		
+ -       document.getElementById("gallery").src = imageGallery[imgCount];  		
+ -       document.getElementById("imageText").innerHTML = imageText[imgCount];  		
+ -    } 		
+ -		
+ -document.addEventListener("keydown", function(e){		
+ -	console.log(e.keyCode)		
+ -	if (e.keyCode == 37) {		
+ -		previous()		
+ -	} else if (e.keyCode == 39) {		
+ -		next()		
+ -	}		
+ -});		
+ -		
+ -</script>		
+ -{% include nav.html %}		
+ -<div class="content list" id="photolist">		
+ -<div id="gallerycontainer">		
+ -<img id="gallery" onclick="next()" src="http://i.imgur.com/S8L2oHU.png" >		
+ -<div id="imageText"> I am time, the destroyer of all. I have come to consume the world. -Bhagvad Gita </div>		
+ -		
+ -<div class="buttons">		
+ -<a href="#" onclick="previous(); return false;">Back</a> |		
+ -<a href="#" onclick="next(); return false;">Next</a> 		
+ -</div>		
+ -		
+ -		
+ -</div>		
+ -</div>		
