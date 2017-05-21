@@ -373,7 +373,8 @@ tbody tr:nth-child(odd) th {
 
 #imageText {
   width: 400px;
-  float: left;
+  float: right;
+  height: 49px;
 }
 
 .content{
@@ -427,11 +428,15 @@ tbody tr:nth-child(odd) th {
 }
 
 .buttons {
-  float: right;
+  float: left;
 }
 
 #gallerycontainer {
     width: 600px;
+}
+
+#gallery {
+    max-height: 500px;
 }
 
 @media screen and (max-width: 850px) {
