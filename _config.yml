@@ -23,6 +23,8 @@ markdown:           kramdown
 nav:
   - name:           "Readings"
     href:           "readings"
+  - name:           "Photos"
+    href:           "photos"
   - name:           "Press"
     href:           "press"
   - name:           "About Me"
