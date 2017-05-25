@@ -136,7 +136,7 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785" target="_blank"><img class="book" src="http://blog.choicewriter.com/wp-content/uploads/2014/09/into-thin-air.jpg" alt="book-thinair" width="122" height="180"></a><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785">Into Thin Air</a></h3>
+<h3><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785" target="_blank"><img class="book" src="qasar.github.io/assets/thinair.jpg" alt="book-thinair" width="122" height="180"></a><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785">Into Thin Air</a></h3>
 
 <p>Jon Krakauer</p>
 
@@ -148,7 +148,7 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg" alt="book-fooled-by-randomness" width="122" height="180"></a><a href="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg">Fooled by Randomness</a></h3>
+<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="qasar.github.io/assets/fooled.jpg" width="122" height="180"></a><a href="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg">Fooled by Randomness</a></h3>
 
 <p>Nassim Nicholas Taleb</p>
 
@@ -171,7 +171,7 @@ permalink: /readings/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657" target="_blank"><img class="book" src="http://66.media.tumblr.com/bce1adc3c3d62ccdbbc873ade205b620/tumblr_ntnoikjrT61r2igm4o3_1280.jpg" alt="book-standing-up" width="122" height="180"></a><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657">Born Standing Up</a></h3>
+<h3><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657" target="_blank"><img class="book" src="qasar.github.io/assets/standingup.jpg" alt="book-standing-up" width="122" height="180"></a><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657">Born Standing Up</a></h3>
 
 <p>Steve Martin</p>
 
