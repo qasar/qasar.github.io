@@ -1,6 +1,6 @@
 ---
-title: Readings
-permalink: /readings/
+title: Books
+permalink: /books/
 ---
 
 
