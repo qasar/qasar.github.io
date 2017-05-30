@@ -21,8 +21,8 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "Readings"
-    href:           "readings"
+  - name:           "Books"
+    href:           "books"
   - name:           "Photos"
     href:           "photos"
   - name:           "Press"
