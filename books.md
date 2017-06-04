@@ -6,7 +6,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51TsjdgBMAL._SX327_BO1,204,203,200_.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X">The Commanding Heights</a></h3>
+<h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="http://qasaryounis.com/assets/command.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X">The Commanding Heights</a></h3>
 
 <p>Daniel Yergin and Joseph Stanislaw</p>
 
@@ -20,7 +20,7 @@ permalink: /books/
 <!-- GHANDI -->
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41GnRpBV43L._SX322_BO1,204,203,200_.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934">The Story of My Experiments with Truth</a></h3>
+<h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="http://qasaryounis.com/assets/mohan.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934">The Story of My Experiments with Truth</a></h3>
 
 <p>Mohandas Karamchand Gandhi</p>
 
@@ -33,7 +33,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/415PDTW8ENL._UY250_.jpg" alt="book-chaos" width="122" height="180"></a><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613">Chaos On The Shop Floor </a></h3>
+<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="http://qasaryounis.com/assets/chaos.jpg" alt="book-chaos" width="122" height="180"></a><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613">Chaos On The Shop Floor </a></h3>
 
 <p>Tom Juravich</p>
 
@@ -48,7 +48,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41MVP7EKa-L._SY344_BO1,204,203,200_.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
+<h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="http://qasaryounis.com/assets/malc.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
 <p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are as  fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting mark on our culture.  
 </p>
@@ -60,7 +60,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51hdHY1gTSL._SY344_BO1,204,203,200_.jpg" alt="book-walton" width="122" height="180"></a><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835">Made In America</a></h3>
+<h3><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835" target="_blank"><img class="book" src="http://qasaryounis.com/assets/walt.jpg" alt="book-walton" width="122" height="180"></a><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835">Made In America</a></h3>
 
 <p>Sam Walton</p>
 
@@ -73,7 +73,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="book" src="https://upload.wikimedia.org/wikipedia/en/e/e2/The_Road_Ahead_(Bill_Gates_book).jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133">The Road Ahead</a></h3>
+<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="http://qasaryounis.com/assets/billg.jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133">The Road Ahead</a></h3>
 
 <p>Bill Gates</p>
 
@@ -85,7 +85,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523" target="_blank"><img class="book" src="http://www.abebooks.com/blog/wp-content/uploads/2012/07/Brave-New-World-Huxley-8.jpg" alt="book-huxley" width="122" height="180"></a><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523">Brave New World</a></h3>
+<h3><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523" target="_blank"><img class="book" src="http://qasaryounis.com/assets/brave.jpg" alt="book-huxley" width="122" height="180"></a><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523">Brave New World</a></h3>
 
 <p>Aldous Huxley</p>
 
@@ -97,7 +97,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51p5DyquENL.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189">Long Walk to Freedom</a></h3>
+<h3><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189" target="_blank"><img class="book" src="http://qasaryounis.com/assets/nelson.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189">Long Walk to Freedom</a></h3>
 
 <p>Nelson Mandela</p>
 
@@ -111,7 +111,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/51LVx6UrW5L._SX326_BO1,204,203,200_.jpg" alt="book-cover-guns" width="122" height="180"></a><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552">Guns, Germs, and Steel</a></h3>
+<h3><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"><img class="book" src="http://qasaryounis.com/assets/guns.jpg" alt="book-cover-guns" width="122" height="180"></a><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552">Guns, Germs, and Steel</a></h3>
 
 <p>Jared M. Diamond</p>
 
@@ -123,7 +123,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41Ln6o6gcxL._SX327_BO1,204,203,200_.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286">Lenin</a></h3>
+<h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="http://qasaryounis.com/assets/lenin.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286">Lenin</a></h3>
 
 <p>Robert Service </p>
 
@@ -159,7 +159,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41l1dmD8PRL._SX334_BO1,204,203,200_.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">The Politics of Revenge</a></h3>
+<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="http://qasaryounis.com/assets/sad.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">The Politics of Revenge</a></h3>
 
 
 <p>Said K. Aburish</p>
@@ -184,7 +184,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580" target="_blank"><img class="book" src="https://images-na.ssl-images-amazon.com/images/I/41yP7fNKjyL._SX329_BO1,204,203,200_.jpg" alt="book-stalin" width="122" height="180"></a><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580">Stalin</a></h3>
+<h3><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580" target="_blank"><img class="book" src="http://qasaryounis.com/assets/thinair.jpg.jpg" alt="book-stalin" width="122" height="180"></a><a href="https://www.amazon.com/Stalin-Biography-Robert-Service/dp/0674022580">Stalin</a></h3>
 
 <p>Robert Service</p>
 
@@ -195,7 +195,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="http://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/" target="_blank"><img class="book" src="http://www.khoslaventures.com/wp-content/uploads/book-the-black-swan.jpg" alt="book-the-black-swan" width="122" height="180"></a><a href="http://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/">The Black Swan: The Impact of the Highly Improbable</a></h3>
+<h3><a href="http://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/thinair.jpg" alt="book-the-black-swan" width="122" height="180"></a><a href="http://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/">The Black Swan: The Impact of the Highly Improbable</a></h3>
 
 <p>Nassim Nicholas Taleb</p>
 
