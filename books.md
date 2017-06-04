@@ -180,6 +180,21 @@ permalink: /books/
 <hr>
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="http://qasaryounis.com/assets/vul.jpg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731">Where Vultures Feast</a></h3>
+
+<p>Ike Okonta</p>
+
+<p>This book is not only an education on Niger Delta and its people, but also on the blind spots of capitalism. Reading this book opened my eyes to the modern ways that managment of large, private organizations can participate in gross abuse. </p>
+</div>
+<hr>
+
+
+
+
+
+
 <!--
 
 <div class = "bookContainer">
