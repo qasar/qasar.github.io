@@ -182,7 +182,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="http://qasaryounis.com/assets/vul.jpg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731">Where Vultures Feast</a></h3>
+<h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="http://qasaryounis.com/assets/vul.jpeg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731">Where Vultures Feast</a></h3>
 
 <p>Ike Okonta</p>
 
