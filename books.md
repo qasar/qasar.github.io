@@ -73,7 +73,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="http://qasaryounis.com/assets/billg.jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133">The Road Ahead</a></h3>
+<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="book" src="http://qasaryounis.com/assets/gates.jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133">The Road Ahead</a></h3>
 
 <p>Bill Gates</p>
 
