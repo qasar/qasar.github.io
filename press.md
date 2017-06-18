@@ -3,7 +3,7 @@ title: Notable Press
 permalink: /press/
 ---
 
-<a href="http://fortune.com/2017/04/27/term-sheet-thursday-april-27/">Term Sheet </a> (Fortune)
+<a href="http://fortune.com/2017/04/27/term-sheet-thursday-april-27/">Term Sheet - People Moves </a> (Fortune)
 
 <a href="https://www.facebook.com/qasar/posts/10154710776519865"> Thank you, Y Combinator! </a> (Self published)
 
