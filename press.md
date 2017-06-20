@@ -3,8 +3,6 @@ title: Notable Press
 permalink: /press/
 ---
 
-<a href="http://fortune.com/2017/04/27/term-sheet-thursday-april-27/">Term Sheet - People Moves </a> (Fortune)
-
 <a href="https://www.facebook.com/qasar/posts/10154710776519865"> Thank you, Y Combinator! </a> (Self published)
 
 <a href="https://www.washingtonpost.com/news/the-switch/wp/2016/08/29/inside-one-of-silicon-valleys-most-celebrated-rituals-raising-cash/">Inside Silicon Valley’s Most Grueling Ritual </a> (Washington Post, Profile)
