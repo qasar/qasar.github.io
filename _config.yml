@@ -52,6 +52,7 @@ defaults:
       layout:       "post"
 
 gems:
+  - jekyll-sitemap
   - jekyll-seo-tag
 
 future: true
