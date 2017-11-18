@@ -162,7 +162,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="http://qasaryounis.com/assets/fooled.jpg" width="122" height="180"></a><a href="http://montecristomagazine.com/wp-content/uploads/2014/09/7-3-Montecristo-Magazine-Autumn-2014-artifacts_page_1_image_0003.jpg">Fooled by Randomness</a></h3>
+<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="http://qasaryounis.com/assets/fooled.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219">Fooled by Randomness</a></h3>
 
 <p>Nassim Nicholas Taleb</p>
 
