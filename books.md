@@ -110,7 +110,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="http://qasaryounis.com/assets/king.jpg" alt="book-king" width="122" height="180"></a><a href="hhttps://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816">On Writingt</a></h3>
+<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="http://qasaryounis.com/assets/king.jpg" alt="book-king" width="122" height="180"></a><a href="hhttps://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816">On Writing</a></h3>
 
 <p>Stephen King</p>
 
