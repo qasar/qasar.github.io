@@ -108,6 +108,20 @@ permalink: /books/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="http://qasaryounis.com/assets/king.jpg" alt="book-king" width="122" height="180"></a><a href="hhttps://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816">On Writingt</a></h3>
+
+<p>Stephen King</p>
+
+<p>This book is both well written as a memoir and as an informal instruction manual. In someways it's the writers version of Ray Dalios book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill and luck. </p>
+
+</div>
+<hr>
+
+
+
+
 
 <div class = "bookContainer">
 
@@ -193,16 +207,6 @@ permalink: /books/
 
 
 
-<div class = "bookContainer">
-
-<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="http://qasaryounis.com/assets/king.jpg" alt="book-king" width="122" height="180"></a><a href="hhttps://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816">On Writing: A Memoir of the Craft</a></h3>
-
-<p>Stephen King</p>
-
-<p>This book is both well written as a memoir and as an informal instruction manual. In someways it's the writers version of Ray Dalios book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill and luck. </p>
-
-</div>
-<hr>
 
 
 
