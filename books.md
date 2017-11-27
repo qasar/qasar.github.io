@@ -24,7 +24,7 @@ permalink: /books/
 
 <p>Mohandas Karamchand Gandhi</p>
 
-<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century as its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
+<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century considering its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
 </div>
 <hr>
 
@@ -50,7 +50,7 @@ permalink: /books/
 
 <h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="http://qasaryounis.com/assets/malc.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
-<p>This books is a must read for anyone who is interested in the American experience. The three transformations in Malcolm X's life are as  fascinating as they are dramatic. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting mark on our culture.  
+<p>This books is a must read for anyone who is interested in the American experience. The three periods in Malcolm X's life are as  fascinating as they are dramatic: drug dealer, member of the Nation, and finally orthodox Islam. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting and distinct mark on American culture.  
 </p>
 </div>
 <hr>
