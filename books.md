@@ -24,7 +24,7 @@ permalink: /books/
 
 <p>Mohandas Karamchand Gandhi</p>
 
-<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written.</p>
+<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century as its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
 </div>
 <hr>
 
