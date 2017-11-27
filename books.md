@@ -178,7 +178,7 @@ permalink: /books/
 
 <p>Said K. Aburish</p>
 
-<p>I read this book sometime before the 2003 Iraq invasion. In some ways the handwriting was on the wall then that could have helped us avoid the catastrophe that has unfolded over the past many years. Although the book provides a comprehensive study of Hussein, it's also a good read to understand Iraq and recent history of its people.</p>
+<p>I read this book sometime before the 2003 Iraq invasion. In some ways the handwriting was on the wall then that could have helped us avoid the catastrophe that has unfolded over the past many years. Although the book provides a comprehensive study of Hussein, it's also a good read to understand Iraq and its recent history.</p>
 </div>
 <hr>
 
