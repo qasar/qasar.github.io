@@ -53,6 +53,7 @@ defaults:
 
 gems:
 - jekyll-seo-tag
+- jekyll-sitemap
 
 plugins:
 - jekyll-sitemap
