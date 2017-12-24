@@ -53,9 +53,6 @@ defaults:
 
 gems:
 - jekyll-seo-tag
-
-plugins:
 - jekyll-sitemap
-
 
 future: true
