@@ -56,7 +56,3 @@ gems:
   - jekyll-seo-tag
 
 future: true
-
-plugins:
-  - jekyll-sitemap
-
