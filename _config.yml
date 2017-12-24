@@ -13,7 +13,7 @@ twitter:
 
 # URL
 #baseurl:            "https://rohanpai.github.io/website"
-baseurl:            "http://qasaryounis.com" #For Root Domain
+#baseurl:            "http://qasaryounis.com" #For Root Domain
 permalink:          /essays/:title/
 
 # Markdown
@@ -53,6 +53,8 @@ defaults:
 
 gems:
 - jekyll-seo-tag
+
+plugins:
 - jekyll-sitemap
 
 future: true
