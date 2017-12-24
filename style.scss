@@ -442,7 +442,9 @@ tbody tr:nth-child(odd) th {
 
 @media screen and (max-width: 850px) {
 
-  #imageText {height: 65px;
+  #imageText {
+    height: 65px;
+    width: 600px;
 }
   
   
