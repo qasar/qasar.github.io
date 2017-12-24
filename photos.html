@@ -47,14 +47,17 @@ function next() {
       imgCount++;		
     }		
    document.getElementById("gallery").src = imageGallery[imgCount];		
-   document.getElementById("imageText").innerHTML = imageText[imgCount]; 		
+   document.getElementById("imageText").innerHTML = imageText[imgCount];
+	document.getElementById('currentImage').innerHTML = imgCount + 1
 }		
 		
 function previous() {		
     imgCount--;		
   if(imgCount < 0) imgCount = totalImgs ;		
        document.getElementById("gallery").src = imageGallery[imgCount];  		
-       document.getElementById("imageText").innerHTML = imageText[imgCount];  		
+       document.getElementById("imageText").innerHTML = imageText[imgCount]; 
+	       document.getElementById('currentImage').innerHTML = imgCount + 1
+
     } 		
 		
 document.addEventListener("keydown", function(e){		
@@ -75,7 +78,8 @@ document.addEventListener("keydown", function(e){
 <div id="gallerycontainer">		
 <div class="buttons">		
 <a href="#" onclick="previous(); return false;">Back</a> |		
-<a href="#" onclick="next(); return false;">Next</a> 		
+<a href="#" onclick="next(); return false;">Next</a>
+	<span style="float:right; color: #aaa;"> <span id="currentImage">0</span> of <span id="totalImages">5</span></span>
 </div>		
 <div id="imageText">"We shall not cease from exploration, and the end of all our exploring, will be to arrive where we started, and know the place for the first time. -T. S. Eliot"
 </div>		
@@ -89,5 +93,9 @@ document.addEventListener("keydown", function(e){
 </div>
 
 
+<script>
+document.getElementById('currentImage').innerHTML = imgCount + 1
+document.getElementById('totalImages').innerHTML = imageGallery.length
 
+</script>
 
