@@ -3,7 +3,7 @@ name:               "Qasar Younis"
 description:        "My name is Qasar Younis - this is my homepage. I'm a founder, engineer, and angel investor."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//qasaryounis.com"
+url:                "http://qasaryounis.com"
 author:             "Qasar Younis"
 twitter:
   username:         "qasar"
