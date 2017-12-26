@@ -43,7 +43,15 @@ var imageText = [
 	
 var imgCount = 0;		
 var totalImgs = imageGallery.length -1;		
+
+function preloadImages() {
+  for (var i = 0; i < imageGallery.length; i++) {
+    img1 = new Image();
+    img1.src = imageGallery[i];
+  }
+}
 		
+	
 function next() {		
     if(imgCount == totalImgs){		
       imgCount = 0;		
@@ -74,6 +82,15 @@ document.addEventListener("keydown", function(e){
 });		
 
 	
+function handlePhotoClick(event, img) {
+        var posX = event.offsetX?(event.offsetX):event.pageX-img.offsetLeft;
+        var posY = event.offsetY?(event.offsetY):event.pageY-img.offsetTop;
+        if (posX > img.width / 2) {
+          next()
+        } else {
+          previous()
+        }
+}
 	
 	
 </script>		
@@ -87,7 +104,7 @@ document.addEventListener("keydown", function(e){
 </div>		
 <div id="imageText">"We shall not cease from exploration, and the end of all our exploring, will be to arrive where we started, and know the place for the first time. -T. S. Eliot"
 </div>		
-<img id="gallery" onclick="next()" src=	"http://qasaryounis.com/assets/mor1.jpg",
+<img id="gallery" onclick="handlePhotoClick(event, this)"  src=	"http://qasaryounis.com/assets/mor1.jpg",
 ",		
  >		
 		
@@ -100,6 +117,6 @@ document.addEventListener("keydown", function(e){
 <script>
 document.getElementById('currentImage').innerHTML = imgCount + 1
 document.getElementById('totalImages').innerHTML = imageGallery.length
-
+preloadImages()
 </script>
 
