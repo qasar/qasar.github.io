@@ -137,6 +137,18 @@ permalink: /books/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/Adventures-White-Collar-Man-Alfred-Sloan/dp/0836954858" target="_blank"><img class="book" src="http://qasaryounis.com/assets/adv.jpg" alt="book-sloan" width="122" height="180"></a><a href="https://www.amazon.com/Adventures-White-Collar-Man-Alfred-Sloan/dp/0836954858">Adventures of a White-Collar Man</a></h3>
+
+<p>Alfred P. Sloan</p>
+
+<p>After a few pages of this book, I knew it would be amazing. It is the history of the early auto industry from the perspective of Alfred P. Sloan in 1941. It is littered with locations that I grew up in and went to school around. Sloan's pragmatic approach is refreshing and resonates with my own view of organizations within technical businesses. No surprise, I finished the book the same day I started it.</p>
+</div>
+<hr>
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="http://qasaryounis.com/assets/lenin.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286">Lenin</a></h3>
 
 <p>Robert Service </p>
