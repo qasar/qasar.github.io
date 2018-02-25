@@ -183,6 +183,25 @@ permalink: /books/
 <hr>
 
 
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/dp/1508483116/ref=cm_sw_r_cp_ep_dp_oWYKAbSQE8PCW" target="_blank"><img class="book" src="http://qasaryounis.com/assets/booker.jpg" alt="book-washington" width="122" height="180"></a><a href="https://www.amazon.com/dp/1508483116/ref=cm_sw_r_cp_ep_dp_oWYKAbSQE8PCW">Up From Slavery</a></h3>
+
+<p>Booker T. Washington</p>
+
+<p>Shortly before Booker T. Washington was freed from slavery in his early teens, Abraham Lincoln wrote: "If slavery isn't wrong, nothing is wrong." Washington would spend most of his life not fighting for freedom but the long shadow of slavery. He recounts literally building Tuskeegee and puts forward a role model for self-reliance. After reading his own words, I'm not someone who cannot support the criticism Washington received later in his life, most notably from W.E.B. Dubois. Washington was pragmatic and through that lens spoke on the condition of America at the time.</p>
+</div>
+<hr>
+
+
+
+
+
+
+
+
 <div class = "bookContainer">
 
 <h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="http://qasaryounis.com/assets/sad.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501">The Politics of Revenge</a></h3>
@@ -202,6 +221,17 @@ permalink: /books/
 <p>Steve Martin</p>
 
 <p>Unsurprisingly maybe, there are many similarities to starting a stand up career and being a founder. Stand up is one of my favorite forms of entertainment because how unvarnished it is. You can't fake being a good stand up comedian. Similarly you can't fake building a great product. Martin, without any pretension, revels the struggle of the art. The book is both honest, entertaining and moving.</p>
+</div>
+<hr>
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698" target="_blank"><img class="book" src="http://qasaryounis.com/assets/dar.jpg" alt="book-darwin" width="122" height="180"></a><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698">Charles Darwin: 1809-1882</a></h3>
+
+<p>Charles Darwin</p>
+
+<p>One of the most striking things about Darwin is his amazing work ethic. What I found inspiring is the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. The reason this isn't championed more as a path to success is probably that is that its boring and we are by nature social animals. Also intriguing about Darwin is the non-obvious nature of his impact. I think there is little evidence in his teens that he would have become such an influential scientist.</p>
 </div>
 <hr>
 
