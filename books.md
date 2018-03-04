@@ -224,6 +224,25 @@ permalink: /books/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/">Barbarians at the Gate: The Fall of RJR Nabisco</a></h3>
+
+<p>Bryan Burrough, John Helyar</p>
+
+<p>Is 800 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than canon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
+</div>
+<hr>
+
+
+
+
+
+
+
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698" target="_blank"><img class="book" src="http://qasaryounis.com/assets/dar.jpg" alt="book-darwin" width="122" height="180"></a><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698">Charles Darwin: 1809-1882</a></h3>
 
 <p>Charles Darwin</p>
