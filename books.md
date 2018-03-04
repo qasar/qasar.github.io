@@ -191,12 +191,9 @@ permalink: /books/
 
 <p>Booker T. Washington</p>
 
-<p>Shortly before Booker T. Washington was freed from slavery in his early teens, Abraham Lincoln wrote: "If slavery isn't wrong, nothing is wrong." Washington would spend most of his life not fighting for freedom but the long shadow of slavery. He recounts literally building Tuskeegee and puts forward a role model for self-reliance. After reading his own words, I'm not someone who cannot support the criticism Washington received later in his life, most notably from W.E.B. Dubois. Washington was pragmatic and through that lens spoke on the condition of America at the time.</p>
+<p>Shortly before Booker T. Washington was freed from slavery in his early teens, Abraham Lincoln wrote: "If slavery isn't wrong, nothing is wrong." Washington would spend most of his life not fighting for freedom but the long shadow of slavery. He recounts literally building Tuskeegee and puts forward a role model for self-reliance. After reading his own words, I'm someone who cannot support the criticism Washington received later in his life, most notably from W.E.B. Dubois. Washington was pragmatic and through that lens spoke on the condition of America at the time.</p>
 </div>
 <hr>
-
-
-
 
 
 
@@ -231,7 +228,7 @@ permalink: /books/
 
 <p>Charles Darwin</p>
 
-<p>One of the most striking things about Darwin is his amazing work ethic. What I found inspiring is the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. The reason this isn't championed more as a path to success is probably that is that its boring and we are by nature social animals. Also intriguing about Darwin is the non-obvious nature of his impact. I think there is little evidence in his teens that he would have become such an influential scientist.</p>
+<p>One of the most striking things about Darwin was his amazing work ethic. What I found inspiring was the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. Perhaps the reason this isn't championed more often as a path to success is that it is boring and by nature we are social animals. Also intriguing about Darwin is the non-obvious nature of his impact. There seems little evidence from Darwin's teenage years that he would become such an influential scientist.</p>
 </div>
 <hr>
 
