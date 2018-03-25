@@ -158,6 +158,23 @@ permalink: /books/
 <hr>
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Next-Kin-My-Conversations-Chimpanzees/dp/0380728222" target="_blank"><img class="book" src="http://qasaryounis.com/assets/kin.jpg" alt="book-kin" width="122" height="180"></a><a href="https://www.amazon.com/Next-Kin-My-Conversations-Chimpanzees/dp/0380728222">Next of Kin</a></h3>
+
+<p>Roger Fouts</p>
+
+<p>I mistakenly picked up this book thinking it was In The Shadow of Man. Nonetheless, it ended up being incredible. It filled in the missing pieces in my brain that shows a clear link to other animals. The latter part of this book delivers an emotional impact. Once the reader can see that chimpanzees are indeed more human than we have considered, its hard to sad to see how they are treated. It's hearting to realize we made good progress since this book has been written to address this type of abuse.</p>
+</div>
+<hr>
+
+
+
+
+
+
+
+
 
 
 <div class = "bookContainer">
