@@ -164,7 +164,7 @@ permalink: /books/
 
 <p>Roger Fouts</p>
 
-<p>I mistakenly picked up this book thinking it was In The Shadow of Man. Nonetheless, it ended up being incredible. It filled in the missing pieces in my brain that shows a clear link to other animals. The latter part of this book delivers an emotional impact. Once the reader can see that chimpanzees are indeed more human than we have considered, its hard to sad to see how they are treated. It's hearting to realize we made good progress since this book has been written to address this type of abuse.</p>
+<p>I mistakenly picked up this book thinking it was <i>In The Shadow of Man</i>. Nonetheless, it ended up being incredible. It filled in the missing pieces in my brain that shows a clear link to other animals. The latter part of this book delivers an emotional impact. Once the reader can see that chimpanzees are indeed more human than we have considered, it's sad to see how they were being treated. It's hearting to realize we made good progress since this book was written to address this type of abuse.</p>
 </div>
 <hr>
 
