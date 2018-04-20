@@ -241,7 +241,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/">Barbarians at the Gate: The Fall of RJR Nabisco</a></h3>
+<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/">Barbarians at the Gate</a></h3>
 
 <p>Bryan Burrough, John Helyar</p>
 
@@ -280,6 +280,15 @@ permalink: /books/
 <hr>
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X" target="_blank"><img class="book" src="http://qasaryounis.com/assets/ogi.jpg" alt="book-ogilvy" width="122" height="180"></a><a href="https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X">Confessions of an Advertising Man</a></h3>
+
+<p>David Ogilvy</p>
+
+<p>An excellent book if you are interested specifically in the art of advertising, marketing, selling or more broadly business. Ogilvy is clearly a master of his craft and it's surprising that this book was only written a dozen years after he founded his famous agency. The style is direct and sharp to the point you can almost hear the author speaking. He methodically goes through things like how to win and keep clients, how to write great copy and how advertising between mediums is different. Lastly, the book is a good time capsule into how advertising was. It would be interesting to see Ogilvy write a page on search ads.</p>
+</div>
+<hr>
 
 
 
