@@ -304,6 +304,17 @@ permalink: /books/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Waiting-Godot-Tragicomedy-Two-Acts/dp/080214442X" target="_blank"><img class="book" src="http://qasaryounis.com/assets/wait.jpg" alt="book-godot" width="122" height="180"></a><a href="https://www.amazon.com/Waiting-Godot-Tragicomedy-Two-Acts/dp/080214442X">Waiting for Godot</a></h3>
+
+<p>Samuel Beckett</p>
+
+<p>I'm fairly certain when if I had read this play without the accompanying analysis, it wouldn't have the impact that it did. However, thankfully, that wasn't the case. Although the work is high art, it delivers in force that's usually not commonly associated with the genre. The work is an example of stipping ideas down to their bare bones to see their inner machinations.
+</p>
+
+</div>
+<hr>
 
 
 
