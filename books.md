@@ -292,6 +292,19 @@ permalink: /books/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X" target="_blank"><img class="book" src="http://qasaryounis.com/assets/when.jpg" alt="book-when" width="122" height="180"></a><a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X">When Breath Becomes Air</a></h3>
+
+<p>Paul Kalanithi</p>
+
+<p>This is one of the most powerful stories I've ever read. It's heartbreaking and deeply emotional but does what the author intended: to give some guidance on how to approach death. His experience is particularly suited for the grim task at hand. Kalanithi understands both the biological and philosophical facets of death and can eloquently communicate his approach through his superb writing. As I read about him and his life, one thought kept going through my head: what a tragedy.</p>
+</div>
+<hr>
+
+
+
+
 
 
 
