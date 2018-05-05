@@ -159,6 +159,24 @@ permalink: /books/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/Kingdom-Auschwitz-1940-1945-Otto-Friedrich/dp/0060976403" target="_blank"><img class="book" src="http://qasaryounis.com/assets/aus.jpg" alt="book-kingdom" width="122" height="180"></a><a href="https://www.amazon.com/Kingdom-Auschwitz-1940-1945-Otto-Friedrich/dp/0060976403">The Kingdom of Auschwitz: 1940-1945</a></h3>
+
+<p>Otto Friedrich</p>
+
+<p>I’m not sure how I would react to the holocaust if I was Jewish. I imagine it’s a tragedy so profound and vast that it would impact almost everything I would come in contact with. Similar to American slavery, my fear is one day we will come take for granted that humans did this to each other. And because of this, perhaps take us down a path which we’ve already shamefully walked. This book overwhelmingly emotional.</p>
+</div>
+<hr>
+
+
+
+
+
+
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="http://qasaryounis.com/assets/lenin.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286">Lenin</a></h3>
 
 <p>Robert Service </p>
@@ -166,6 +184,8 @@ permalink: /books/
 <p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediately read his book on Stalin right after this and once again, I was not disappointed. </p>
 </div>
 <hr>
+
+
 
 
 <div class = "bookContainer">
@@ -177,11 +197,6 @@ permalink: /books/
 <p>I mistakenly picked up this book thinking it was <i>In The Shadow of Man</i>. Nonetheless, it ended up being incredible. It filled in the missing pieces in my brain that shows a clear link to other animals. The latter part of this book delivers an emotional impact. Once the reader can see that chimpanzees are indeed more human than we have considered, it's sad to see how they were being treated. It's hearting to realize we made good progress since this book was written to address this type of abuse.</p>
 </div>
 <hr>
-
-
-
-
-
 
 
 
@@ -262,6 +277,7 @@ permalink: /books/
 <hr>
 
 
+
 <div class = "bookContainer">
 
 <h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="http://qasaryounis.com/assets/vul.jpeg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731">Where Vultures Feast</a></h3>
@@ -271,6 +287,7 @@ permalink: /books/
 <p>This book is not only an education on Niger Delta and its people, but also on the blind spots of capitalism. Reading this book opened my eyes to the modern ways that managment of large, private organizations can participate in gross abuse. </p>
 </div>
 <hr>
+
 
 
 <div class = "bookContainer">
