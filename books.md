@@ -43,6 +43,16 @@ permalink: /books/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/">Barbarians at the Gate</a></h3>
+
+<p>Bryan Burrough, John Helyar</p>
+
+<p>Is 800 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than canon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
+</div>
+<hr>
+
 
 
 
@@ -50,7 +60,7 @@ permalink: /books/
 
 <h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="http://qasaryounis.com/assets/malc.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
-<p>This books is a must read for anyone who is interested in the American experience. The three periods in Malcolm X's life are as  fascinating as they are dramatic: drug dealer, member of the Nation, and finally orthodox Islam. After reading, one can't help but think he was one of the greatest Americans that have ever lived. There are few people that have left such a lasting and distinct mark on American culture.  
+<p>This book is a must-read for anyone who is interested in the American experience. The three periods in Malcolm X's life are as  fascinating as they are dramatic: drug dealer, member of the Nation, and finally orthodox Islam. There are few people that have left such a lasting and distinct mark on American culture. In many ways, he embodied what it is to be American. 
 </p>
 </div>
 <hr>
@@ -237,23 +247,6 @@ permalink: /books/
 <p>Unsurprisingly maybe, there are many similarities to starting a stand up career and being a founder. Stand up is one of my favorite forms of entertainment because how unvarnished it is. You can't fake being a good stand up comedian. Similarly you can't fake building a great product. Martin, without any pretension, revels the struggle of the art. The book is both honest, entertaining and moving.</p>
 </div>
 <hr>
-
-
-<div class = "bookContainer">
-
-<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/">Barbarians at the Gate</a></h3>
-
-<p>Bryan Burrough, John Helyar</p>
-
-<p>Is 800 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than canon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
-</div>
-<hr>
-
-
-
-
-
-
 
 
 
