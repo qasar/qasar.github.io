@@ -49,7 +49,7 @@ permalink: /books/
 
 <p>Bryan Burrough, John Helyar</p>
 
-<p>Is 800 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than canon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
+<p>Is 500 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than canon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
 </div>
 <hr>
 
