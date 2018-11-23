@@ -280,6 +280,21 @@ permalink: /books/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/dp/1612191924/" target="_blank"><img class="book" src="https://www.amazon.com/dp/1612191924/" alt="book-chaplin" width="122" height="180"></a><a href="http://a.co/d/13LjD42">My Autobiography</a></h3>
+
+<p>Charlie Chaplin</p>
+
+<p>Chaplin's emphasis on his childhood drives home an important point David McCullough once made: history is who we are and why we are the way we are. Only knowing about Chaplin as a caricature, I wasn't expecting much. However his story is nothing but incredible and he is nothing less than a genius.</p>
+</div>
+<hr>
+
+
+
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="http://qasaryounis.com/assets/vul.jpeg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731">Where Vultures Feast</a></h3>
 
 <p>Ike Okonta</p>
