@@ -6,6 +6,18 @@ permalink: /books/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="http://qasaryounis.com/assets/jid.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317">The First and Last Freedom</a></h3>
+
+<p>Jiddu Krishnamurti</p>
+
+<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurthi explains, in painstaking detail things that are so simple that at first they are overlooked. Upon completion, I closed the book and the back cover has a quote: "Truth is a pathless land" and I think I have finally begun to grasp what that means.</p>
+</div>
+<hr>
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="http://qasaryounis.com/assets/command.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X">The Commanding Heights</a></h3>
 
 <p>Daniel Yergin and Joseph Stanislaw</p>
