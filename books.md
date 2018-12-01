@@ -10,7 +10,8 @@ permalink: /books/
 
 <p>Jiddu Krishnamurti</p>
 
-<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurthi explains, in painstaking detail things that are so simple that at first they are overlooked. Upon completion, I closed the book and the back cover has a quote: "Truth is a pathless land" and I think I have finally begun to grasp what that means.</p>
+<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurthi explains, in painstaking detail things that are so simple yet profound, that at first, I couldn't grasp them. I realized many assumptions are so ossified in our minds, that one can barely recognize their existence. Upon completion, I closed the book and saw the quote on the back cover: "Truth is a pathless land" and could begin to understand what that means.</p>
+
 </div>
 <hr>
 
