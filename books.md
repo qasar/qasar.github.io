@@ -29,19 +29,6 @@ permalink: /books/
 
 
 
-<!-- GHANDI -->
-<div class = "bookContainer">
-
-<h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="http://qasaryounis.com/assets/mohan.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934">The Story of My Experiments with Truth</a></h3>
-
-<p>Mohandas Karamchand Gandhi</p>
-
-<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century considering its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
-</div>
-<hr>
-
-
-
 
 <div class = "bookContainer">
 
@@ -351,8 +338,20 @@ permalink: /books/
 </p>
 
 </div>
+
+
 <hr>
 
+<!-- GHANDI -->
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="http://qasaryounis.com/assets/mohan.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934">The Story of My Experiments with Truth</a></h3>
+
+<p>Mohandas Karamchand Gandhi</p>
+
+<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century considering its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
+</div>
+<hr>
 
 
 
