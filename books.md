@@ -45,6 +45,19 @@ permalink: /books/
 
 <div class = "bookContainer">
 
+<h3><a href="https://www.amazon.com/Ghana-Autobiography-Kwame-Nkrumah/dp/0717802949" target="_blank"><img class="book" src="http://qasaryounis.com/assets/kwa.jpg" alt="book-ghana" width="122" height="180"></a><a href="https://www.amazon.com/Ghana-Autobiography-Kwame-Nkrumah/dp/0717802949">Ghana</a></h3>
+
+<p>Kwame Nkrumah</p>
+
+<p>Self-rule is a luxury that many people don't understand or, perhaps, appreciate. Before I could actually travel to West Africa, I wanted to learn more and found this book to exceed all expectations. The account of leading the Gold Coast to become Ghana is fascinating but, almost predictably, non-linear. Nkrumah would be overthrown for his left-leaning policies and would become a footnote in the global power struggle for dominance between capitalism and communism.</p>
+</div>
+<hr>
+
+
+
+
+<div class = "bookContainer">
+
 <h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/">Barbarians at the Gate</a></h3>
 
 <p>Bryan Burrough, John Helyar</p>
