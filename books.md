@@ -6,7 +6,7 @@ permalink: /books/
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="http://qasaryounis.com/assets/jid.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317">The First and Last Freedom</a></h3>
+<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="http://qasaryounis.com/assets/jid.jpg" alt="book-jiddu" width="122" height="180"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317">The First and Last Freedom</a></h3>
 
 <p>Jiddu Krishnamurti</p>
 
@@ -79,6 +79,20 @@ permalink: /books/
 <hr>
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495" target="_blank"><img class="book" src="http://qasaryounis.com/assets/mac.jpg" alt="book-mac" width="122" height="180"></a><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495">In Retrospect: The Tragedy and Lessons of Vietnam</a></h3>
+
+<p>Robert S. McNamara</p>
+
+<p>I've read a number of books on Vietnam but this book shows, better than others, how muddy the decisions were. McNamara has said himself, "the primary responsibility of a president is to keep the nation out of war, if at all possible" and I wonder how much of that belief is impacted by his experience in the Vietnam War. What I really enjoyed about this book is how absolutely detailed it is. It is a must-read for anyone who is interested in the topic or the mechanics of leadership under fire.</p>
+</div>
+<hr>
+
+
+
+
+
 
 
 <div class = "bookContainer">
@@ -87,7 +101,7 @@ permalink: /books/
 
 <p>Bill Gates</p>
 
-<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. I read it shortly before I moved into high tech from the automotive industry and served as a great primer to how much things can change in a short time. The ideas now seem dated and the book serves more as a historical account then anything else but it's still great.</p>
+<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. I read it shortly before I moved into high tech from the automotive industry and served as a great primer to how much things can change in a short time. The ideas are still fascinating and the book also serves as a great snapshot of what the technology world looked like as it was being engulfed by the internet.</p>
 </div>
 <hr>
 
