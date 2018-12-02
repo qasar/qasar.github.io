@@ -85,7 +85,7 @@ permalink: /books/
 
 <p>Robert S. McNamara</p>
 
-<p>I've read a number of books on Vietnam but this book shows, better than others, how muddy the decisions were. McNamara has said himself, "the primary responsibility of a president is to keep the nation out of war, if at all possible" and I wonder how much of that belief is impacted by his experience in the Vietnam War. What I really enjoyed about this book is how absolutely detailed it is. It is a must-read for anyone who is interested in the topic or the mechanics of leadership under fire.</p>
+<p>I've read a number of books on the Vietnam War but this book shows, better than others, how muddy the enviroment was in which decisions had to be made. McNamara has said himself, "the primary responsibility of a president is to keep the nation out of war, if at all possible" and I wonder how much of that belief is impacted by his experience in the Vietnam War. What I really enjoyed about this book is how absolutely detailed it is. It is a must-read for anyone who is interested in the topic or the mechanics of leadership under fire.</p>
 </div>
 <hr>
 
