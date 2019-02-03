@@ -390,7 +390,7 @@ permalink: /books/
 
 <p>Peter Kropotkin</p>
 
-<p>Considering the book is written in 1892 and considered to be the flag bearer of anarchists and communists, there are some ideas which are not totally wrong. Specifically calling out that socialism can have a dangerous authoritarian bent almost prophetically predicts the disaster of Marxist-Leninist Communism. The books is still an important read as it is the source material for many revolutionaries. It is also a good way to trace the origin of some faulty anti-capitalist and pro-anarchist ideology.</p>
+<p>Considering the book is written in 1892 and considered to be the flag bearer of anarchists and communists, there are some ideas which are not totally wrong. Specifically calling out that socialism can have a dangerous authoritarian bent almost prophetically predicts the disaster of Marxist-Leninist Communism. The books is still an important read as it is the source material for many revolutionaries.</p>
 
 </div>
 
