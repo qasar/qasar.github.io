@@ -364,13 +364,9 @@ permalink: /books/
 
 <p>I'm fairly certain when if I had read this play without the accompanying analysis, it wouldn't have the impact that it did. However, thankfully, that wasn't the case. Although the work is high art, it delivers in force that's usually not commonly associated with the genre. The work is an example of stipping ideas down to their bare bones to see their inner machinations.
 </p>
-
 </div>
-
-
 <hr>
 
-<!-- GHANDI -->
 <div class = "bookContainer">
 
 <h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="http://qasaryounis.com/assets/mohan.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934">The Story of My Experiments with Truth</a></h3>
@@ -393,6 +389,8 @@ permalink: /books/
 <p>Considering the book is written in 1892 and considered to be the flag bearer of anarchists and communists, there are some ideas which are not totally wrong. Specifically calling out that socialism can have a dangerous authoritarian bent almost prophetically predicts the disaster of Marxist-Leninist Communism. The books is still an important read as it is the source material for many revolutionaries.</p>
 
 </div>
+<hr>
+
 
 
 
@@ -405,6 +403,7 @@ permalink: /books/
 <p>Wow, this is an incredible book. Many books can be shortened to an article, many articles shortened to a paragraph. For Warhol's book, the opposite is true. Some paragraphs could be turned into full books. I give it the highest compliment I can: the book is art.</p>
 
 </div>
+<hr>
 
 
 
