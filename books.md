@@ -384,6 +384,19 @@ permalink: /books/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Conquest-History-Political-Social-Science/dp/0486478505" target="_blank"><img class="book" src="http://qasaryounis.com/assets/conq.jpg" alt="book-kropotkin" width="122" height="180"></a><a href="https://www.amazon.com/Conquest-History-Political-Social-Science/dp/0486478505">The Conquest of Bread</a></h3>
+
+<p>Peter Kropotkin</p>
+
+<p>Considering the book is written in 1892 and considered to be the flag bearer of anarchists and communists, there are some ideas which are not totally wrong. Specifically calling out that socialism can have a dangerous authoritarian bent almost prophetically predicts the disaster of Marxist-Leninist Communism. The books is still an important read as it is the source material for many revolutionaries. It is also a good way to trace the origin of some faulty anti-capitalist and pro-anarchist ideology.</p>
+
+</div>
+
+
+
+
 
 
 
