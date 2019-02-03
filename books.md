@@ -396,6 +396,17 @@ permalink: /books/
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Philosophy-Andy-Warhol-Back-Again/dp/0156717204" target="_blank"><img class="book" src="http://qasaryounis.com/assets/warh.jpg" alt="book-warhol" width="122" height="180"></a><a href="https://www.amazon.com/Philosophy-Andy-Warhol-Back-Again/dp/0156717204">The Philosophy of Andy Warhol</a></h3>
+
+<p>Andy Warhol</p>
+
+<p>Wow, this is an incredible book. Many books can be shortened to an article, many articles shortened to a paragraph. For Warhol's book, the opposite is true. Some paragraphs could be turned into full books. I give it the highest compliment I can: the book is art.</p>
+
+</div>
+
+
 
 
 
