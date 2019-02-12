@@ -402,9 +402,11 @@ tbody tr:nth-child(odd) th {
 .list {
   &-post-title {
     margin-bottom: .25rem;
-
+    font-size: 1rem;
+    
     a {
       color: #333;
+      
 
       &:hover,
       &:focus {
