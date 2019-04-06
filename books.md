@@ -151,7 +151,7 @@ permalink: /books/
 
 <p>Stephen King</p>
 
-<p>This book is both well written as a memoir and as an informal instruction manual. In someways it's the writers version of Ray Dalios book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill and luck. </p>
+<p>This book is both well written as a memoir and as an informal instruction manual. In someways it's the writers version of Ray Dalios book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill, and luck. </p>
 
 </div>
 <hr>
