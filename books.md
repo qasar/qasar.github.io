@@ -3,6 +3,15 @@ title: Books
 permalink: /books/
 ---
 
+Below are a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influened my thoughts.
+
+<p>&nbsp;</p>
+
+<i> Update July 2019 </i>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 <div class = "bookContainer">
 
