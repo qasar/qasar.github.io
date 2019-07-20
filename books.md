@@ -411,6 +411,20 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 <hr>
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Road-Serfdom-Inherent-Friedrich-Paperback/dp/B010IK60A0/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/hay.jpg" alt="book-hayek" width="122" height="180"></a><a href="https://www.amazon.com/Road-Serfdom-Inherent-Friedrich-Paperback/dp/B010IK60A0/">The Road to Serfdom</a></h3>
+
+<p>F.A. Hayek</p>
+
+<p>This is a towering work. Though I only recently read this book, it aligns with something I wrote in 2006: capitalism delivers in practice what socialism purports in theory -- especially for marginalized groups of society. There is a quote at the beginning of chapter called “The Great Utopia” by Holderlin: “What has always made the state a hell on earth has been precisely that man has tried to make it heaven.” It's worth pointing out that in 1944, I could see Hayek's views would be debatable, but now, over 75 years later (and centrally controlled economies having devastated hundreds of millions of lives), there is no question: open and free markets are the only viable path forward. The exception is in parts of civic life where the supply-demand curve breaks (primarily health, education, and safety).</p>
+
+</div>
+<hr>
+
+
+
+
 
 
 
