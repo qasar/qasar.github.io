@@ -26,7 +26,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="http://qasaryounis.com/assets/command.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X">The Commanding Heights</a></h3>
 
-<p>Daniel Yergin and Joseph Stanislaw</p>
+<p>Daniel Yergin, Joseph Stanislaw</p>
 
 <p>I decided to pursue an economics minor in undergrad after reading this book. A deeply insightful analysis about the debate around the one of the most important questions shaping the last century: central planning vs free market economics. As Stalin said, "Mankind is divided into rich and poor, into property owners and exploited; and to abstract oneself from this fundamental division; and from the antagonism between poor and rich means abstracting oneself from fundamental facts."</p>
 </div>
