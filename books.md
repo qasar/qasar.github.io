@@ -424,6 +424,18 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Russia-Short-History-Abraham-Ascher/dp/1786071428/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/rus.jpg" alt="book-ascher" width="122" height="180"></a><a href="https://www.amazon.com/Russia-Short-History-Abraham-Ascher/dp/1786071428/">Russia: A Short History</a></h3>
+
+<p>Abraham Ascher</p>
+
+<p>This book is a great introduction to Russia. The David McCullough line that "History is who we are and why we are the way we are" could have been written just to only describe the modern Russian Federation. There is almost a direct line from Kievan Rus', through the Tsars, the Soviet Union to the present day. I'm not sure, after strong state control for over a millennium, the Russian people want a Western-style democracy. The history of these people makes one thing clear: they are not Western or Asian. They are Russian.</p>
+
+</div>
+<hr>
+
+
 
 
 
