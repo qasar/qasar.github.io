@@ -3,7 +3,7 @@ title: Books
 permalink: /books/
 ---
 
-Below are a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influened my thoughts.
+Below is a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influenced my thoughts.
 
 <i> Updated July 2019 </i>
 <p>&nbsp;</p>
@@ -67,7 +67,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Bryan Burrough, John Helyar</p>
 
-<p>Is 500 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than canon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
+<p>Is 500 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than cannon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
 </div>
 <hr>
 
@@ -78,7 +78,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="http://qasaryounis.com/assets/malc.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
-<p>This book is a must-read for anyone who is interested in the American experience. The three periods in Malcolm X's life are as  fascinating as they are dramatic: drug dealer, member of the Nation, and finally orthodox Islam. There are few people that have left such a lasting and distinct mark on American culture. In many ways, he embodied what it is to be American. 
+<p>This book is a must-read for anyone who is interested in the American experience. The three periods in Malcolm X's life are as fascinating as they are dramatic: drug dealer, member of the Nation, and finally orthodox Islam. There are few people that have left such a lasting and distinct mark on American culture. In many ways, he embodied what it is to be American. 
 </p>
 </div>
 <hr>
@@ -92,7 +92,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Sam Walton</p>
 
-<p>This is perhaps my all time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. There is an irony in the book title as Walmart has become so synonymous with selling products which are indeed not made in America.</p>
+<p>This is perhaps my all-time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. There is an irony in the book title as Walmart has become so synonymous with selling products which are indeed not made in America.</p>
 </div>
 <hr>
 
@@ -103,7 +103,8 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Robert S. McNamara</p>
 
-<p>I've read a number of books on the Vietnam War but this book shows, better than others, how muddy the enviroment was in which decisions had to be made. McNamara has said himself, "the primary responsibility of a president is to keep the nation out of war, if at all possible" and I wonder how much of that belief is impacted by his experience in the Vietnam War. What I really enjoyed about this book is how absolutely detailed it is. It is a must-read for anyone who is interested in the topic or the mechanics of leadership under fire.</p>
+<p>I've read a number of books on the Vietnam War but this book shows, better than others, how muddy the environment was in which decisions had to be made. McNamara has said himself, "the primary responsibility of a president is to keep the nation out of war, if at all possible" and I wonder how much of that belief is impacted by his experience in the Vietnam War. What I really enjoyed about this book is how absolutely detailed it is. It is a must-read for anyone who is interested in the topic or the mechanics of leadership under fire.</p>
+
 </div>
 <hr>
 
@@ -143,7 +144,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Nelson Mandela</p>
 
-<p>Just looking at the cover of this book stirs a deep emotion in me. It was perhaps the first book that I read out of interest and left a deep impression. Mandela was a revolutionary but unlike others, he succeeded in lifting his people from the yoke of foreign oppression and lived to harvest the fruits of his sacrifice. The tale of South Africa is a bittersweet one however and in the words of Mandela "After climbing a great hill, one only finds that there are many more hills to climb".</p>
+<p>Just looking at the cover of this book stirs deep emotion in me. It was perhaps the first book that I read out of interest and left a deep impression. Mandela was a revolutionary but unlike others, he succeeded in lifting his people from the yoke of foreign oppression and lived to harvest the fruits of his sacrifice. The tale of South Africa is a bittersweet one however and in the words of Mandela "After climbing a great hill, one only finds that there are many more hills to climb".</p>
 </div>
 <hr>
 
@@ -156,7 +157,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Stephen King</p>
 
-<p>This book is both well written as a memoir and as an informal instruction manual. In someways it's the writers version of Ray Dalios book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill, and luck. </p>
+<p>This book is both well written as a memoir and as an informal instruction manual. In someways, it's the writer's version of Ray Dalio's book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill, and luck. </p>
 
 </div>
 <hr>
@@ -171,7 +172,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Jared M. Diamond</p>
 
-<p>This is must read book if you are interested in how civilizations have developed and wonder about questions like "why are some countries rich and others poor?" It's much more dense and therefore rewarding than many pop-culture books that have come to dominate airport convenience shops.</p>
+<p>This is a must-read book if you are interested in how civilizations have developed and wonder about questions like "why are some countries rich and others poor?" It's much more dense and therefore rewarding than many pop-culture books that have come to dominate airport convenience shops.</p>
 </div>
 <hr>
 
@@ -195,13 +196,9 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Otto Friedrich</p>
 
-<p>I’m not sure how I would react to the holocaust if I was Jewish. I imagine it’s a tragedy so profound and vast that it would impact almost everything I would come in contact with. Similar to American slavery, my fear is one day we will come take for granted that humans did this to each other. And because of this, perhaps take us down a path which we’ve already shamefully walked. This book overwhelmingly emotional.</p>
+<p>I’m not sure how I would react to the holocaust if I was Jewish. I imagine it’s a tragedy so profound and vast that it would impact almost everything I would come in contact with. Similar to American slavery, my fear is one day we will come to take for granted that humans did this to each other. And because of this, perhaps take us down a path which we’ve already shamefully walked. This book overwhelmingly emotional.</p>
 </div>
 <hr>
-
-
-
-
 
 
 
@@ -213,7 +210,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Robert Service </p>
 
-<p>To understand the 20th century, one must take sometime to understand Lenin. This is one of the best books i've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject is so good I immediately read his book on Stalin right after this and once again, I was not disappointed. </p>
+<p>To understand the 20th century, one must take some time to understand Lenin. This is one of the best books I've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject are so good I immediately read his book on Stalin right after this and once again, I was not disappointed. </p>
 </div>
 <hr>
 
@@ -240,7 +237,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Jon Krakauer</p>
 
-<p>This is a gripping book that makes mountaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climbing a rock. The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
+<p>This is a gripping book that makes mountaineering seem both amazing and hideous. Reading about the eventual fate of the tragic 1996 Everest expedition that the author was a part of makes the reader ask "why?". Why would you risk life and limb for something so pointless as climbing a rock? The answer dawned on me that it is no less noble than a life wasted away in an office cubicle. </p>
 </div>
 <hr>
 
@@ -252,7 +249,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Nassim Nicholas Taleb</p>
 
-<p>I read this book long before I started investing. It casts a long shadow on the way I think. Most specifically not to over learn in early stage investing in both success and failure. Taleb argues that events that happen with little help from luck are more resistant to randomness. What I learn from that is that there should be some process to drive repeatable outcomes, even in something with as much variance as early stage technology investing.</p>
+<p>I read this book long before I started investing. It casts a long shadow on the way I think. Most specifically not to overlearn in early-stage investing in both success and failure. Taleb argues that events that happen with little help from luck are more resistant to randomness. What I learn from that is that there should be some process to drive repeatable outcomes, even in something with as much variance as early-stage technology investing.</p>
 </div>
 <hr>
 
@@ -276,7 +273,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Daniel Yergin, Joseph Stanislaw</p>
 
-<p>I decided to pursue an economics minor in undergrad after reading this book. A deeply insightful analysis about the debate around the one of the most important questions shaping the last century: central planning vs free market economics. As Stalin said, "Mankind is divided into rich and poor, into property owners and exploited; and to abstract oneself from this fundamental division; and from the antagonism between poor and rich means abstracting oneself from fundamental facts."</p>
+<p>I decided to pursue an economics minor in undergrad after reading this book. A deeply insightful analysis about the debate around the one of the most important questions shaping the last century: central planning vs free-market economics. As Stalin said, "Mankind is divided into rich and poor, into property owners and exploited; and to abstract oneself from this fundamental division; and from the antagonism between poor and rich means abstracting oneself from fundamental facts."</p>
 </div>
 <hr>
 
@@ -300,7 +297,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Steve Martin</p>
 
-<p>Unsurprisingly maybe, there are many similarities to starting a stand up career and being a founder. Stand up is one of my favorite forms of entertainment because how unvarnished it is. You can't fake being a good stand up comedian. Similarly you can't fake building a great product. Martin, without any pretension, revels the struggle of the art. The book is both honest, entertaining and moving.</p>
+<p>Unsurprisingly maybe, there are many similarities to starting a stand-up career and being a founder. Stand up is one of my favorite forms of entertainment because of how unvarnished it is. You can't fake being a good stand up comedian. Similarly, you can't fake building a great product. Martin, without any pretension, reveals the struggle of the art. The book is both honest, entertaining and moving.</p>
 </div>
 <hr>
 
@@ -313,7 +310,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Charles Darwin</p>
 
-<p>One of the most striking things about Darwin was his amazing work ethic. What I found inspiring was the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. Perhaps the reason this isn't championed more often as a path to success is that it is boring and by nature we are social animals. Also intriguing about Darwin is the non-obvious nature of his impact. There seems little evidence from Darwin's teenage years that he would become such an influential scientist.</p>
+<p>One of the most striking things about Darwin was his amazing work ethic. What I found inspiring was the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. Perhaps the reason this isn't championed more often as a path to success is that it is boring and by nature, we are social animals. Also intriguing about Darwin is that seems little evidence from his teenage years that he would become such an influential scientist.</p>
 </div>
 <hr>
 
@@ -325,7 +322,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Charlie Chaplin</p>
 
-<p>I found this book, like many, at a used book sale. Chaplin's early life reminded me of a Twain quote "The secret source of humor itself is not joy but sorrow. There is no humor in heaven." Only knowing about Chaplin as a caricature, I wasn't expecting much. However his story is nothing but incredible and he is nothing less than a genius.</p>
+<p>I found this book, like many, at a used book sale. Chaplin's early life reminded me of a Twain quote "The secret source of humor itself is not joy but sorrow. There is no humor in heaven." Only knowing about Chaplin as a caricature, I wasn't expecting much. However, his story is nothing but incredible and he is nothing less than a genius.</p>
 </div>
 <hr>
 
@@ -340,7 +337,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Ike Okonta</p>
 
-<p>This book is not only an education on Niger Delta and its people, but also on the blind spots of capitalism. Reading this book opened my eyes to the modern ways that managment of large, private organizations can participate in gross abuse. </p>
+<p>This book is not only an education on Niger Delta and its people, but also on the blind spots of capitalism. Reading this book opened my eyes to the modern ways that management of large, private organizations can participate in gross abuse. </p>
 </div>
 <hr>
 
@@ -400,7 +397,7 @@ Below are a list of books that have made a deep and lasting impact on me. As the
 
 <p>Peter Kropotkin</p>
 
-<p>Considering the book is written in 1892 and considered to be the flag bearer of anarchists and communists, there are some ideas which are not totally wrong. Specifically calling out that socialism can have a dangerous authoritarian bent almost prophetically predicts the disaster of Marxist-Leninist Communism. The books is still an important read as it is the source material for many revolutionaries.</p>
+<p>Considering the book is written in 1892 and considered to be the flag bearer of anarchists and communists, there are some ideas which are not totally wrong. Specifically calling out that socialism can have a dangerous authoritarian bent almost prophetically predicts the disaster of Marxist-Leninist Communism. The book is still an important read as it is the source material for many revolutionaries.</p>
 
 </div>
 <hr>
