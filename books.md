@@ -5,7 +5,7 @@ permalink: /books/
 
 Below is a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influenced my thoughts.
 
-<i> Updated July 2019 </i>
+<i> Updated August 2019 </i>
 <p>&nbsp;</p>
 
 
@@ -211,6 +211,18 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 <p>Robert Service </p>
 
 <p>To understand the 20th century, one must take some time to understand Lenin. This is one of the best books I've read about the leader of the October Revolution. Robert Service's grasp and depth of understanding of his subject are so good I immediately read his book on Stalin right after this and once again, I was not disappointed. </p>
+</div>
+<hr>
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472" target="_blank"><img class="book" src="http://qasaryounis.com/assets/art.jpg" alt="book-gombrich" width="122" height="180"></a><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472">The Story of Art</a></h3>
+
+<p>E.H. Gombrich</p>
+
+<p>I found this book while generally trying to learn about art history and I can see why it's so famous. It reads more like a textbook than anything else but its plain language mixed with page after page of actual historic art makes this a high recommendation if you're curious about the subject. The one small nitpick is this book really is about Western European art, almost wholly ignoring Russian, Islamic, Indian, Chinese or Japanse. But a sign of how good the writing and explanation are is that I feel easily this could have been broken into 10 volumes. Several thousand years of art into a few hundred pages leave you wanting for much more.</p>
+
 </div>
 <hr>
 
@@ -429,17 +441,6 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 </div>
 <hr>
 
-
-<div class = "bookContainer">
-
-<h3><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472" target="_blank"><img class="book" src="http://qasaryounis.com/assets/art.jpg" alt="book-gombrich" width="122" height="180"></a><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472">The Story of Art</a></h3>
-
-<p>E.H. Gombrich</p>
-
-<p>I found this book while generally trying to learn about art history and I can see why it's so famous. It reads more like a textbook than anything else but its plain language mixed with page after page of actual historic art makes this a high recommendation if you're curious about the subject. The one small nitpick is this book really is about Western European art, almost wholly ignoring Russian, Islamic, Indian, Chinese or Japanse. But a sign of how good the writing and explanation are is that I feel easily this could have been broken into 10 volumes. Several thousand years of art into a few hundred pages leave you wanting for much more.</p>
-
-</div>
-<hr>
 
 
 
