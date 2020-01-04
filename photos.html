@@ -34,6 +34,7 @@ var imageGallery = [
 	
 ];		
 		
+	
 		
 var imageText = [		
 "Dare mighty things. -Theodore Roosevelt",
@@ -67,6 +68,39 @@ var imageText = [
 ];
 		
 
+var locations = [		
+	"Loc1",
+	"Loc2",
+	"Loc3",
+	"Loc4",
+	"Loc5",
+	"Loc6",
+	"Loc7",
+	"Loc8",
+	"Loc9",
+	"Loc10",
+	"Loc11",
+	"Loc12",
+	"Loc13",
+	"Loc14",
+	"Loc15",
+	"Loc16",
+	"Loc17",
+	"Loc18",
+	"Loc19",
+	"Loc20",
+	"Loc21",
+	"Loc22",
+	"Loc23",
+	"Loc24",
+	"Loc25",
+	"Loc26",
+	"Loc27",
+	
+];		
+	
+	
+	
 	
 var imgCount = 0;		
 var totalImgs = imageGallery.length -1;		
@@ -86,6 +120,7 @@ function next() {
       imgCount++;		
     }		
    document.getElementById("gallery").src = imageGallery[imgCount];		
+   document.getElementById("locationText").innerHTML = locations[imgCount];	
    document.getElementById("imageText").innerHTML = imageText[imgCount];
 	document.getElementById('currentImage').innerHTML = imgCount + 1
 }		
@@ -128,14 +163,21 @@ function handlePhotoClick(event, img) {
 <a href="#" onclick="previous(); return false;">Back</a> |		
 <a href="#" onclick="next(); return false;">Next</a>
 	<span style="float:right; color: #aaa;"> <span id="currentImage">0</span> of <span id="totalImages">5</span></span>
+
 </div>		
+
 <div id="imageText">
 Dare mighty things. -Theodore Roosevelt,
 </div>		
+
 <img id="gallery" onclick="handlePhotoClick(event, this)"  src=	"http://qasaryounis.com/assets/jam.jpg",
 ",		
- >		
-		
+
+ <div id="imageText">
+FIRST LOCATION TEXT HERE
+</div>
+
+>		
 
 		
 </div>		
