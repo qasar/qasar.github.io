@@ -120,7 +120,7 @@ function next() {
       imgCount++;		
     }		
    document.getElementById("gallery").src = imageGallery[imgCount];		
-   document.getElementById("locationText").innerHTML = locations[imgCount];	
+   document.getElementById("locationsText").innerHTML = locations[imgCount];	
    document.getElementById("imageText").innerHTML = imageText[imgCount];
 	document.getElementById('currentImage').innerHTML = imgCount + 1
 }		
@@ -129,6 +129,7 @@ function previous() {
     imgCount--;		
   if(imgCount < 0) imgCount = totalImgs ;		
        document.getElementById("gallery").src = imageGallery[imgCount];  		
+       document.getElementById("locationsText").innerHTML = locations[imgCount];	
        document.getElementById("imageText").innerHTML = imageText[imgCount]; 
 	       document.getElementById('currentImage').innerHTML = imgCount + 1
 
