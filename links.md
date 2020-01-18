@@ -5,8 +5,6 @@ permalink: /links/
 
 Some videos i've come across on the interwebs. 
 
-<i> Updated January 2020 </i>
-<p>&nbsp;</p>
 
 
 <a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detroit Piston, Isiah L. Thomas' Hall of Fame speech</a>. 
