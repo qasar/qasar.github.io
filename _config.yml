@@ -25,6 +25,8 @@ nav:
     href:           "books"
   - name:           "Photos"
     href:           "photos"
+  - name:            "Music"
+    href:            "music"
   - name:           "Press"
     href:           "press"
   - name:           "About Me"
