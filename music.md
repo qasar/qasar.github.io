@@ -3,7 +3,7 @@ title: Music
 permalink: /music/
 ---
 
-Below is a list of my favorite music. An important criteria for this list is I should have been listening to the album for at least 10 years so the list tends to favor older music. Also, since this is album centric, it tends to favor a body of music rather than one song. 
+Below is a list of my favorite music. An important criterion for this list is I should have been listening to the album for at least 10 years so the list tends to favor older music. Also, since this is album centric, it tends to favor a body of music rather than one song. 
 
 <i> Updated January 2020 </i>
 <p>&nbsp;</p>
