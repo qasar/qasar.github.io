@@ -3,11 +3,7 @@ title: Music
 permalink: /music/
 ---
 
-Below is a list of my favorite music. You could say this is my desert island list. An important criteria for this list is I should have been listening to the album for at least 10 years so the list tends to favor older music. Also, since this is album centric, it tends to favor a body of music rather than one song. For example, if the list included singles, I would add Jailhouse Rock (Elvis) or House of the Rising Sun (The Animals), two of the best songs in the last 100 years.
-
-Also, none of this list is music I kind of enjoy -- only the best of the best. 
-
-All killer, no filler. 
+Below is a list of my favorite music. An important criteria for this list is I should have been listening to the album for at least 10 years so the list tends to favor older music. Also, since this is album centric, it tends to favor a body of music rather than one song. 
 
 <i> Updated January 2020 </i>
 <p>&nbsp;</p>
