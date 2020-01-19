@@ -3,11 +3,11 @@ title: Links
 permalink: /links/
 ---
 
-Some videos i've come across on the interwebs. 
+Some videos I've come across on the interwebs. 
 
 <p>&nbsp;</p>
 
-<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detoit Pistons Isiah Thomas' hall of fame speech</a>. 
+<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detroit Pistons Isiah Thomas' hall of fame speech</a>. 
 
 <a href="https://www.youtube.com/watch?v=9aGRHOpMRUg&list=FLXJuURIK0_r_mGlRWSPkgCw&index=78&t=0s">Why these all-white paintings are in museums and mine aren't</a>. 
 
