@@ -39,6 +39,8 @@ Liquid Swords (Gza, 1995)
 
 Sublime (Sublime, 1996)
 
+Life After Death (The Notorious BIG, 1997)
+
 400 Degreez (Juvenile, 1998)
 
 Californication (RHCP, 1999)
