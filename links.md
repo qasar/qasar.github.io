@@ -19,13 +19,13 @@ Some videos i've come across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=G4gjJoMi2vY&list=FLXJuURIK0_r_mGlRWSPkgCw&index=40&t=184s">John Mayer explains his personal style</a>. 
 
-<a href= "https://www.youtube.com/watch?v=ROfBLx6bLZI&list=FLXJuURIK0_r_mGlRWSPkgCw&index=44&t=0s">Being rich vs being poor</a>. 
-
 <a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s">Warren Buffet talk at Nebraska (2003)</a>.
 
 <a href= "https://www.youtube.com/watch?v=ojIHZqvJpV0&list=FLXJuURIK0_r_mGlRWSPkgCw&index=64&t=0s">Qawwali of Nusrat Fateh Ali Khan</a>. 
  
 <a href="https://www.youtube.com/watch?v=j-e2kIB3KJc&list=FLXJuURIK0_r_mGlRWSPkgCw&index=138">What if DJ Khaled was Punjabi</a>. 
+
+<a href= "https://www.youtube.com/watch?v=ROfBLx6bLZI&list=FLXJuURIK0_r_mGlRWSPkgCw&index=44&t=0s">Being rich vs being poor</a>. 
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s">Fan Ho</a>. 
 
