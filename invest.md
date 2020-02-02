@@ -12,8 +12,8 @@ If you're interested in raising money from me, please fill out this link: <a hre
 What can I help with:
 
 <ul style="list-style-type:square;">
-  <li>Founder/ing questions
-  <li>Product strategy
+  <li>Founder/ing questions</li>
+  <li>Product strategy</li>
   <li>Operations</li>
   <li>Fundraising</li>
 </ul>
