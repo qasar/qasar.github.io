@@ -23,8 +23,8 @@ markdown:           kramdown
 nav:
   - name:           "Books"
     href:           "books"
-  - name:           "Photos"
-    href:           "my photos"
+  - name:           "My Photos"
+    href:           "photos"
   - name:           "Music"
     href:           "music"
   - name:           "Links"
