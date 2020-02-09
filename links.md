@@ -13,7 +13,7 @@ Some videos I've come across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=Z6CRc2r9dM8&list=FLXJuURIK0_r_mGlRWSPkgCw&index=5&t=0s">Even in a contest between man and steer, the issue is not certain</a>. 
 
-<a href="https://www.youtube.com/watch?v=O4etinsAy34&list=FLXJuURIK0_r_mGlRWSPkgCw&index=109&t=0s">In search of the distinctively human; the philosophy of blade runner 2049</a>. 
+<a href="https://www.youtube.com/watch?v=O4etinsAy34&list=FLXJuURIK0_r_mGlRWSPkgCw&index=109&t=0s">In search of the distinctively human; philosophy of blade runner 2049</a>. 
 
 <a href="https://www.youtube.com/watch?v=u6aEYuemt0M" target="_blank">Andrej Karpathy on deep learning for computer vision (2016)</a>. 
 
