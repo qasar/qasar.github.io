@@ -17,7 +17,7 @@ Some videos I've come across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=u6aEYuemt0M" target="_blank">Andrej Karpathy on deep learning for computer vision (2016)</a>. 
 
-<a href="https://www.youtube.com/watch?v=G4gjJoMi2vY&list=FLXJuURIK0_r_mGlRWSPkgCw&index=40&t=184s" target="_blank">John Mayer explains his personal style</a>. 
+<a href="https://https://youtu.be/G4gjJoMi2vY" target="_blank">John Mayer explains his personal style</a>. 
 
 <a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s" target="_blank">Warren Buffet talk at Nebraska (2003)</a>.
 
