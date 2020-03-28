@@ -8,7 +8,7 @@ permalink: /press/
 <a href="https://www.wired.co.uk/article/tesla-competition-business-model"> This year traditional car makers will start to catchup with Tesla</a> (Wired)
 
 <a href="https://www.bloomberg.com/news/articles/2018-09-12/how-self-driving-cars-can-get-past-the-learning-permit-stage-without-any-risk
-"> How Self-driving Cars Can Get Past the Learning Permit Stage</a> (Bloomberg)
+"> How self-driving cars can get past the learning permit stage</a> (Bloomberg)
 
 <a href="https://www.facebook.com/qasar/posts/10154710776519865"> Thank you, Y Combinator</a>
 
