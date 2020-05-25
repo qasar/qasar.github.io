@@ -423,7 +423,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Andy Warhol</p>
 
-<p>Wow, this is an incredible book. Many books can be shortened to an article, many articles shortened to a paragraph. For Warhol's book, the opposite is true. Some paragraphs could be turned into full books. I give it the highest compliment I can: the book is art.</p>
+<p>Wow, this is an incredible book. Many books can be shortened to an article, many articles shortened to a paragraph. For Warhol's book, the opposite is true. Some chapters could be full books. I give it the highest compliment I can: the book is art.</p>
 
 </div>
 <hr>
