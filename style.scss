@@ -443,6 +443,11 @@ tbody tr:nth-child(odd) th {
     max-height: 500px;
 }
 
+.hero-image {
+    max-width: 70%;
+}
+
+
 @media screen and (max-width: 850px) {
 
   #imageText {
