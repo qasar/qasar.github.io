@@ -5,7 +5,7 @@ permalink: /books/
 
 Below is a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influenced my thoughts.
 
-<i> Updated August 2019 </i>
+<i> Updated August 2020 </i>
 <p>&nbsp;</p>
 
 
@@ -440,6 +440,37 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 </div>
 <hr>
+
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/spqr.jpg" alt="book-spqr" width="122" height="180"></a><a href="https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225/">SPQR</a></h3>
+
+<p>Mary Beard</p>
+
+<p>I picked up SPQR mostly because I wanted to learn about ancient Roman history. Unsurprisingly, the true innovation of the Roman Empire is how it absorbed neighbors, provided broad citizenship, incentivized in civil institutions (specifically the military), and dealt with power struggles within its own empire. This is a great book because Beard tends to weave narrative stories while calling out what simply isn't known about a subject that has been deeply studied. I wonder if one studied the Ottomans or the Tang Dynasty, you wouldn't see the same patterns. As the saying goes: history doesn't repeat, but it often rhymes.
+ </p>
+</div>
+<hr>
+
+
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/dp/1473695988/" target="_blank"><img class="book" src="http://qasaryounis.com/assets/big.jpg" alt="book-hawkings" width="122" height="180"></a><a href="https://www.amazon.com/dp/1473695988/">Brief Answers to the Big Questions</a></h3>
+
+<p>Stephen Hawking</p>
+
+<p>One of my biggest regrets in life is the I got decent grades at the sacrifice of learning. So over the past years, I found myself relearning simple things like thermal radiation to wave-particle duality. Since I'm not looking to apply these learnings (like I was when I was getting my Mechanical Engineering degree), I found myself veering towards modern physics and from there to astronomy. There have been a handful of great books I've read that are so dense that I'm not sure I could get through them again, let alone recommend them. However Brief Answers is exactly the opposite. It simplifies astronomy (and cosmology) in a way that is logical and entertaining, while not requiring prequalification.</p>
+</div>
+<hr>
+
+
+
+
+
 
 
 
