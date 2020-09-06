@@ -17,7 +17,7 @@ Some videos I've come across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=u6aEYuemt0M" target="_blank">Andrej Karpathy on deep learning for computer vision (2016)</a>. 
 
-<a href="https://www.youtube.com/watch?v=G4gjJoMi2vY" target="_blank">John Mayer explains his personal style</a>. 
+<a href="https://www.youtube.com/watch?v=G4gjJoMi2vY" target="_blank">John Mayer explains his personal style (and hats)</a>. 
 
 <a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s" target="_blank">Warren Buffet talk at Nebraska (2003)</a>.
 
@@ -26,6 +26,8 @@ Some videos I've come across on the interwebs.
 <a href="https://www.youtube.com/watch?v=j-e2kIB3KJc&list=FLXJuURIK0_r_mGlRWSPkgCw&index=138" target="_blank">What if DJ Khaled was Punjabi</a>. 
 
 <a href= "https://www.youtube.com/watch?v=ROfBLx6bLZI&list=FLXJuURIK0_r_mGlRWSPkgCw&index=44&t=0s" target="_blank">Being rich vs being poor</a>. 
+
+<a href= "https://youtu.be/3LopI4YeC4I" target="_blank">Success and luck</a>. 
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
 
