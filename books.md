@@ -99,7 +99,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495" target="_blank"><img class="book" src="https://qasaryounis.com/assets/mac.jpg" alt="book-mac" width="122" height="180"></a><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495"  target="_blank">In Retrospect: The Tragedy and Lessons of Vietnam</a></h3>
+<h3><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495" target="_blank"><img class="book" src="https://qasaryounis.com/assets/mac.jpg" alt="book-mac" width="122" height="180"></a><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495"  target="_blank">The Tragedy and Lessons of Vietnam</a></h3>
 
 <p>Robert S. McNamara</p>
 
