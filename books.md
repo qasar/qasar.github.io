@@ -153,7 +153,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="https://qasaryounis.com/assets/king.jpg" alt="book-king" width="122" height="180"></a><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816"  target="_blank">On Writing</a></h3>
+<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="https://qasaryounis.com/assets/king2.jpg" alt="book-king" width="122" height="180"></a><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816"  target="_blank">On Writing</a></h3>
 
 <p>Stephen King</p>
 
