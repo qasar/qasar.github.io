@@ -5,8 +5,6 @@ permalink: /press/
 
 <a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105"> More manufacturers bet on simulation software</a> (Wall Street Journal)
 
-<a href="https://www.wired.co.uk/article/tesla-competition-business-model"> This year traditional car makers will start to catchup with Tesla</a> (Wired)
-
 <a href="https://www.bloomberg.com/news/articles/2018-09-12/how-self-driving-cars-can-get-past-the-learning-permit-stage-without-any-risk
 "> How self-driving cars can get past the learning permit stage</a> (Bloomberg)
 
