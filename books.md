@@ -459,7 +459,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/dp/1473695988/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/big.jpg" alt="book-hawkings" width="122" height="180"></a><a href="https://www.amazon.com/dp/1473695988/">Brief Answers to the Big Questions</a></h3>
+<h3><a href="https://www.amazon.com/dp/1473695988/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/big.jpeg" alt="book-hawkings" width="122" height="180"></a><a href="https://www.amazon.com/dp/1473695988/">Brief Answers to the Big Questions</a></h3>
 
 <p>Stephen Hawking</p>
 
