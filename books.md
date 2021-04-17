@@ -5,7 +5,7 @@ permalink: /books/
 
 Below is a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influenced my thoughts.
 
-<i> Updated August 2020 </i>
+<i> Updated April 2021 </i>
 <p>&nbsp;</p>
 
 
@@ -464,6 +464,17 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 <p>Stephen Hawking</p>
 
 <p>One of my biggest regrets in life is the I got decent grades at the sacrifice of learning. So over the past years, I found myself relearning simple things like thermal radiation to wave-particle duality. Since I'm not looking to apply these learnings (like I was when I was getting my Mechanical Engineering degree), I found myself veering towards modern physics and from there to astronomy. There have been a handful of great books I've read that are so dense that I'm not sure I could get through them again, let alone recommend them. However Brief Answers is exactly the opposite. It simplifies astronomy (and cosmology) in a way that is logical and entertaining, while not requiring prequalification.</p>
+</div>
+<hr>
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Magnum-Streetwise-Photos/dp/0500545073" target="_blank"><img class="book" src="https://qasaryounis.com/assets/mag.jpg" alt="book-magnum" width="122" height="180"></a><a href="https://www.amazon.com/Magnum-Streetwise-Photos/dp/0500545073">Magnum Streetwise</a></h3>
+
+<p>Magnum Photos</p>
+
+<p>If you're tired of taking photos or are not getting photos you like, a good tip is to study other great photographers. Street photography is difficult because it's a mix of technique, mastery of the camera, timing, consistency and intuition. Deconstructing great photos against this framework has helped me become a better photographer. There are a lot of good photo books but Streetwise is a bit of a canonical record of the art form.</p>
 </div>
 <hr>
 
