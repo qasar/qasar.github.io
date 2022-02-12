@@ -5,7 +5,7 @@ permalink: /books/
 
 Below is a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influenced my thoughts.
 
-<i> Updated April 2021 </i>
+<i> Updated February 2022 </i>
 <p>&nbsp;</p>
 
 
@@ -475,6 +475,18 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 <p>Magnum Photos</p>
 
 <p>If you're tired of taking photos or are not getting photos you like, a good tip is to study other great photographers. Street photography is difficult because it's a mix of technique, mastery of the camera, timing, consistency and intuition. Deconstructing great photos against this framework has helped me become a better photographer. There are a lot of good photo books but Streetwise is a bit of a canonical record of the art form.</p>
+</div>
+<hr>
+
+
+
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884" target="_blank"><img class="book" src="https://qasaryounis.com/assets/highout.jpeg" alt="book-magnum" width="122" height="180"></a><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884">High Output Management</a></h3>
+
+<p>Andy Grove</p>
+
+<p>Don't let the cover fool you, this is pure gold. We recently re-read this at Applied and someone said this is like a 200 page description of our culture. I take that as a massive compliment. Designing a team is akin to designing a mechanical system. It is bound by factors like the laws of physics and material properties. Surely, before you would design a turbine, you would learn about fluids. However, people try to learn management on the fly. Don't wing it.</p>
 </div>
 <hr>
 
