@@ -3,7 +3,7 @@ title: Links
 permalink: /links/
 ---
 
-Some videos and links I've come across on the interwebs (updated May 2022).
+Some videos and links I've come across on the interwebs (updated 05/2022).
 
 <p>&nbsp;</p>
 
