@@ -3,7 +3,7 @@ title: Links
 permalink: /links/
 ---
 
-Some videos I've come across on the interwebs. 
+Some videos and links I've come across on the interwebs. 
 
 <p>&nbsp;</p>
 
@@ -16,6 +16,8 @@ Some videos I've come across on the interwebs.
 <a href="https://www.youtube.com/watch?v=O4etinsAy34&list=FLXJuURIK0_r_mGlRWSPkgCw&index=109&t=0s" target="_blank">In search of the distinctively human; philosophy of blade runner 2049</a>. 
 
 <a href="https://www.youtube.com/watch?v=u6aEYuemt0M" target="_blank">Andrej Karpathy on deep learning for computer vision (2016)</a>. 
+
+<a href="https://ethics.utep.edu/images/Jim_Lehrer_Rules_of_Journalism.pdf" target="_blank">Jim Lehrer’s Rules of Journalism (guide to life as a whole)</a>. 
 
 <a href="https://www.youtube.com/watch?v=G4gjJoMi2vY" target="_blank">John Mayer explains his personal style (and hats)</a>. 
 
@@ -30,6 +32,8 @@ Some videos I've come across on the interwebs.
 <a href= "https://www.youtube.com/watch?v=ROfBLx6bLZI&list=FLXJuURIK0_r_mGlRWSPkgCw&index=44&t=0s" target="_blank">Being rich vs being poor</a>. 
 
 <a href= "https://youtu.be/3LopI4YeC4I" target="_blank">Success and luck</a>. 
+
+<a href= "https://hbswk.hbs.edu/item/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
 
