@@ -3,7 +3,7 @@ title: Links
 permalink: /links/
 ---
 
-Some videos and links from across on the interwebs (05/2022).
+Some videos and links from across on the interwebs (Updated 09/2022).
 
 <p>&nbsp;</p>
 
@@ -34,6 +34,8 @@ Some videos and links from across on the interwebs (05/2022).
 <a href= "https://youtu.be/3LopI4YeC4I" target="_blank">Success and luck</a>. 
 
 <a href= "https://hbswk.hbs.edu/item/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
+
+<a href= "https://youtu.be/1_TuEO6Mttw" target="_blank">It's done</a>. 
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
 
