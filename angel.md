@@ -1,6 +1,6 @@
 ---
 title: Invest
-permalink: /invest/
+permalink: /angel/
 ---
 
 I occasionally invest in early-stage technology companies.
