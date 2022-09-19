@@ -1,5 +1,5 @@
 ---
-title: Invest
+title: Angel
 permalink: /angel/
 ---
 
