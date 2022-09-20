@@ -25,7 +25,7 @@ Angel investors are different from funds for a couple of reasons - they are more
 <p>&nbsp;</p>
 
 
-<strong>What type of help am I the best for? </strong>
+<strong>When can I help? </strong>
 
 <strong> 1. When things are going really, really bad. </strong> Consider me as a lifeline. This can be something like you don’t think the company is going to work and should you pivot to a cofounder break up (or a breakup in your personal life impacting your company). 
 
