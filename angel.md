@@ -21,6 +21,8 @@ One of the things I’ve come to realize is often founders don’t know how to b
 
 Angel investors are different from funds for a couple of reasons - they are more likely to be operators and more likely to be investing out of a desire to help rather than pure economics. I certainly fall into that category. The likelihood that your investment will change my life is virtually zero, even if you become the next Google. Well, maybe if you become the next Google it will change my life but you get the point.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <strong>What type of help am I the best for? </strong>
