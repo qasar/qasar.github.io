@@ -41,7 +41,7 @@ The reason that has worked for founders in the past is I am very confidential (p
 On Go-to-market, my experience comes from Applied and 1000s of companies I worked with at Y Combinator. The former is much more important but the latter offers diversity that is important to understand different types of GTM strategies that can be employed.
 
 <p>&nbsp;</p>
-<strong> 4. Compensation, hiring and firing. </strong> I deal with this all day, everyday and have gotten good at it. I typically know what is on the market. Be very very weary of VC compentation charts which tend to be heavily inflated. 
+<strong> 4. Compensation, hiring and firing. </strong> I deal with this all day, everyday and have gotten good at it. I typically know what is on the market. Be very very weary of VC compensation charts which tend to be heavily inflated. 
 
 <p>&nbsp;</p>
 <strong> 5. M&A. </strong> I have sold a company to Google, bought companies at Google and at Applied. I have some sense of the best tactics here. 
