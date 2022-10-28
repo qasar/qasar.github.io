@@ -11,7 +11,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="https://qasaryounis.com/assets/jid.jpg" alt="book-jiddu" width="122" height="180"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank">The First and Last Freedom</a></h3>
+<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="https://qy.co/assets/jid.jpg" alt="book-jiddu" width="122" height="180"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank">The First and Last Freedom</a></h3>
 
 <p>Jiddu Krishnamurti</p>
 
@@ -24,7 +24,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Road-Serfdom-Inherent-Friedrich-Paperback/dp/B010IK60A0/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/hay.jpg" alt="book-hayek" width="122" height="180"></a><a href="https://www.amazon.com/Road-Serfdom-Inherent-Friedrich-Paperback/dp/B010IK60A0/"  target="_blank">The Road to Serfdom</a></h3>
+<h3><a href="https://www.amazon.com/Road-Serfdom-Inherent-Friedrich-Paperback/dp/B010IK60A0/" target="_blank"><img class="book" src="https://qy.co/assets/hay.jpg" alt="book-hayek" width="122" height="180"></a><a href="https://www.amazon.com/Road-Serfdom-Inherent-Friedrich-Paperback/dp/B010IK60A0/"  target="_blank">The Road to Serfdom</a></h3>
 
 <p>F.A. Hayek</p>
 
@@ -38,7 +38,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://qasaryounis.com/assets/chaos.jpg" alt="book-chaos" width="122" height="180"></a><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank">Chaos On The Shop Floor </a></h3>
+<h3><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank"><img class="book" src="https://qy.co/assets/chaos.jpg" alt="book-chaos" width="122" height="180"></a><a href="https://www.amazon.com/Chaos-Floor-Labor-Social-Change/dp/0877225613" target="_blank">Chaos On The Shop Floor </a></h3>
 
 <p>Tom Juravich</p>
 
@@ -50,7 +50,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Ghana-Autobiography-Kwame-Nkrumah/dp/0717802949" target="_blank"><img class="book" src="https://qasaryounis.com/assets/kwa.jpg" alt="book-ghana" width="122" height="180"></a><a href="https://www.amazon.com/Ghana-Autobiography-Kwame-Nkrumah/dp/0717802949"  target="_blank">Ghana</a></h3>
+<h3><a href="https://www.amazon.com/Ghana-Autobiography-Kwame-Nkrumah/dp/0717802949" target="_blank"><img class="book" src="https://qy.co/assets/kwa.jpg" alt="book-ghana" width="122" height="180"></a><a href="https://www.amazon.com/Ghana-Autobiography-Kwame-Nkrumah/dp/0717802949"  target="_blank">Ghana</a></h3>
 
 <p>Kwame Nkrumah</p>
 
@@ -63,7 +63,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/"  target="_blank">Barbarians at the Gate</a></h3>
+<h3><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/" target="_blank"><img class="book" src="https://qy.co/assets/barbar.jpg" alt="book-barbar" width="122" height="180"></a><a href="https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655546/"  target="_blank">Barbarians at the Gate</a></h3>
 
 <p>Bryan Burrough, John Helyar</p>
 
@@ -76,7 +76,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://qasaryounis.com/assets/malc.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM"  target="_blank">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
+<h3><a href="https://amzn.com/B00193RJEM" target="_blank"><img class="book" src="https://qy.co/assets/malc.jpg" alt="book-malcolm" width="122" height="180"></a><a href="https://amzn.com/B00193RJEM"  target="_blank">The Autobiography of Malcolm X</a></h3><p>Malcolm X</p>
 
 <p>This book is a must-read for anyone who is interested in the American experience. The three periods in Malcolm X's life are as fascinating as they are dramatic: drug dealer, member of the Nation, and finally orthodox Islam. There are few people that have left such a lasting and distinct mark on American culture. In many ways, he embodied what it is to be American. 
 </p>
@@ -88,7 +88,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835" target="_blank"><img class="book" src="https://qasaryounis.com/assets/walt.jpg" alt="book-walton" width="122" height="180"></a><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835"  target="_blank">Made In America</a></h3>
+<h3><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835" target="_blank"><img class="book" src="https://qy.co/assets/walt.jpg" alt="book-walton" width="122" height="180"></a><a href="https://www.amazon.com/Sam-Walton-Made-America/dp/0553562835"  target="_blank">Made In America</a></h3>
 
 <p>Sam Walton</p>
 
@@ -99,7 +99,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495" target="_blank"><img class="book" src="https://qasaryounis.com/assets/mac.jpg" alt="book-mac" width="122" height="180"></a><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495"  target="_blank">The Tragedy and Lessons of Vietnam</a></h3>
+<h3><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495" target="_blank"><img class="book" src="https://qy.co/assets/mac.jpg" alt="book-mac" width="122" height="180"></a><a href="https://www.amazon.com/Retrospect-Tragedy-Lessons-Vietnam/dp/0679767495"  target="_blank">The Tragedy and Lessons of Vietnam</a></h3>
 
 <p>Robert S. McNamara</p>
 
@@ -116,7 +116,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="book" src="https://qasaryounis.com/assets/gates.jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133"  target="_blank">The Road Ahead</a></h3>
+<h3><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133" target="_blank"><img class="book" src="https://qy.co/assets/gates.jpg" alt="book-gates" width="122" height="180"></a><a href="https://www.amazon.com/Road-Ahead-Bill-Gates/dp/0670859133"  target="_blank">The Road Ahead</a></h3>
 
 <p>Bill Gates</p>
 
@@ -128,7 +128,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523" target="_blank"><img class="book" src="https://qasaryounis.com/assets/brave.jpg" alt="book-huxley" width="122" height="180"></a><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"  target="_blank">Brave New World</a></h3>
+<h3><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523" target="_blank"><img class="book" src="https://qy.co/assets/brave.jpg" alt="book-huxley" width="122" height="180"></a><a href="https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523"  target="_blank">Brave New World</a></h3>
 
 <p>Aldous Huxley</p>
 
@@ -140,7 +140,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189" target="_blank"><img class="book" src="https://qasaryounis.com/assets/nelson.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189"  target="_blank">Long Walk to Freedom</a></h3>
+<h3><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189" target="_blank"><img class="book" src="https://qy.co/assets/nelson.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189"  target="_blank">Long Walk to Freedom</a></h3>
 
 <p>Nelson Mandela</p>
 
@@ -153,7 +153,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="https://qasaryounis.com/assets/king2.jpg" alt="book-king" width="122" height="180"></a><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816"  target="_blank">On Writing</a></h3>
+<h3><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816" target="_blank"><img class="book" src="https://qy.co/assets/king2.jpg" alt="book-king" width="122" height="180"></a><a href="https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816"  target="_blank">On Writing</a></h3>
 
 <p>Stephen King</p>
 
@@ -168,7 +168,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"><img class="book" src="https://qasaryounis.com/assets/guns.jpg" alt="book-cover-guns" width="122" height="180"></a><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"  target="_blank">Guns, Germs, and Steel</a></h3>
+<h3><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"><img class="book" src="https://qy.co/assets/guns.jpg" alt="book-cover-guns" width="122" height="180"></a><a href="https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552"  target="_blank">Guns, Germs, and Steel</a></h3>
 
 <p>Jared M. Diamond</p>
 
@@ -180,7 +180,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Adventures-White-Collar-Man-Alfred-Sloan/dp/0836954858" target="_blank"><img class="book" src="https://qasaryounis.com/assets/adv.jpg" alt="book-sloan" width="122" height="180"></a><a href="https://www.amazon.com/Adventures-White-Collar-Man-Alfred-Sloan/dp/0836954858"  target="_blank">Adventures of a White-Collar Man</a></h3>
+<h3><a href="https://www.amazon.com/Adventures-White-Collar-Man-Alfred-Sloan/dp/0836954858" target="_blank"><img class="book" src="https://qy.co/assets/adv.jpg" alt="book-sloan" width="122" height="180"></a><a href="https://www.amazon.com/Adventures-White-Collar-Man-Alfred-Sloan/dp/0836954858"  target="_blank">Adventures of a White-Collar Man</a></h3>
 
 <p>Alfred P. Sloan</p>
 
@@ -192,7 +192,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Kingdom-Auschwitz-1940-1945-Otto-Friedrich/dp/0060976403" target="_blank"><img class="book" src="https://qasaryounis.com/assets/aus.jpg" alt="book-kingdom" width="122" height="180"></a><a href="https://www.amazon.com/Kingdom-Auschwitz-1940-1945-Otto-Friedrich/dp/0060976403"  target="_blank">The Kingdom of Auschwitz: 1940-1945</a></h3>
+<h3><a href="https://www.amazon.com/Kingdom-Auschwitz-1940-1945-Otto-Friedrich/dp/0060976403" target="_blank"><img class="book" src="https://qy.co/assets/aus.jpg" alt="book-kingdom" width="122" height="180"></a><a href="https://www.amazon.com/Kingdom-Auschwitz-1940-1945-Otto-Friedrich/dp/0060976403"  target="_blank">The Kingdom of Auschwitz: 1940-1945</a></h3>
 
 <p>Otto Friedrich</p>
 
@@ -206,7 +206,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="https://qasaryounis.com/assets/lenin.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286"  target="_blank">Lenin</a></h3>
+<h3><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286" target="_blank"><img class="book" src="https://qy.co/assets/lenin.jpg" alt="book-lenin" width="122" height="180"></a><a href="https://www.amazon.com/Lenin-Biography-Robert-Service/dp/0674008286"  target="_blank">Lenin</a></h3>
 
 <p>Robert Service </p>
 
@@ -217,7 +217,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472" target="_blank"><img class="book" src="https://qasaryounis.com/assets/art.jpg" alt="book-gombrich" width="122" height="180"></a><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472"  target="_blank">The Story of Art</a></h3>
+<h3><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472" target="_blank"><img class="book" src="https://qy.co/assets/art.jpg" alt="book-gombrich" width="122" height="180"></a><a href="https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472"  target="_blank">The Story of Art</a></h3>
 
 <p>E.H. Gombrich</p>
 
@@ -231,7 +231,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Next-Kin-My-Conversations-Chimpanzees/dp/0380728222" target="_blank"><img class="book" src="https://qasaryounis.com/assets/kin.jpg" alt="book-kin" width="122" height="180"></a><a href="https://www.amazon.com/Next-Kin-My-Conversations-Chimpanzees/dp/0380728222"  target="_blank">Next of Kin</a></h3>
+<h3><a href="https://www.amazon.com/Next-Kin-My-Conversations-Chimpanzees/dp/0380728222" target="_blank"><img class="book" src="https://qy.co/assets/kin.jpg" alt="book-kin" width="122" height="180"></a><a href="https://www.amazon.com/Next-Kin-My-Conversations-Chimpanzees/dp/0380728222"  target="_blank">Next of Kin</a></h3>
 
 <p>Roger Fouts</p>
 
@@ -245,7 +245,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785" target="_blank"><img class="book" src="https://qasaryounis.com/assets/thinair.jpg" alt="book-thinair" width="122" height="180"></a><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785"  target="_blank">Into Thin Air</a></h3>
+<h3><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785" target="_blank"><img class="book" src="https://qy.co/assets/thinair.jpg" alt="book-thinair" width="122" height="180"></a><a href="https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785"  target="_blank">Into Thin Air</a></h3>
 
 <p>Jon Krakauer</p>
 
@@ -257,7 +257,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="https://qasaryounis.com/assets/fooled.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219"  target="_blank">Fooled by Randomness</a></h3>
+<h3><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219" target="_blank"><img class="book" src="https://qy.co/assets/fooled.jpg" width="122" height="180"></a><a href="https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219"  target="_blank">Fooled by Randomness</a></h3>
 
 <p>Nassim Nicholas Taleb</p>
 
@@ -270,7 +270,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/dp/1508483116/ref=cm_sw_r_cp_ep_dp_oWYKAbSQE8PCW" target="_blank"><img class="book" src="https://qasaryounis.com/assets/booker.jpg" alt="book-washington" width="122" height="180"></a><a href="https://www.amazon.com/dp/1508483116/ref=cm_sw_r_cp_ep_dp_oWYKAbSQE8PCW"  target="_blank">Up From Slavery</a></h3>
+<h3><a href="https://www.amazon.com/dp/1508483116/ref=cm_sw_r_cp_ep_dp_oWYKAbSQE8PCW" target="_blank"><img class="book" src="https://qy.co/assets/booker.jpg" alt="book-washington" width="122" height="180"></a><a href="https://www.amazon.com/dp/1508483116/ref=cm_sw_r_cp_ep_dp_oWYKAbSQE8PCW"  target="_blank">Up From Slavery</a></h3>
 
 <p>Booker T. Washington</p>
 
@@ -281,7 +281,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="https://qasaryounis.com/assets/command.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X"  target="_blank">The Commanding Heights</a></h3>
+<h3><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X" target="_blank"><img class="book" src="https://qy.co/assets/command.jpg" alt="book-cover-commanding" width="122" height="180"></a><a href="https://www.amazon.com/Commanding-Heights-Battle-World-Economy/dp/068483569X"  target="_blank">The Commanding Heights</a></h3>
 
 <p>Daniel Yergin, Joseph Stanislaw</p>
 
@@ -293,7 +293,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://qasaryounis.com/assets/sad.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501"  target="_blank">The Politics of Revenge</a></h3>
+<h3><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501" target="_blank"><img class="book" src="https://qy.co/assets/sad.jpg" alt="book-cover-politics" width="122" height="180"></a><a href="https://www.amazon.com/Saddam-Hussein-Politics-Said-Aburish/dp/1582340501"  target="_blank">The Politics of Revenge</a></h3>
 
 
 <p>Said K. Aburish</p>
@@ -305,7 +305,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657" target="_blank"><img class="book" src="https://qasaryounis.com/assets/standingup.jpg" alt="book-standing-up" width="122" height="180"></a><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657"  target="_blank">Born Standing Up</a></h3>
+<h3><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657" target="_blank"><img class="book" src="https://qy.co/assets/standingup.jpg" alt="book-standing-up" width="122" height="180"></a><a href="https://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657"  target="_blank">Born Standing Up</a></h3>
 
 <p>Steve Martin</p>
 
@@ -318,7 +318,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698" target="_blank"><img class="book" src="https://qasaryounis.com/assets/dar.jpg" alt="book-darwin" width="122" height="180"></a><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698"  target="_blank">Charles Darwin: 1809-1882</a></h3>
+<h3><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698" target="_blank"><img class="book" src="https://qy.co/assets/dar.jpg" alt="book-darwin" width="122" height="180"></a><a href="https://www.amazon.com/Autobiography-Charles-Darwin-1809-1882/dp/0393310698"  target="_blank">Charles Darwin: 1809-1882</a></h3>
 
 <p>Charles Darwin</p>
 
@@ -330,7 +330,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/dp/1612191924/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/chap2.jpg" alt="book-chaplin" width="122" height="180"></a><a href="http://a.co/d/13LjD42"  target="_blank">My Autobiography</a></h3>
+<h3><a href="https://www.amazon.com/dp/1612191924/" target="_blank"><img class="book" src="https://qy.co/assets/chap2.jpg" alt="book-chaplin" width="122" height="180"></a><a href="http://a.co/d/13LjD42"  target="_blank">My Autobiography</a></h3>
 
 <p>Charlie Chaplin</p>
 
@@ -345,7 +345,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="https://qasaryounis.com/assets/vul.jpeg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731"  target="_blank">Where Vultures Feast</a></h3>
+<h3><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731" target="_blank"><img class="book" src="https://qy.co/assets/vul.jpeg" alt="book-vulture" width="122" height="180"></a><a href="https://www.amazon.com/Where-Vultures-Feast-Shell-Rights/dp/1859844731"  target="_blank">Where Vultures Feast</a></h3>
 
 <p>Ike Okonta</p>
 
@@ -357,7 +357,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X" target="_blank"><img class="book" src="https://qasaryounis.com/assets/ogi.jpg" alt="book-ogilvy" width="122" height="180"></a><a href="https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X"  target="_blank">Confessions of an Advertising Man</a></h3>
+<h3><a href="https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X" target="_blank"><img class="book" src="https://qy.co/assets/ogi.jpg" alt="book-ogilvy" width="122" height="180"></a><a href="https://www.amazon.com/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X"  target="_blank">Confessions of an Advertising Man</a></h3>
 
 <p>David Ogilvy</p>
 
@@ -369,7 +369,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X" target="_blank"><img class="book" src="https://qasaryounis.com/assets/when.jpg" alt="book-when" width="122" height="180"></a><a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X"  target="_blank">When Breath Becomes Air</a></h3>
+<h3><a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X" target="_blank"><img class="book" src="https://qy.co/assets/when.jpg" alt="book-when" width="122" height="180"></a><a href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X"  target="_blank">When Breath Becomes Air</a></h3>
 
 <p>Paul Kalanithi</p>
 
@@ -381,7 +381,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Waiting-Godot-Tragicomedy-Two-Acts/dp/080214442X" target="_blank"><img class="book" src="https://qasaryounis.com/assets/wait.jpg" alt="book-godot" width="122" height="180"></a><a href="https://www.amazon.com/Waiting-Godot-Tragicomedy-Two-Acts/dp/080214442X"  target="_blank">Waiting for Godot</a></h3>
+<h3><a href="https://www.amazon.com/Waiting-Godot-Tragicomedy-Two-Acts/dp/080214442X" target="_blank"><img class="book" src="https://qy.co/assets/wait.jpg" alt="book-godot" width="122" height="180"></a><a href="https://www.amazon.com/Waiting-Godot-Tragicomedy-Two-Acts/dp/080214442X"  target="_blank">Waiting for Godot</a></h3>
 
 <p>Samuel Beckett</p>
 
@@ -392,7 +392,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="https://qasaryounis.com/assets/mohan.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934"  target="_blank">The Story of My Experiments with Truth</a></h3>
+<h3><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934" target="_blank"><img class="book" src="https://qy.co/assets/mohan.jpg" alt="book-cover" width="122" height="180"></a><a href="https://www.amazon.com/Mohandas-K-Gandhi-Autobiography-Experiments/dp/0486245934"  target="_blank">The Story of My Experiments with Truth</a></h3>
 
 <p>Mohandas Karamchand Gandhi</p>
 
@@ -405,7 +405,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Conquest-History-Political-Social-Science/dp/0486478505" target="_blank"><img class="book" src="https://qasaryounis.com/assets/conq.jpg" alt="book-kropotkin" width="122" height="180"></a><a href="https://www.amazon.com/Conquest-History-Political-Social-Science/dp/0486478505"  target="_blank">The Conquest of Bread</a></h3>
+<h3><a href="https://www.amazon.com/Conquest-History-Political-Social-Science/dp/0486478505" target="_blank"><img class="book" src="https://qy.co/assets/conq.jpg" alt="book-kropotkin" width="122" height="180"></a><a href="https://www.amazon.com/Conquest-History-Political-Social-Science/dp/0486478505"  target="_blank">The Conquest of Bread</a></h3>
 
 <p>Peter Kropotkin</p>
 
@@ -419,7 +419,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Philosophy-Andy-Warhol-Back-Again/dp/0156717204" target="_blank"><img class="book" src="https://qasaryounis.com/assets/warh.jpg" alt="book-warhol" width="122" height="180"></a><a href="https://www.amazon.com/Philosophy-Andy-Warhol-Back-Again/dp/0156717204"  target="_blank">The Philosophy of Andy Warhol</a></h3>
+<h3><a href="https://www.amazon.com/Philosophy-Andy-Warhol-Back-Again/dp/0156717204" target="_blank"><img class="book" src="https://qy.co/assets/warh.jpg" alt="book-warhol" width="122" height="180"></a><a href="https://www.amazon.com/Philosophy-Andy-Warhol-Back-Again/dp/0156717204"  target="_blank">The Philosophy of Andy Warhol</a></h3>
 
 <p>Andy Warhol</p>
 
@@ -432,7 +432,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Russia-Short-History-Abraham-Ascher/dp/1786071428/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/rus.jpg" alt="book-ascher" width="122" height="180"></a><a href="https://www.amazon.com/Russia-Short-History-Abraham-Ascher/dp/1786071428/"  target="_blank">Russia: A Short History</a></h3>
+<h3><a href="https://www.amazon.com/Russia-Short-History-Abraham-Ascher/dp/1786071428/" target="_blank"><img class="book" src="https://qy.co/assets/rus.jpg" alt="book-ascher" width="122" height="180"></a><a href="https://www.amazon.com/Russia-Short-History-Abraham-Ascher/dp/1786071428/"  target="_blank">Russia: A Short History</a></h3>
 
 <p>Abraham Ascher</p>
 
@@ -445,7 +445,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/spqr.jpg" alt="book-spqr" width="122" height="180"></a><a href="https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225/"  target="_blank">SPQR</a></h3>
+<h3><a href="https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225/" target="_blank"><img class="book" src="https://qy.co/assets/spqr.jpg" alt="book-spqr" width="122" height="180"></a><a href="https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225/"  target="_blank">SPQR</a></h3>
 
 <p>Mary Beard</p>
 
@@ -459,7 +459,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/dp/1473695988/" target="_blank"><img class="book" src="https://qasaryounis.com/assets/big.jpg" alt="book-hawkings" width="122" height="180"></a><a href="https://www.amazon.com/dp/1473695988/">Brief Answers to the Big Questions</a></h3>
+<h3><a href="https://www.amazon.com/dp/1473695988/" target="_blank"><img class="book" src="https://qy.co/assets/big.jpg" alt="book-hawkings" width="122" height="180"></a><a href="https://www.amazon.com/dp/1473695988/">Brief Answers to the Big Questions</a></h3>
 
 <p>Stephen Hawking</p>
 
@@ -470,7 +470,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/Magnum-Streetwise-Photos/dp/0500545073" target="_blank"><img class="book" src="https://qasaryounis.com/assets/mag.jpeg" alt="book-magnum" width="122" height="180"></a><a href="https://www.amazon.com/Magnum-Streetwise-Photos/dp/0500545073">Magnum Streetwise</a></h3>
+<h3><a href="https://www.amazon.com/Magnum-Streetwise-Photos/dp/0500545073" target="_blank"><img class="book" src="https://qy.co/assets/mag.jpeg" alt="book-magnum" width="122" height="180"></a><a href="https://www.amazon.com/Magnum-Streetwise-Photos/dp/0500545073">Magnum Streetwise</a></h3>
 
 <p>Magnum Photos</p>
 
@@ -482,7 +482,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884" target="_blank"><img class="book" src="https://qasaryounis.com/assets/highout.jpeg" alt="book-magnum" width="122" height="180"></a><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884">High Output Management</a></h3>
+<h3><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884" target="_blank"><img class="book" src="https://qy.co/assets/highout.jpeg" alt="book-magnum" width="122" height="180"></a><a href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884">High Output Management</a></h3>
 
 <p>Andy Grove</p>
 
