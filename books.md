@@ -497,7 +497,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Jason Stearns</p>
 
-<p>If you have a strong identity or a strong sense that your moral position is the correct one, I would ask you who you would be if you were born in the Congo. Would you believe in the same God, or the same set of principles that you do now. This book details the history of the First and Second Congo Wars and all of the complex set of players and their motivations. There is a reason these wars are also known as Africa's World Wars. It reminds me of how important public institutions are. The Congo is the #1 country I would travel to if safety wasn’t a concern.</p>
+<p>If you have a strong identity or a strong sense that your moral position is the correct one, I would ask you who you would be if you were born in the Congo. Would you believe in the same God or the same set of principles that you do now. This book details the history of the First and Second Congo Wars and all of the huge number of participants and their complex motivations. There is a reason these wars are also known as Africa's World Wars. It reminds me of how important public institutions are. The Congo is the #1 country I would travel to if safety wasn’t a concern.</p>
 </div>
 <hr>
 
