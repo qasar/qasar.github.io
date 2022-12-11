@@ -449,7 +449,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Mary Beard</p>
 
-<p>I picked up SPQR mostly because I wanted to learn about ancient Roman history. Unsurprisingly, the true innovation of the Roman Empire is how it absorbed neighbors, provided broad citizenship, incentivized in civil institutions (specifically the military), and dealt with power struggles within its own empire. This is a great book because Beard tends to weave narrative stories while calling out what simply isn't known about a subject that has been deeply studied. I wonder if one studied the Ottomans or the Tang Dynasty, you wouldn't see the same patterns. As the saying goes: history doesn't repeat, but it often rhymes.
+<p>I picked up SPQR mostly because I wanted to learn about ancient Roman history. Unsurprisingly, the true innovation of the Roman Empire is how it absorbed neighbors, provided broad citizenship, incentivized in civil institutions (and the military), and dealt with power struggles within its own empire. This is a great book because Beard tends to weave narrative stories while calling out what simply isn't known about a subject that has been deeply studied. I wonder if one studied the Ottomans or the Tang Dynasty, you wouldn't see the same patterns. 
  </p>
 </div>
 <hr>
