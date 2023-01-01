@@ -7,8 +7,11 @@ I occasionally invest in early-stage technology companies.
 
 If you're interested in raising money from me, please fill out this link: <a href="https://forms.gle/ecRYNX9XdBMo76W87" target="_blank">fundraising questions</a>. 
 
+I typically inves $25k-100k. Smaller than that typically doesn't make sense. 
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 
 
 <strong>Great, I’m an investor in your company!</strong>
@@ -33,7 +36,7 @@ The reason that has worked for founders in the past is I am very confidential (p
 
 <p>&nbsp;</p>
 
-<strong> 2. When you’re fundraising. </strong> Having been a VC (and MBA) and founder (and engineer), I have a broad base of personal experiences to rely on. I am also an LP in over 15 funds so I also understand what motivates GPs _slightly_ more than the average angel. 
+<strong> 2. When you’re fundraising. </strong> Having been a VC (and MBA) and founder (and engineer), I have a broad base of personal experiences to rely on. I am also an LP in over 15 funds so I also understand what motivates GPs _slightly_ more than the average angel. Founders I've funded would say direct feedback on engaging with institutional investors have been some of the most helpful inputs I give (from valuation setting, negotiations, to allocation strategy).
 
 <p>&nbsp;</p>
 <strong>3. Product Management & Go To Market functions. </strong> I worked as a product manager at Google and this taught me a lot. Lots of founders say they do product but having experience in a company that has made it a job function where you get trained and you execute with dozens or hundreds of other PMs is way different (i.e. be skeptical of product people who haven’t actually learned product from an institution AND shipped). It’s not that if you’re not a Google PM, you don’t know product, it’s just that many people who don’t actually have any discernible skills call themselves product people. You don’t want to find this out after you take their advice and find out it was wrong.
@@ -91,9 +94,9 @@ Yes, absolutely. That's the main way I invest.
 
 <strong> Testimonials </strong>
 
-“The single best angel investor I've ever worked with. What else do you want me to say?” -Tanay
+“The single best angel investor I've ever worked with. What else do you want me to say?” -<a href="https://www.athelas.com/announcements" target="_blank">Tanay</a>. 
 
-“I hate that I used to advise him and now he advises me. Something is seriously wrong with that.” -Immad
+“I hate that I used to advise him and now he advises me. Something is seriously wrong with that.” -<a href="https://mercury.com/blog/company-news/series-b" target="_blank">Immad</a>. 
 
 “Did you notice all your testimonials are from brown dudes? Get some diversity in here bro” -Another brown dude
 
@@ -109,6 +112,11 @@ Yes, absolutely. That's the main way I invest.
 
 <!--
 
+Yes this is a custom site, not some squarespace template.
+
+Since you're looking.....
+ 
+!!!!!!!!!! BONUS !!!!!!!!!!
 
 What you should read:
 
@@ -116,17 +124,7 @@ Most of the things on the internet are not great. Not that they are all wrong, j
 
 <a href="https://pmarchive.com/">Guide to startups (Marc Andreessen)</a>.
 <a href="http://paulgraham.com/startupmistakes.html">18 mistakes that kills startups (Paul Graham)</a>.
-
-
-
-What can I help with:
-
-<ul style="list-style-type:square;">
-  <li>Founder/ing questions: I've started 3 companies, advised hundreds</li>
-  <li>Product strategy: Creating and shipping high quality technical products</li>
-  <li>Operations: How to run your organization</li>
-  <li>Fundraising: How to raise capital for your startup</li>
-</ul>
+<a href="https://nav.al/rich">How to get rich (Naval Ravikant)</a>.
 
 
 -->
