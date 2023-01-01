@@ -98,7 +98,7 @@ Yes, absolutely. That's the main way I invest.
 
 “I hate that I used to advise him and now he advises me. Something is seriously wrong with that.” -<a href="https://mercury.com/blog/company-news/series-b" target="_blank">Immad</a>. 
 
-“Did you notice all your testimonials are from brown dudes? Get some diversity in here bro” -Another brown dude
+“Did you notice all your testimonials are from brown dudes? Get some diversity in here bro!” -Another brown dude
 
 
 
