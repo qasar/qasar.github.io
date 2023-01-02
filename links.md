@@ -3,7 +3,10 @@ title: Links
 permalink: /links/
 ---
 
-Videos and links from across on the interwebs (Updated January 2023).
+Videos and links from across on the interwebs.
+
+<i>Updated January 2023</i>
+
 
 <p>&nbsp;</p>
 
