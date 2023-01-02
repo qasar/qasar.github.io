@@ -21,7 +21,10 @@ Videos and links from across on the interwebs (Updated 09/2022).
 
 <a href="https://www.youtube.com/watch?v=G4gjJoMi2vY" target="_blank">John Mayer explains his personal style (and hats)</a>. 
 
-<a href="https://youtu.be/s0MDY9fl-IA" target="_blank">I make roads.... where there are no roads </a>. 
+<a href= "https://youtu.be/tixOyiR8B-8" target="_blank">Ehrhart, you better keep your mouth shut</a>. 
+
+
+<a href="https://youtu.be/s0MDY9fl-IA" target="_blank">I make roads... where there are no roads</a>.
 
 <a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s" target="_blank">Warren Buffet talk at Nebraska (2003)</a>.
 
