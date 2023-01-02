@@ -36,6 +36,8 @@ Videos and links from across on the interwebs (Updated 09/2022).
 
 <a href= "https://youtu.be/3LopI4YeC4I" target="_blank">Success and luck</a>. 
 
+<a href= "https://youtu.be/SfPwR00HXM0" target="_blank">The fog of war</a>. 
+
 <a href= "https://hbswk.hbs.edu/item/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
 
 <a href= "https://youtu.be/1_TuEO6Mttw" target="_blank">It's done</a>. 
