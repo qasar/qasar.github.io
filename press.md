@@ -9,7 +9,7 @@ permalink: /press/
 
 <a href="https://www.autonews.com/suppliers/software-tools-provider-applied-intuition-buys-company-behind-carsim">Applied Intuition acquires CarSim</a> (Automotive News)
 
-<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105">Applied Intuition raises $175 Million for automotive software tools</a> (Bloomberg)
+<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105">Applied Intuition raises $175 million for automotive software tools</a> (Bloomberg)
 
 <a href="https://www.sae.org/podcasts/tomorrow-today/episodes/applied-intuition-and-the-simulated-road">Test Tracks of Reality</a> (Society of Automotive Engineers)
 
