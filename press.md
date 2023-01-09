@@ -7,10 +7,11 @@ permalink: /press/
 
 <a href="https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind">A startup designed to win</a> (Starting Greatness)
 
-<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105"> More manufacturers bet on simulation software</a> (Wall Street Journal)
+<a href="https://www.autonews.com/suppliers/software-tools-provider-applied-intuition-buys-company-behind-carsim">Applied Intuition buys CarSim</a> (Automotive News)
 
-<a href="https://www.bloomberg.com/news/articles/2018-09-12/how-self-driving-cars-can-get-past-the-learning-permit-stage-without-any-risk
-"> How self-driving cars can get past the learning permit stage</a> (Bloomberg)
+<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105">Google Vets' Applied Intuition raises $175 Million for automotive aoftware tools</a> (Bloomberg)
+
+<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105"> More manufacturers bet on simulation software</a> (Wall Street Journal)
 
 <a href="https://www.facebook.com/qasar/posts/10154710776519865"> Thank you, Y Combinator</a>
 
