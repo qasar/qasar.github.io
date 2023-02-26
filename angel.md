@@ -7,7 +7,7 @@ I occasionally invest in early-stage technology companies.
 
 If you're interested in raising money from me, please fill out this link: <a href="https://forms.gle/ecRYNX9XdBMo76W87" target="_blank">fundraising questions</a>. 
 
-I typically inves $25k-100k. Smaller than that typically doesn't make sense. 
+I typically invest $25k-100k. Smaller than that typically doesn't make sense. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
