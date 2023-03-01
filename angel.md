@@ -30,9 +30,9 @@ Angel investors are different from funds for a couple of reasons - they are more
 
 <strong>When can I help? </strong>
 
-<strong> 1. When things are going really, really bad. </strong> Consider me as a lifeline. This can be something like you don’t think the company is going to work and should you pivot to a cofounder break up (or a breakup in your personal life impacting your company). 
+<strong> 1. When things are going really, really bad. </strong> It might not seem like it right now but things will go unexpectedly in building a company and that's where I can help. This can be something like you don’t think the company is going to work and should you pivot to a cofounder break up (or a breakup in your personal life impacting your company). 
 
-The reason that has worked for founders in the past is I am very confidential (professional VC are almost by design the opposite because they succeed by passing information to their partners or their network). While I’m on this topic, remember every time you talk to an investor, they are judging you. Every time. Even if they bump into you in a hotel lobby in Vegas. It’s their job. They are making million dollar decisions on very limited information.
+The reason that has worked for founders in the past is I am very confidential (professional VC are almost by design the opposite because they succeed by passing information to their partners or their network). While I’m on this topic, remember every time you talk to an investor, they are judging you. Every time. Even if they bump into you in a hotel lobby in Vegas. It’s their job. They are making multi million dollar decisions on very limited information.
 
 <p>&nbsp;</p>
 
