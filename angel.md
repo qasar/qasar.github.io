@@ -62,7 +62,7 @@ P0: It’s in number 1 above - just text me and say as much. If you don’t have
 
 P1: I can talk most days at 10pm and almost all weekends at 10am. This would be like you’re going to launch something and want to go through your plan or comp package for a CMO. 
 
-P2: Message my EA: <a href="mailto:lydia@applied.co" target="_blank">lydia@applied.co</a> and put me on CC. This would be like you have something you’re wrestling with like one of your execs isn’t performing. We can usually calendar in ~2 weeks.
+P2: Message my EA: <a href="mailto:jan@applied.co" target="_blank">jan@applied.co</a> and put me on CC. This would be like you have something you’re wrestling with like one of your execs isn’t performing. We can usually calendar in ~2 weeks.
 
 
 <p>&nbsp;</p>
