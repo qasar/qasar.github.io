@@ -92,7 +92,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Sam Walton</p>
 
-<p>This is perhaps my all-time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. There is an irony in the book title as Walmart has become so synonymous with selling products which are indeed not made in America.</p>
+<p>This is perhaps my all-time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. What is particularly impressive about the Sam Walton story is how seemingly straightforward it is -- build a good business, treat people well, and attain success. Like Warren Buffet, Walton shows how a few guiding principles followed for long periods of time can have a tremendous impact.</p>
 </div>
 <hr>
 
