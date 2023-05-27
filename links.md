@@ -5,7 +5,7 @@ permalink: /links/
 
 Videos and links from across on the interwebs.
 
-<i>Updated January 2023</i>
+<i>Updated May 2023</i>
 
 
 <p>&nbsp;</p>
@@ -26,8 +26,9 @@ Videos and links from across on the interwebs.
 
 <a href= "https://youtu.be/tixOyiR8B-8" target="_blank">Ehrhart, you better keep your mouth shut</a>. 
 
-
 <a href="https://youtu.be/s0MDY9fl-IA" target="_blank">I make roads... where there are no roads</a>.
+
+<a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">We have a lot less life left than we think</a>. 
 
 <a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s" target="_blank">Warren Buffet talk at Nebraska (2003)</a>.
 
