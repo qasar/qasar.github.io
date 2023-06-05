@@ -80,7 +80,7 @@ You reach out to me when you need help. That can be at whatever frequency that m
 
 <strong> Paperwork & Stuff: </strong>
 
-Martin Kim at Kranz helps me. His email is <a href="mailto:Mkim@kranz.consulting" target="_blank">Mkim@kranz.consulting</a>. He can do everything from signature blocks, getting docs done to wiring money. 
+Martin Kim at Kranz helps me. His email is <a href="mailto:mkim@kranz.consulting" target="_blank">Mkim@kranz.consulting</a>. He can do everything from signature blocks, getting docs done to wiring money. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
