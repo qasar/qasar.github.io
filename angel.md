@@ -33,21 +33,23 @@ Angel investors are different from funds for a couple of reasons - they are more
 <strong> 1. When things are going really, really bad. </strong> It might not seem like it right now but things will go unexpectedly in building a company and that's where I can help. This can be something like you don’t think the company is going to work and should you pivot to a cofounder break up (or a breakup in your personal life impacting your company). 
 
 The reason that has worked for founders in the past is I am very confidential (professional VC are almost by design the opposite because they succeed by passing information to their partners or their network). While I’m on this topic, remember every time you talk to an investor, they are judging you. Every time. Even if they bump into you in a hotel lobby in Vegas. It’s their job. They are making multi million dollar decisions on very limited information.
-
 <p>&nbsp;</p>
 
 <strong> 2. When you’re fundraising. </strong> Having been a VC (and MBA) and founder (and engineer), I have a broad base of personal experiences to rely on. I am also an LP in over 15 funds so I also understand what motivates GPs _slightly_ more than the average angel. Founders I've funded would say direct feedback on engaging with institutional investors have been some of the most helpful inputs I give (from valuation setting, negotiations, to allocation strategy).
+<p>&nbsp;</p>
+
+<strong>3. Company Operations. </strong> At Applied we've learned a lot of things getting the business to scale profitably. Near top of that list is performance management, release planning, customer support and culture building. Most specifically, answering the questions on how culture is built into the proverbial house like plumbing rather than an afterthought once the house is already up with people living in it.
 
 <p>&nbsp;</p>
-<strong>3. Product Management & Go To Market functions. </strong> I worked as a product manager at Google and this taught me a lot. Lots of founders say they do product but having experience in a company that has made it a job function where you get trained and you execute with dozens or hundreds of other PMs is way different (i.e. be skeptical of product people who haven’t actually learned product from an institution AND shipped). It’s not that if you’re not a Google PM, you don’t know product, it’s just that many people who don’t actually have any discernible skills call themselves product people. You don’t want to find this out after you take their advice and find out it was wrong.
+<strong>4. Product Management & Go To Market functions. </strong> I worked as a product manager at Google and this taught me a lot. Lots of founders say they do product but having experience in a company that has made it a job function where you get trained and you execute with dozens or hundreds of other PMs is way different (i.e. be skeptical of product people who haven’t actually learned product from an institution AND shipped). It’s not that if you’re not a Google PM, you don’t know product, it’s just that many people who don’t actually have any discernible skills call themselves product people. You don’t want to find this out after you take their advice and find out it was wrong.
 
 On Go-to-market, my experience comes from Applied and 1000s of companies I worked with at Y Combinator. The former is much more important but the latter offers diversity that is important to understand different types of GTM strategies that can be employed.
 
 <p>&nbsp;</p>
-<strong> 4. Compensation, hiring and firing. </strong> I deal with this all day, everyday and have gotten good at it. I typically know what is on the market. Be very very weary of VC compensation charts which tend to be heavily inflated. 
+<strong> 5. Compensation, hiring and firing. </strong> I deal with this all day, everyday and have gotten good at it. I typically know what is on the market. Be very very weary of VC compensation charts which tend to be heavily inflated. 
 
 <p>&nbsp;</p>
-<strong> 5. M&A. </strong> I have sold a company to Google, bought companies at Google and at Applied. I have some sense of the best tactics here. 
+<strong> 6. M&A. </strong> I have sold a company to Google, bought companies at Google and at Applied. I have some sense of the best tactics here. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
