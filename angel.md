@@ -49,7 +49,7 @@ On Go-to-market, my experience comes from Applied and 1000s of companies I worke
 <strong> 5. Compensation, hiring and firing. </strong> I deal with this all day, everyday and have gotten good at it. I typically know what is on the market. Be very very weary of VC compensation charts which tend to be heavily inflated. 
 
 <p>&nbsp;</p>
-<strong> 6. M&A. </strong> I have sold a company to Google, bought companies at Google and at Applied. I have some sense of the best tactics here. 
+<strong> 6. M&A. </strong> I have sold a company to Google, bought companies at Google and at Applied (including buying a public company in a take-private). I have some sense of the best tactics here. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
