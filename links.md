@@ -5,7 +5,7 @@ permalink: /links/
 
 Videos and links from across on the interwebs.
 
-<i>Updated May 2023</i>
+<i>Updated December 2023</i>
 
 
 <p>&nbsp;</p>
@@ -47,6 +47,9 @@ Videos and links from across on the interwebs.
 <a href= "https://youtu.be/1_TuEO6Mttw" target="_blank">It's done</a>. 
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
+
+<a href="https://youtu.be/KvW2dYbfD0w?si=6WOMGlfoxV4mkJEp&t=587" target="_blank">No we're talking holy war, we're talking rivers of blood...</a>. 
+
 
 
 
