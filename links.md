@@ -5,7 +5,7 @@ permalink: /links/
 
 Videos and links from across on the interwebs.
 
-<i>Updated December 2023</i>
+<i>Updated January 2024</i>
 
 
 <p>&nbsp;</p>
@@ -50,6 +50,7 @@ Videos and links from across on the interwebs.
 
 <a href="https://youtu.be/KvW2dYbfD0w?si=6WOMGlfoxV4mkJEp&t=587" target="_blank">No, we're talking holy war! We're talking rivers of blood...</a>. 
 
+<a href="https://youtu.be/JN8FM1NCOSk?si=DKdLtfthgnVB6oh5&t=211" target="_blank">There is nothing historically remarkable about that. Billions of people pass through this veil of tears in exactly that way</a>. 
 
 
 
