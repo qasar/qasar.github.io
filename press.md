@@ -3,7 +3,6 @@ title: Notable Press
 permalink: /press/
 ---
 
-<i>Updated January 2023</i>
 
 <a href="https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind">A startup designed to win</a> (Starting Greatness)
 
