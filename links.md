@@ -5,8 +5,6 @@ permalink: /links/
 
 Videos and links from across on the interwebs.
 
-<i>Updated January 2024</i>
-
 
 <p>&nbsp;</p>
 
