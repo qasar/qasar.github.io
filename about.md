@@ -18,4 +18,18 @@ In the words of Andy Grove: I am an engineer by training and a manager of a high
 <br>
 
 Email: <a href="mailto:hi@qy.co" target="_blank">hi@qy.co</a>.
-<i> Site last updated Feb. 2024, built w/ Github pages. </i>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> <i> Site last updated Feb. 2024, built w/ Github pages. </i>
