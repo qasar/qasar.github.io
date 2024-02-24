@@ -14,7 +14,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Jiddu Krishnamurti</p>
 
-<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurthi explains, in painstaking detail concepts that are seemingly very simple but simultaneously deeply profound. I realized many assumptions are so ossified in our minds, that one can barely recognize their existence. Upon completion, I closed the book and saw the quote on the back cover: "Truth is a pathless land" and was finally beginning to understand what that means.</p>
+<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurthi explains, in painstaking detail, concepts that are seemingly very simple but simultaneously deeply profound. I realized many assumptions are so ossified in our minds, that one can barely recognize their existence. Upon completion, I closed the book and saw the quote on the back cover: "Truth is a pathless land" and was finally beginning to understand what that means.</p>
 
 </div>
 <hr>
@@ -66,7 +66,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Bryan Burrough, John Helyar</p>
 
-<p>Is 500 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in board rooms and proxy votes rather than cannon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than some a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
+<p>Is 500 plus pages about essentially one private equity deal interesting? You bet it is. Although a bit sensationalized, this book is well researched and written. It’s also somewhat settling that modern warfare is fought in boardrooms and proxy votes rather than cannon fire and bayonets. Reading this book will also drive home the fact that, like many things, private equity is more than a simple caricature of investors buying companies and firing people so they can buy bigger yachts.</p>
 </div>
 <hr>
 
@@ -156,7 +156,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Stephen King</p>
 
-<p>This book is both well written as a memoir and as an informal instruction manual. In someways, it's the writer's version of Ray Dalio's book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill, and luck. </p>
+<p>This book is both well written as a memoir and as an informal instruction manual. In some ways, it's the writer's version of Ray Dalio's book Principles. The path to excellence is strikingly similar to other people who have attained the highest level of success: dogged hard work, discipline, persistence, a desire to master the skill, and luck. </p>
 
 </div>
 <hr>
@@ -195,7 +195,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Otto Friedrich</p>
 
-<p>I’m not sure how I would react to the holocaust if I was Jewish. I imagine it’s a tragedy so profound and vast that it would impact almost everything I would come in contact with. Similar to American slavery, my fear is one day we will come to take for granted that humans did this to each other. And because of this, perhaps take us down a path which we’ve already shamefully walked. This book overwhelmingly emotional.</p>
+<p>I’m not sure how I would react to the holocaust if I was Jewish. I imagine it’s a tragedy so profound and vast that it would impact almost everything I would come in contact with. Similar to American slavery, my fear is one day we will come to take for granted that humans did this to each other. And because of this, perhaps take us down a path which we’ve already shamefully walked. This book is overwhelmingly emotional.</p>
 </div>
 <hr>
 
@@ -220,7 +220,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>E.H. Gombrich</p>
 
-<p>I found this book while generally trying to learn about art history and I can see why it's so famous. It reads more like a textbook than anything else but its plain language mixed with page after page of actual historic art makes this a high recommendation if you're curious about the subject. The one small nitpick is this book really is about Western European art, almost wholly ignoring Russian, Islamic, Indian, Chinese or Japanse. But a sign of how good the writing and explanation are is that I feel easily this could have been broken into 10 volumes. Several thousand years of art into a few hundred pages leave you wanting for much more.</p>
+<p>I found this book while generally trying to learn about art history and I can see why it's so famous. It reads more like a textbook than anything else but its plain language mixed with page after page of actual historic art makes this a high recommendation if you're curious about the subject. The one small nitpick is this book really is about Western European art, almost wholly ignoring Russian, Islamic, Indian, Chinese or Japanese. But a sign of how good the writing and explanation are is that I feel easily this could have been broken into 10 volumes. Several thousand years of art into a few hundred pages leave you wanting for much more.</p>
 
 </div>
 <hr>
@@ -284,7 +284,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Daniel Yergin, Joseph Stanislaw</p>
 
-<p>I decided to pursue an economics minor in undergrad after reading this book. A deeply insightful analysis about the debate around the one of the most important questions shaping the last century: central planning vs free-market economics. As Stalin said, "Mankind is divided into rich and poor, into property owners and exploited; and to abstract oneself from this fundamental division; and from the antagonism between poor and rich means abstracting oneself from fundamental facts."</p>
+<p>I decided to pursue an economics minor in undergrad after reading this book. A deeply insightful analysis about the debate around one of the most important questions shaping the last century: central planning vs free-market economics. As Stalin said, "Mankind is divided into rich and poor, into property owners and exploited; and to abstract oneself from this fundamental division; and from the antagonism between poor and rich means abstracting oneself from fundamental facts."</p>
 </div>
 <hr>
 
@@ -321,7 +321,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Charles Darwin</p>
 
-<p>One of the most striking things about Darwin was his amazing work ethic. What I found inspiring was the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. Perhaps the reason this isn't championed more often as a path to success is that it is boring and by nature, we are social animals. Also intriguing about Darwin is that seems little evidence from his teenage years that he would become such an influential scientist.</p>
+<p>One of the most striking things about Darwin was his amazing work ethic. What I found inspiring was the dogged nature of his quest for knowledge and truth. I think Darwin's daily habits underline a belief I've had for quite some time that our best work is done alone. Perhaps the reason this isn't championed more often as a path to success is that it is boring and by nature, we are social animals. Also intriguing about Darwin is that there seems to be little evidence from his teenage years that he would become such an influential scientist.</p>
 </div>
 <hr>
 
@@ -384,7 +384,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Samuel Beckett</p>
 
-<p>I'm fairly certain when if I had read this play without the accompanying analysis, it wouldn't have the impact that it did. However, thankfully, that wasn't the case. Although the work is high art, it delivers in force that's usually not commonly associated with the genre. The work is an example of stipping ideas down to their bare bones to see their inner machinations.
+<p>I'm fairly certain when if I had read this play without the accompanying analysis, it wouldn't have the impact that it did. However, thankfully, that wasn't the case. Although the work is high art, it delivers in a force that's usually not commonly associated with the genre. The work is an example of stripping ideas down to their bare bones to see their inner machinations.
 </p>
 </div>
 <hr>
@@ -395,7 +395,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Mohandas Karamchand Gandhi</p>
 
-<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century considering its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
+<p>This book holds a special significance in my development. It has had a reverberating impact on the way I think about my life and actions. It also serves as an informal historical guide to pre-partition India and gives me pride in my South Asian heritage. Perhaps one of the most important books ever written in the past century considering its impact on other great leaders like MLK Jr. and Nelson Mandela.</p>
 </div>
 <hr>
 
@@ -448,7 +448,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Mary Beard</p>
 
-<p>I picked up SPQR mostly because I wanted to learn about ancient Roman history. Unsurprisingly, the true innovation of the Roman Empire is how it absorbed neighbors, provided broad citizenship, incentivized in civil institutions (and the military), and dealt with power struggles within its own empire. This is a great book because Beard tends to weave narrative stories while calling out what simply isn't known about a subject that has been deeply studied. I wonder if one studied the Ottomans or the Tang Dynasty, you wouldn't see the same patterns. 
+<p>I picked up SPQR mostly because I wanted to learn about ancient Roman history. Unsurprisingly, the true innovation of the Roman Empire is how it absorbed neighbors, provided broad citizenship, incentivized civil institutions (and the military), and dealt with power struggles within its own empire. This is a great book because Beard tends to weave narrative stories while calling out what simply isn't known about a subject that has been deeply studied. I wonder if one studied the Ottomans or the Tang Dynasty, you wouldn't see the same patterns. 
  </p>
 </div>
 <hr>
@@ -462,7 +462,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Stephen Hawking</p>
 
-<p>One of my biggest regrets in life is the I got decent grades at the sacrifice of learning. So over the past years, I found myself relearning simple things like thermal radiation to wave-particle duality. Since I'm not looking to apply these learnings (like I was when I was getting my Mechanical Engineering degree), I found myself veering towards modern physics and from there to astronomy. There have been a handful of great books I've read that are so dense that I'm not sure I could get through them again, let alone recommend them. However Brief Answers is exactly the opposite. It simplifies astronomy (and cosmology) in a way that is logical and entertaining, while not requiring prequalification.</p>
+<p>One of my biggest regrets in life is that I got decent grades at the sacrifice of learning. So over the past years, I found myself relearning simple things like thermal radiation to wave-particle duality. Since I'm not looking to apply these learnings (like I was when I was getting my Mechanical Engineering degree), I found myself veering towards modern physics and from there to astronomy. There have been a handful of great books I've read that are so dense that I'm not sure I could get through them again, let alone recommend them. However, Brief Answers, is exactly the opposite. It simplifies astronomy (and cosmology) in a way that is logical and entertaining, while not requiring prequalification.</p>
 </div>
 <hr>
 
@@ -496,7 +496,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Jason Stearns</p>
 
-<p>If you have a strong identity or a strong sense that your moral position is the correct one, I would ask you who you would be if you were born in the Congo. Would you believe in the same God or the same set of principles that you do now. This book details the history of the First and Second Congo Wars and all of the huge number of participants and their complex motivations. There is a reason these wars are also known as Africa's World Wars. It reminds me of how important public institutions are. The Congo is the #1 country I would travel to if safety wasn’t a concern.</p>
+<p>If you have a strong identity or a strong sense that your moral position is the correct one, I would ask you who you would be if you were born in the Congo. Would you believe in the same God or the same set of principles that you do now? This book details the history of the First and Second Congo Wars and all of the huge number of participants and their complex motivations. There is a reason these wars are also known as Africa's World Wars. It reminds me of how important public institutions are. The Congo is the #1 country I would travel to if safety wasn’t a concern.</p>
 </div>
 <hr>
 
