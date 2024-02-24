@@ -32,4 +32,4 @@ Email: <a href="mailto:hi@qy.co" target="_blank">hi@qy.co</a>.
 <br>
 <br>
 <br>
-<br> <i> Site last updated Feb. 2024, built w/ Github pages. </i>
+<br> <i> Site built w/ Github pages and last updated February 2024. </i>
