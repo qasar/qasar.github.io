@@ -46,7 +46,7 @@ Videos and links from across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
 
-<a href="https://youtu.be/KvW2dYbfD0w?si=6WOMGlfoxV4mkJEp&t=587" target="_blank">No, we're talking holy war! We're talking rivers of blood...</a>. 
+<a href="https://youtu.be/WpdhFAKPsT4?si=2tVYE9O3Tq8mhP51&t=587" target="_blank">No, we're talking holy war! We're talking rivers of blood...</a>. 
 
 <a href="https://youtu.be/JN8FM1NCOSk?si=DKdLtfthgnVB6oh5&t=211" target="_blank">Billions of people pass through this veil of tears in exactly that way</a>. 
 
