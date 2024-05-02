@@ -118,57 +118,6 @@ var totalImgs = imageGallery.length -1;
 var hasBeenClapped = {}
 var imageCounts = {}
 
-/*
-function preloadImages() {
-  for (var i = 0; i < imageGallery.length; i++) {
-    img1 = new Image();
-    img1.src = imageGallery[i];
-  }
-}
-		
-	
-function next() {		
-    if(imgCount == totalImgs){		
-      imgCount = 0;		
-    }  else {		
-      imgCount++;		
-    }		
-   document.getElementById("gallery").src = imageGallery[imgCount];		
-   document.getElementById("locationsText").innerHTML = locations[imgCount];	
-   document.getElementById("imageText").innerHTML = imageText[imgCount];
-	document.getElementById('currentImage').innerHTML = imgCount + 1
-}		
-		
-function previous() {		
-    imgCount--;		
-  if(imgCount < 0) imgCount = totalImgs ;		
-       document.getElementById("gallery").src = imageGallery[imgCount];  		
-       document.getElementById("locationsText").innerHTML = locations[imgCount];	
-       document.getElementById("imageText").innerHTML = imageText[imgCount]; 
-	       document.getElementById('currentImage').innerHTML = imgCount + 1
-
-    } 		
-		
-document.addEventListener("keydown", function(e){		
-	console.log(e.keyCode)		
-	if (e.keyCode == 37) {		
-		previous()		
-	} else if (e.keyCode == 39) {		
-		next()		
-	}		
-});		
-
-	
-function handlePhotoClick(event, img) {
-        var posX = event.offsetX?(event.offsetX):event.pageX-img.offsetLeft;
-        var posY = event.offsetY?(event.offsetY):event.pageY-img.offsetTop;
-        if (posX > img.width / 2) {
-          next()
-        } else {
-          previous()
-        }
-}
-*/
 	
 </script>		
 {% include nav.html %}		
@@ -209,13 +158,6 @@ Buenos Aires (2009)
 
 </div>		
 </div>
-
-
-<script>
-//document.getElementById('currentImage').innerHTML = imgCount + 1
-//document.getElementById('totalImages').innerHTML = imageGallery.length
-//preloadImages()
-</script>
 
 <script src="/assets/photos.js"></script>
 <script type="module" src="/assets/claps.js"></script>
