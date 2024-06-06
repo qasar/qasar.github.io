@@ -9,6 +9,8 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <br> <i> Last updated May 2024. </i>
 
+<p>&nbsp;</p>
+
 
 <div class = "bookContainer">
 
