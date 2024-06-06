@@ -13,7 +13,22 @@ In the words of Andy Grove: I am an engineer by training and a manager of a high
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Email: <a href="mailto:hi@qy.co" target="_blank">hi@qy.co</a>.
 <br>
-<br> <i> Site built w/ Github pages. Last updated May 2024. </i>
+<br> <i> Site built w/ Github pages. </i>
