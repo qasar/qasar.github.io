@@ -1,8 +1,11 @@
 ---
-title: Notable Press
+title: Notable Press & Talks
 permalink: /press/
 ---
 
+<a href="https://youtu.be/o2kf4VjnknA?si=g3GW0aLMDYh-5FMk">Radically pragmatic insights</a> (Stanford ETL Talk)
+
+<a href="https://www.appliedintuition.com/blog/series-e">Raising $250m Series E funding</a> (Applied Intuition Blog)
 
 <a href="https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind">A startup designed to win</a> (Starting Greatness)
 
