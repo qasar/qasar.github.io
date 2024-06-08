@@ -15,7 +15,7 @@ permalink: /press/
 
 <a href="https://www.sae.org/podcasts/tomorrow-today/episodes/applied-intuition-and-the-simulated-road">Test Tracks of Reality</a> (Society of Automotive Engineers)
 
-<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105"> HackMIT Fireside Chat</a> (Massachusetts Institute of Technology)
+<a href="https://youtu.be/Uk5cLTB_PLI?si=9Qm-BgIN46lZcf27"> HackMIT Fireside Chat</a> (Massachusetts Institute of Technology)
 
 <a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105"> More manufacturers bet on simulation software</a> (Wall Street Journal)
 
