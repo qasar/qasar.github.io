@@ -3,13 +3,13 @@ title: Notable Press & Talks
 permalink: /press/
 ---
 
-<a href="https://youtu.be/o2kf4VjnknA?si=g3GW0aLMDYh-5FMk">Radically pragmatic insights</a> (Stanford ETL Talk)</a>
+<a href="https://youtu.be/o2kf4VjnknA?si=g3GW0aLMDYh-5FMk">Radically pragmatic insights (Stanford ETL Talk)</a>
 
-<a href="https://www.appliedintuition.com/blog/series-e">Raising $250m Series E funding</a> (Applied Intuition Blog)</a>
+<a href="https://www.appliedintuition.com/blog/series-e">Raising $250m Series E funding (Applied Intuition Blog)</a>
 
-<a href="https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind">A startup designed to win</a> (Starting Greatness)</a>
+<a href="https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind">A startup designed to win (Starting Greatness)</a>
 
-<a href="https://www.autonews.com/suppliers/software-tools-provider-applied-intuition-buys-company-behind-carsim">Applied Intuition acquires CarSim</a> (Automotive News)</a>
+<a href="https://www.autonews.com/suppliers/software-tools-provider-applied-intuition-buys-company-behind-carsim">Applied Intuition acquires CarSim (Automotive News)</a>
 
 <a href="https://www.bloomberg.com/news/articles/2021-11-11/google-vets-raise-175-million-for-automotive-software-tools">Applied Intuition raises $175 million for automotive software tools (Bloomberg)</a>
 
