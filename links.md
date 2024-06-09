@@ -8,7 +8,9 @@ Videos and links from across on the interwebs.
 
 <p>&nbsp;</p>
 
-<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detroit Pistons Isiah Thomas' hall of fame speech</a>. 
+<a href="https://youtu.be/5pYeoZaoWrA?si=QOgqOLh45iEySRPY" target="_blank">This IS financial advice</a>. 
+
+<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">I thought it would be best if I just spoke from my heart</a>. 
 
 <a href="https://www.youtube.com/watch?v=9aGRHOpMRUg&list=FLXJuURIK0_r_mGlRWSPkgCw&index=78&t=0s" target="_blank">Why these all-white paintings are in museums and mine aren't</a>. 
 
@@ -46,13 +48,15 @@ Videos and links from across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
 
+<a href="https://youtu.be/nnrzW0NeKQ8?si=pKJAC536mZCa-9Cf" target="_blank">They claim their labors are to build a heaven. Yet their heaven is populated with horrors. 
+</a>. 
+
 <a href="https://youtu.be/JN8FM1NCOSk?si=DKdLtfthgnVB6oh5&t=211" target="_blank">Billions of people pass through this veil of tears in exactly that way</a>. 
 
 <a href="https://youtu.be/WpdhFAKPsT4?si=2tVYE9O3Tq8mhP51&t=587" target="_blank">No, we're talking holy war! We're talking rivers of blood...</a>. 
 
 <a href="https://youtu.be/mScpHTIi-kM?si=cvk6sIef1MUFRvuX" target="_blank">Be nice, be forgiving, but don't be a pushover</a>. 
 
-<a href="https://youtu.be/5pYeoZaoWrA?si=QOgqOLh45iEySRPY" target="_blank">This IS financial advice</a>. 
 
 
 
