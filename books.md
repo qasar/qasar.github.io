@@ -5,9 +5,6 @@ permalink: /books/
 
 Below is a list of books that have made a deep and lasting impact on me. As the adage goes 'your thoughts become your destiny' and these books have influenced my thoughts.
 
-<p>&nbsp;</p>
-
-<br> <i> Last updated May 2024. </i>
 
 <p>&nbsp;</p>
 
