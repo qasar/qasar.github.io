@@ -48,14 +48,20 @@ Videos and links from across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
 
-<a href="https://youtu.be/nnrzW0NeKQ8?si=pKJAC536mZCa-9Cf" target="_blank">They claim their labors are to build a heaven. Yet their heaven is populated with horrors. 
-</a>. 
+<a href="https://youtu.be/nnrzW0NeKQ8?si=pKJAC536mZCa-9Cf" target="_blank">They claim their labors are to build a heaven. Yet their heaven is populated with horrors</a>. 
 
 <a href="https://youtu.be/JN8FM1NCOSk?si=DKdLtfthgnVB6oh5&t=211" target="_blank">Billions of people pass through this veil of tears in exactly that way</a>. 
 
 <a href="https://youtu.be/WpdhFAKPsT4?si=2tVYE9O3Tq8mhP51&t=587" target="_blank">No, we're talking holy war! We're talking rivers of blood...</a>. 
 
 <a href="https://youtu.be/mScpHTIi-kM?si=cvk6sIef1MUFRvuX" target="_blank">Be nice, be forgiving, but don't be a pushover</a>. 
+
+<a href="https://www.paulgraham.com/startupmistakes.html" target="_blank">Maybe the best 1 article on startups ever(2006)</a>. 
+
+<a href="https://pmarchive.com/" target="_blank">How to start a startup (2008)</a>. 
+
+<a href="https://nav.al/rich" target="_blank">How to get rich (2020)</a>. 
+
 
 
 
