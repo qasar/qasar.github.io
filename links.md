@@ -56,7 +56,7 @@ Videos and links from across on the interwebs.
 
 <a href="https://youtu.be/mScpHTIi-kM?si=cvk6sIef1MUFRvuX" target="_blank">Be nice, be forgiving, but don't be a pushover</a>. 
 
-<a href="https://www.paulgraham.com/startupmistakes.html" target="_blank">Maybe the best 1 article on startups ever(2006)</a>. 
+<a href="https://www.paulgraham.com/startupmistakes.html" target="_blank">Maybe the best 1 article on startups ever (2006)</a>. 
 
 <a href="https://pmarchive.com/" target="_blank">How to start a startup (2008)</a>. 
 
