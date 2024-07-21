@@ -10,7 +10,7 @@ Videos and links from across on the interwebs.
 
 <a href="https://youtu.be/5pYeoZaoWrA?si=QOgqOLh45iEySRPY" target="_blank">This IS financial advice</a>. 
 
-<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">I thought it would be best if I just spoke from my heart</a>. 
+<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detoit Piston's Isiah Thomas: I thought it would be best if I just spoke from my heart</a>. 
 
 <a href="https://www.youtube.com/watch?v=9aGRHOpMRUg&list=FLXJuURIK0_r_mGlRWSPkgCw&index=78&t=0s" target="_blank">Why these all-white paintings are in museums and mine aren't</a>. 
 
@@ -61,6 +61,8 @@ Videos and links from across on the interwebs.
 <a href="https://pmarchive.com/" target="_blank">How to start a startup (2008)</a>. 
 
 <a href="https://nav.al/rich" target="_blank">How to get rich (2020)</a>. 
+
+<a href="https://ognjen.io/lie-still-in-bed/" target="_blank">Lie still in bed</a>. 
 
 
 
