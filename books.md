@@ -467,6 +467,17 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 </div>
 <hr>
 
+<div class = "bookContainer">
+
+<h3><a href="https://www.amazon.com/Things-Fall-Apart-Chinua-Achebe/dp/0385474547/" target="_blank"><img class="book" src="https://qy.co/assets/thingsfallapart.jpeg" alt="book-dance" width="122" height="180"></a><a href="https://www.amazon.com/Things-Fall-Apart-Chinua-Achebe/dp/0385474547/">Things Fall Apart</a></h3>
+
+<p>Chinua Achebe</p>
+
+<p>I don't quite recall a novel that stuck in my mind as much as this one in the past decade. It's not entertaining as much as it is enlightening. Specifically about the intrusion of an outside culture that dominates a local population. I always wondered why more people in the world did not respond like the Japanese did to Jesuit missionaries. Maybe because many cultures approached the outsiders with their own understanding of the world, rather than the outsiders' understanding of the world. Or maybe because Japan was far from Spain and Portugal. Or maybe because Japan was an island. Or maybe because Japanese culture is more pronounced. I wonder, because of how famous this book became in Africa, how it probably had a real impact on the rise of African nationalism and decolonization. </p>
+</div>
+<hr>
+
+
 
 <div class = "bookContainer">
 
