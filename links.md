@@ -62,6 +62,8 @@ Videos and links from across on the interwebs.
 
 <a href="https://nav.al/rich" target="_blank">How to get rich (2020)</a>. 
 
+<a href="https://youtu.be/7aKGNL0tMlQ?si=o9MzYjgYsS7zwx9R" target="_blank">Eaten by flowers</a>. 
+
 <a href="https://ognjen.io/lie-still-in-bed/" target="_blank">Lie still in bed</a>. 
 
 
