@@ -231,7 +231,8 @@ pre code {
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 1000px; /* New max width to double size */
+  width: 100%; /* Ensures scaling down if the container is smaller */
   margin: 0 0 1rem;
 }
 
