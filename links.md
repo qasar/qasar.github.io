@@ -20,7 +20,7 @@ Videos and links from across on the interwebs.
 
 <a href="https://www.youtube.com/watch?v=u6aEYuemt0M" target="_blank">Andrej Karpathy on deep learning for computer vision (2016)</a>. 
 
-<a href="https://ethics.utep.edu/images/Jim_Lehrer_Rules_of_Journalism.pdf" target="_blank">Jim Lehrer’s Rules of Journalism (guide to life as a whole)</a>. 
+<a href="https://studentreportinglabs.org/news/srl-remembers-jim-lehrer/" target="_blank">Jim Lehrer’s Rules of Journalism (guide to life as a whole)</a>. 
 
 <a href="https://www.youtube.com/watch?v=G4gjJoMi2vY" target="_blank">John Mayer explains his personal style (and hats)</a>. 
 
