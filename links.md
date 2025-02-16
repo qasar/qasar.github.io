@@ -40,6 +40,8 @@ Videos and links from across on the interwebs.
 
 <a href= "https://youtu.be/3LopI4YeC4I" target="_blank">Success and luck</a>. 
 
+<a href= "https://youtu.be/g6igTJXcqvo" target="_blank">Hacker interview</a>. 
+
 <a href= "https://youtu.be/SfPwR00HXM0" target="_blank">The fog of war</a>. 
 
 <a href= "https://hbswk.hbs.edu/item/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
