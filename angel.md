@@ -5,7 +5,7 @@ permalink: /angel/
 
 I occasionally invest in early-stage technology companies.
 
-If you're interested in raising money from me, please fill out this link: <a href="https://forms.gle/ecRYNX9XdBMo76W87" target="_blank">fundraising questions</a>. 
+If you're interested in raising money from me, please fill out this link: <a href="https://tally.so/r/nrqrll" target="_blank">fundraising questions</a>. 
 
 I typically invest $25k-100k. Smaller than that typically doesn't make sense. 
 
