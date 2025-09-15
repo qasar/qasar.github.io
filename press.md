@@ -19,8 +19,6 @@ permalink: /press/
 
 <a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105" target="_blank"> More manufacturers bet on simulation software (Wall Street Journal)</a>
 
-<a href="https://www.facebook.com/qasar/posts/10154710776519865" target="_blank"> Thank you, Y Combinator </a>
-
 <a href="https://www.washingtonpost.com/news/the-switch/wp/2016/08/29/inside-one-of-silicon-valleys-most-celebrated-rituals-raising-cash/" target="_blank">Inside silicon valley’s most grueling ritual (Washington Post)</a>
 
 <a href="http://venturebeat.com/2016/07/07/y-combinator-will-hold-an-investor-day-for-meetings-with-startups-after-demo-day/" target="_blank">Investor day (VentureBeat) </a>
