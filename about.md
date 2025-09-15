@@ -33,6 +33,6 @@ In the words of Andy Grove: I am an engineer by training and a manager of a high
 
 Email: <a href="mailto:hi@qy.co" target="_blank">hi@qy.co</a>.
 <br>
-<br> <i> Site updated February 2025. Built w/ Github pages. </i>
+<br> <i> Site updated September 2025. Built w/ Github pages. </i>
 <br>
 
