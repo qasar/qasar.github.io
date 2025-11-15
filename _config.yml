@@ -3,7 +3,7 @@ name:               "Qasar Younis"
 description:        "My name is Qasar Younis - this is my homepage. I'm a founder, engineer, and angel investor."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-#url:                "http://qasaryounis.com"
+url:                "https://qy.co"
 author:             "Qasar Younis"
 twitter:
   username:         "qasar"
@@ -19,10 +19,18 @@ permalink:          /essays/:title/
 # Markdown
 markdown:           kramdown
 
+# Collections
+collections:
+  essay:
+    output: true
+    permalink: /writings/:name/
+
 # Navigation
 nav:
   - name:           "Books"
     href:           "books"
+  - name:           "Writings"
+    href:           "writings"
   - name:           "Photos"
     href:           "photos"
   - name:           "Links"
@@ -50,6 +58,12 @@ defaults:
     scope:
       path:         ""
       type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "essay"
     values:
       layout:       "post"
 
