@@ -5,19 +5,19 @@ permalink: /press/
 
 <a href="https://www.appliedintuition.com/blog/series-f" target="_blank">Series F funding at $15B valuation (Applied Intuition Blog)</a>
 
-<a href="https://podcasts.apple.com/us/podcast/the-operating-system-for-self-driving-cars-and/id1668002688?i=1000713255494" target="_blank">The Operating System for Self Driving Cars (and Tanks, and Trucks...) (No Priors with Elad Gil and Sarah Guo)</a>
+<a href="https://podcasts.apple.com/us/podcast/the-operating-system-for-self-driving-cars-and/id1668002688?i=1000713255494" target="_blank">The OS for Self Driving Cars (and Tanks, and Trucks...) (No Priors)</a>
 
 <a href="https://youtu.be/xfGuhv_cv8g?si=2vsW6_hagBcrRk00" target="_blank">Closing Bell (CNBC)</a>
 
 <a href="https://www.youtube.com/watch?v=m9G1xtnric8&themeRefresh=1" target="_blank">Interview on AI vehicle tech (Bloomberg)</a>
 
-<a href="https://www.youtube.com/watch?v=lSpmTUJxCOI&themeRefresh=1" target="_blank">Building a Multi-Billion Dollar Hard Tech Company (Uncapped with Jack Altman)</a>
+<a href="https://www.youtube.com/watch?v=lSpmTUJxCOI&themeRefresh=1" target="_blank">Building a Multi-B Dollar Hard Tech Co (Uncapped w/ Jack Altman)</a>
 
-<a href="https://www.youtube.com/watch?v=-IJu-GWqkWg" target="_blank">Inside the ex-YC partner's $15B self driving car company (First Round Review)</a>
+<a href="https://www.youtube.com/watch?v=-IJu-GWqkWg" target="_blank">Ex-YC partner's $15B self driving company (First Round)</a>
 
 <a href="https://www.youtube.com/watch?v=uLgY_uN9Ops" target="_blank">Autonomy is no longer a moonshot—it's a market (a16z)</a>
 
-<a href="https://www.appliedintuition.com/blog/series-f" target="_blank">"The most interesting company in autonomy" (The Road To Autonomy Podcast)</a>
+<a href="https://www.appliedintuition.com/blog/series-f" target="_blank">"The most interesting company in autonomy"</a>
 
 <a href="https://youtu.be/o2kf4VjnknA?si=g3GW0aLMDYh-5FMk" target="_blank">Radically pragmatic insights (Stanford ETL Talk)</a>
 
@@ -27,13 +27,13 @@ permalink: /press/
 
 <a href="https://www.autonews.com/suppliers/software-tools-provider-applied-intuition-buys-company-behind-carsim" target="_blank">Applied Intuition acquires CarSim (Automotive News)</a>
 
-<a href="https://www.bloomberg.com/news/articles/2021-11-11/google-vets-raise-175-million-for-automotive-software-tools" target="_blank">Applied Intuition raises $175 million for automotive software tools (Bloomberg)</a>
+<a href="https://www.bloomberg.com/news/articles/2021-11-11/google-vets-raise-175-million-for-automotive-software-tools" target="_blank">Applied Intuition raises $175M for software tools (Bloomberg)</a>
 
 <a href="https://www.sae.org/podcasts/tomorrow-today/episodes/applied-intuition-and-the-simulated-road" target="_blank">Test Tracks of Reality (Society of Automotive Engineers)</a>
 
-<a href="https://youtu.be/Uk5cLTB_PLI?si=9Qm-BgIN46lZcf27" target="_blank"> HackMIT Fireside Chat (Massachusetts Institute of Technology)</a>
+<a href="https://youtu.be/Uk5cLTB_PLI?si=9Qm-BgIN46lZcf27" target="_blank">Fireside Chat (Massachusetts Institute of Technology)</a>
 
-<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105" target="_blank"> More manufacturers bet on simulation software (Wall Street Journal)</a>
+<a href="https://www.wsj.com/articles/more-manufacturers-bet-on-simulation-software-11582240105" target="_blank">More manufacturers bet on simulation software (WSJ)</a>
 
 <a href="https://www.washingtonpost.com/news/the-switch/wp/2016/08/29/inside-one-of-silicon-valleys-most-celebrated-rituals-raising-cash/" target="_blank">Inside silicon valley's most grueling ritual (Washington Post)</a>
 
