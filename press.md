@@ -7,7 +7,7 @@ permalink: /press/
 
 <a href="https://podcasts.apple.com/us/podcast/the-operating-system-for-self-driving-cars-and/id1668002688?i=1000713255494" target="_blank">The Operating System for Self Driving Cars (and Tanks, and Trucks...) (No Priors with Elad Gil and Sarah Guo)</a>
 
-<a href="https://www.youtube.com/watch?v=2vNJ4MCtPeE" target="_blank">Closing Bell on self driving (CNBC)</a>
+<a href="https://youtu.be/xfGuhv_cv8g?si=2vsW6_hagBcrRk00" target="_blank">Closing Bell (CNBC)</a>
 
 <a href="https://www.youtube.com/watch?v=m9G1xtnric8&themeRefresh=1" target="_blank">Interview on AI vehicle tech (Bloomberg)</a>
 
