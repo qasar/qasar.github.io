@@ -51,11 +51,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.1rem;
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.0rem;
 }
 
 h3 {
@@ -291,6 +291,7 @@ tbody tr:nth-child(odd) th {
     display: table-cell;
 
   &-title {
+    font-size: 1.1rem;
     font-weight: 300;
 
     a {

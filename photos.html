@@ -4,34 +4,39 @@ permalink: /photos/
 ---		
 <script>		
 var imageGallery = [		
-	"https://qy.co/assets/bike.JPG",
-	"https://qy.co/assets/king.jpg",
-	"https://qy.co/assets/nyc.jpg",
-	"https://qy.co/assets/air.jpg",
-	"https://qy.co/assets/ken2.jpg",
-	"https://qy.co/assets/chi.jpg",		
-	"https://qy.co/assets/tan.jpg",	
-	"https://qy.co/assets/arg.jpg",	
-	"https://qy.co/assets/ecu.jpg",
-	"https://qy.co/assets/ess.jpg",
-	"https://qy.co/assets/lag.jpg",		
-	"https://qy.co/assets/mor.jpg",
-	"https://qy.co/assets/paris.jpg",
-	"https://qy.co/assets/mor3.png",	
-	"https://qy.co/assets/power.jpg",	
-	"https://qy.co/assets/viet.jpg",
-	"https://qy.co/assets/traf.jpg",
-	"https://qy.co/assets/tokyo2.jpg",
-	"https://qy.co/assets/fall.jpg",
-	"https://qy.co/assets/sof.jpg",
-	"https://qy.co/assets/tur.jpg",
-	"https://qy.co/assets/slo.jpg",
-	"https://qy.co/assets/mor1.jpg",
-	"https://qy.co/assets/cop.jpg",
-	"https://qy.co/assets/tha.jpg",
-	"https://qy.co/assets/pass.jpg",
-	"https://qy.co/assets/church.png",
-	"https://qy.co/assets/fujifilm.jpg",
+{% if site.local_dev %}
+{% assign base_url = "" %}
+{% else %}
+{% assign base_url = site.url %}
+{% endif %}
+	"{{ base_url }}/assets/bike.JPG",
+	"{{ base_url }}/assets/king.jpg",
+	"{{ base_url }}/assets/nyc.jpg",
+	"{{ base_url }}/assets/air.jpg",
+	"{{ base_url }}/assets/ken2.jpg",
+	"{{ base_url }}/assets/chi.jpg",		
+	"{{ base_url }}/assets/tan.jpg",	
+	"{{ base_url }}/assets/arg.jpg",	
+	"{{ base_url }}/assets/ecu.jpg",
+	"{{ base_url }}/assets/ess.jpg",
+	"{{ base_url }}/assets/lag.jpg",		
+	"{{ base_url }}/assets/mor.jpg",
+	"{{ base_url }}/assets/paris.jpg",
+	"{{ base_url }}/assets/mor3.png",	
+	"{{ base_url }}/assets/power.jpg",	
+	"{{ base_url }}/assets/viet.jpg",
+	"{{ base_url }}/assets/traf.jpg",
+	"{{ base_url }}/assets/tokyo2.jpg",
+	"{{ base_url }}/assets/fall.jpg",
+	"{{ base_url }}/assets/sof.jpg",
+	"{{ base_url }}/assets/tur.jpg",
+	"{{ base_url }}/assets/slo.jpg",
+	"{{ base_url }}/assets/mor1.jpg",
+	"{{ base_url }}/assets/cop.jpg",
+	"{{ base_url }}/assets/tha.jpg",
+	"{{ base_url }}/assets/pass.jpg",
+	"{{ base_url }}/assets/church.png",
+	"{{ base_url }}/assets/fujifilm.jpg",
 
 	
 ];		
@@ -179,7 +184,12 @@ function handlePhotoClick(event, img) {
 Photography is not like painting. There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. -Henri Cartier-Bresson
 </div>		
 	
-<img id="gallery" onclick="handlePhotoClick(event, this)"  src=	"https://qy.co/assets/bike.JPG",>
+{% if site.local_dev %}
+{% assign base_url = "" %}
+{% else %}
+{% assign base_url = site.url %}
+{% endif %}
+<img id="gallery" onclick="handlePhotoClick(event, this)"  src="{{ base_url }}/assets/bike.JPG">
      
 <div id="locationsText">
 Buenos Aires (2009)
