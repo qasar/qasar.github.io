@@ -360,7 +360,11 @@ tbody tr:nth-child(odd) th {
 
 .page {
   &-title {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+    letter-spacing: -.025rem;
   }
 }
 
@@ -552,9 +556,11 @@ tbody tr:nth-child(odd) th {
 }
 
   .page-title {
-    margin-bottom: 20px;
-    font-size: 22px;
-    font-weight: 400;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+    letter-spacing: -.025rem;
   }
 
 .highlight .hll { background-color: #ffffcc }
