@@ -278,17 +278,21 @@ tbody tr:nth-child(odd) th {
   float: left;
   margin-left: 50px;
   display: table;
+  border-collapse: separate;
+  border-spacing: 0;
 
   @media (min-width: 38rem){
-    padding: 4rem 1rem;
+    padding: 4rem 0 4rem 0;
   }
 
 }
 
 .masthead {
-    width: 193px;
+    width: 150px;
     float: left;
     display: table-cell;
+    padding-left: 1rem;
+    margin-right: 0;
 
   &-title {
     font-size: 1.1rem;
@@ -381,7 +385,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .content{
-    padding-left: 30px;
+    padding-left: 40px;
     border-left: 1px solid #dedfe0;
     font-size: 13px;
     display: table-cell;
@@ -496,6 +500,8 @@ tbody tr:nth-child(odd) th {
 
   .masthead {
     width: 100%;
+    padding-left: 0;
+    margin-right: 0;
   }
 
   .masthead-nav {
