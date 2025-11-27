@@ -46,9 +46,3 @@ permalink: /press/
 <a href="http://www.forbes.com/sites/tomiogeron/2011/11/16/coupa-cafe-where-startups-meet-work-and-test-products/" target="_blank">Coupa cafe: where startups meet, work and test products (Forbes) </a>
 
 <a href="https://www.wired.com/2011/05/ff_ycombinator/" target="_blank">Y Combinator is the boot camp for startups (Wired) </a>
-
-
-
-
-
-
