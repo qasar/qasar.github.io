@@ -38,7 +38,7 @@ One of the hallmark trends of our generation is the fall of confidence in instit
 
 
 
-The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to conceal. Turns out the Democratic party wasn't always fighting for the underdog or the Republicans we're always for small government. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, is just groups of people working together. And within every group there is a complex sometimes conflicting narrative. All this results in the average person getting mixed messages and therefore not trusting what a corporation says. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
+The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to conceal. Turns out the Democratic party wasn't always fighting for the underdog or the Republicans weren't always for small government. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, is just groups of people working together. And within every group there is a complex sometimes conflicting narrative. All this results in the average person getting mixed messages and therefore not trusting what a corporation says. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
 
 
 
@@ -46,7 +46,7 @@ The alternative narrative (or "new media") is fundamentally direct-to-consumer. 
 
 
 
-Everyone from Alex Karp to Zoran Mamdani to President Trump operates on this wavelength:
+Everyone from Alex Karp to Zohran Mamdani to President Trump operates on this wavelength:
 
 
 
