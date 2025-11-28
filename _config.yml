@@ -66,6 +66,7 @@ defaults:
       type:         "essay"
     values:
       layout:       "post"
+      image:        "/assets/essay-previews/default.png"
 
 gems:
 - jekyll-seo-tag
