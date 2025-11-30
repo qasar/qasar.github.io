@@ -6,11 +6,11 @@ title: "I miss the old Qasar, not the new Qasar"
 
 
 
-## Why now?
+## Well, well, well, how the turntables
 
 
 
-After many years of railing against going on Twitter/X, I'm finally pulling the band-aid and getting on the platform.
+After many years of railing against going on X, I'm finally pulling the band-aid and getting on the platform.
 
 
 Historically, if you've watched my talks, you've heard me say that one of the keys to Applied's success is focus. And I've often demonized social media, specifically X, as wasteful and distracting. It encourages superficiality, showmanship, and the wrong values over real substance.
