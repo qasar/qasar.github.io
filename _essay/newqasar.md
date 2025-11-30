@@ -6,15 +6,14 @@ title: "I miss the old Qasar, not the new Qasar"
 
 
 
-## Well, well, well, how the turntables
-
-
 
 After many years of railing against going on X, I'm finally pulling the band-aid and getting on the platform.
 
 
 Historically, if you've watched my talks, you've heard me say that one of the keys to Applied's success is focus. And I've often demonized social media, specifically X, as wasteful and distracting. It encourages superficiality, showmanship, and the wrong values over real substance.
 
+
+## Well, well, well, how the turntables
 
 Some of that is still true. But as the company has grown, the balance has changed. The value of having a microphone now outweighs the downsides. So I'm going to try this. If it works, great. If not, I'll go back to not being on X.
 
@@ -36,7 +35,7 @@ One of the hallmark trends of our generation is the fall of confidence in instit
 
 
 
-The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to conceal. Turns out the Democratic party wasn't always fighting for the underdog or the Republicans weren't always for small government. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, is just groups of people working together. And within every group there is a complex sometimes conflicting narrative. All this results in the average person getting mixed messages and therefore not trusting what a corporation says. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
+The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to conceal. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, is just groups of people working together. And within every group there is a complex sometimes conflicting narrative. All this results in the average person getting mixed messages and therefore not trusting what a corporation says. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
 
 
 
@@ -53,26 +52,6 @@ Everyone from Alex Karp to Zohran Mamdani to President Trump operates on this wa
 
 
 Institutional filtering is now an anti-signal. How many corporate X accounts are you following and taking seriously?
-
-
-
-## My Predictions
-
-
-
-My entry onto X is a little unusual. I already have a little bit of a track record. Even though I have never tweeted even once I somehow have a few thousand followers. My prediction is that engaging on X will actually help the company. Personally, I think it will bring more stress. I'll lose some focus. But I've always said a CEO must do whatever is required to make the company successful. If I can avoid clickbait and the caustic nature of anonymous strangers arguing online, I should get more good than bad out of it.
-
-
-
-In terms of the more vitriolic aspects of X, I don't think I'll be engaging in religious or political debate. I can assure you, no matter what I say, it'll annoy you so best not engage.
-
-
-
-And I'll adopt Marc Andreessen's philosophy: block early and often.
-
-
-
-Overall, this is an experiment. We'll see how successful, or unsuccessful, it is. I think there is a 20% chance that I will leave X after some time. 
 
 
 
@@ -119,9 +98,16 @@ And more philosophically, as a founder, you are trying to change -- some might e
 That's a long way of saying: I was wrong. And I held onto those wrong beliefs for too long. Give up your old ways, for they might be holding you back from bigger things.  Conversely, they might actually have been the reason you've been successful. 
 
 
-
-## Smash it! *&lt;dry heave&gt;*
-
+## My Predictions
 
 
-I'm saying that a bit facetiously but I will write more and share more. So, ceremoniously and for the first time ever, follow me on X [@qasar](https://x.com/qasar).
+
+My entry onto X is a little unusual. I already have a little bit of a track record. Even though I have never tweeted even once I somehow have a few thousand followers. My prediction is that engaging on X will actually help the company. Personally, I think it will bring more stress. I'll lose some focus. But I've always said a CEO must do whatever is required to make the company successful. If I can avoid clickbait and the caustic nature of anonymous strangers arguing online, I should get more good than bad out of it. In terms of the more vitriolic aspects of X, I don't think I'll be engaging in religious or political debate. And I'll adopt Marc Andreessen's philosophy: block early and often.
+
+
+
+Overall, this is an experiment. We'll see how successful, or unsuccessful, it is. I think there is a 20% chance that I will leave X after some time. 
+
+
+
+So, ceremoniously and for the first time ever, follow me on X [@qasar](https://x.com/qasar).
