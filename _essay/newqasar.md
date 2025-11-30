@@ -35,7 +35,7 @@ One of the hallmark trends of our generation is the fall of confidence in instit
 
 
 
-The internet blew all of that up. As information got to end users faster, the narrative became a bit harder control. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, are just groups of people working together. And within every group there is a complex sometimes conflicting goals and actions. All this results in the average person getting mixed messages and therefore not trusting the institution. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
+The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to control. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, are just groups of people working together. And within every group there is a complex sometimes conflicting goals and actions. All this results in the average person getting mixed messages and therefore not trusting the institution. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
 
 
 
