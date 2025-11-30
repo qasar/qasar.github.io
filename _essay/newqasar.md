@@ -13,20 +13,18 @@ title: "I miss the old Qasar, not the new Qasar"
 After many years of railing against going on Twitter/X, I'm finally pulling the band-aid and getting on the platform.
 
 
+Historically, if you've watched my talks, you've heard me say that one of the keys to Applied's success is focus. And I've often demonized social media, specifically X, as wasteful and distracting. It encourages superficiality, showmanship, and the wrong values over real substance.
+
+
+Some of that is still true. But as the company has grown, the balance has changed. The value of having a microphone now outweighs the downsides. So I'm going to try this. If it works, great. If not, I'll go back to not being on X.
+
 
 It's become clear to me, and to the people around the company, that my role increasingly involves being a spokesperson. But I don't really have a good way to talk directly to everybody. X gives me that opportunity.
 
 
 
-There's also a broader point: almost nobody talks about AI in the real world—where it intersects with cars, trucks, tanks, and fighter jets the way we see it at Applied Intuition. I think X can be a channel to do that. The conversation about self driving should be more than Waymo vs Tesla.
+There's also a broader point: almost nobody talks about AI in the real world—where it intersects with cars, trucks, tanks, and fighter jets the way we see it at Applied Intuition. The conversation about self driving should be more than Waymo vs Tesla.
 
-
-
-Historically, if you've watched my talks, you've heard me say that one of the keys to Applied's success is focus. And I've often demonized social media, specifically X, as wasteful and distracting. It encourages superficiality, showmanship, and the wrong values over real substance.
-
-
-
-Some of that is still true. But as the company has grown, the balance has changed. The value of having a microphone now outweighs the downsides. So I'm going to try this. If it works, great. If not, I'll go back to not being on X.
 
 
 
@@ -110,7 +108,7 @@ Second: keep your identity small. My refusal to join X became part of my identit
 
 
 
-Third: reluctantly, I've come to accept that I do have a distinct point of view to share. Historically, I've believed no one really has special insights. It all comes down to execution and focus. That belief has served me well. But the world is a battle of ideas, and if you don't participate, the environment moves around you. And not many people run a $15B+ profitable physical AI company. And by not many, I think literally zero other people.
+Third: reluctantly, I've come to accept that I do have a distinct point of view to share. Historically, I've believed no one really has special insights. It all comes down to execution and focus. That belief has served me well. But the world is a battle of ideas, and if you don't participate, the environment moves around you. And not many people run a $15B+ physical AI company with revenue and free cash flow. And by not many, I think literally zero other people.
 
 
 
