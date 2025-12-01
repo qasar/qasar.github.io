@@ -71,11 +71,7 @@ Old habits die hard. I still feel like I'm in the fraternity of founders, so it'
 
 
 
-First: it is your responsibility to have a direct conversation with your customers, constituents, potential employees—whoever. Even if it's personally taxing, it's a requirement.
-
-
-
-Thinking back, even my own anti-social-media stance wasn't as pure as it sounded. I've always been active on LinkedIn, which is still social media. It just has norms that align better with my values: focus on the work, not theatrics.
+First: it is your responsibility to have a direct conversation with your customers, constituents, potential employees—whoever. Even if it's personally taxing, it's a requirement. Thinking back, even my own anti-social-media stance wasn't as pure as it sounded. I've always been active on LinkedIn (which is lip filler of social media) but this will be different.
 
 
 
