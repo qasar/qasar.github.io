@@ -39,7 +39,7 @@ The internet blew all of that up. As information got to end users faster, the na
 
 
 
-The alternative narrative is fundamentally direct-to-consumer. Just like brands that skip traditional distribution, ideas now bypass institutions entirely.Everyone from Alex Karp to Zohran Mamdani to President Trump operates on this wavelength:
+The alternative narrative is fundamentally direct-to-consumer. Just like brands that skip traditional distribution, ideas now bypass institutions entirely. Everyone from Alex Karp to Zohran Mamdani to President Trump operates on this wavelength:
 
 
 
