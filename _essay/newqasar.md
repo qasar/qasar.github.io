@@ -13,7 +13,7 @@ After many years of railing against going on X, I'm finally pulling the band-aid
 Historically, if you've watched my talks, you've heard me say that one of the keys to Applied's success is focus. And I've often demonized social media, specifically X, as wasteful and distracting. It encourages superficiality, showmanship, and the wrong values over real substance.
 
 
-## Well, well, well, how the turntables
+## "Well, well, well, how the turntables"
 
 Some of that is still true. But as the company has grown, the balance has changed. The value of having a microphone now outweighs the downsides. So I'm going to try this. If it works, great. If not, I'll go back to not being on X.
 
@@ -35,7 +35,7 @@ One of the hallmark trends of our generation is the fall of confidence in instit
 
 
 
-The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to control. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, are just groups of people working together. And within every group there is a complex sometimes conflicting goals and actions. All this results in the average person getting mixed messages and therefore not trusting the institution. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
+The internet blew all of that up. As information got to end users faster, the narrative became a bit harder to control. But it wasn't so much that these institutions were blatantly lying -- but institutions, like a business, are just groups of people working together. And within every group there is a complex, sometimes conflicting, set of goals and actions. All this results in the average person getting mixed messages and therefore not trusting the institution. You see this in politics too as being the "establishment" candidate is basically a death sentence now.
 
 
 
@@ -67,11 +67,11 @@ And into this environment I trek. If you know me, I'm all about nuance. I'm also
 
 
 
-Old habits die hard. I still feel like I'm in the fraternity of founders, so it's hard not to offer a few thoughts for anyone building a venture-backed silicon valley company.
+Old habits die hard. At YC I would give a lot of advice to founders, so it's hard not to offer a few thoughts for anyone building a venture-backed silicon valley company.
 
 
 
-First: it is your responsibility to have a direct conversation with your customers, constituents, potential employees—whoever. Even if it's personally taxing, it's a requirement. Thinking back, even my own anti-social-media stance wasn't as pure as it sounded. I've always been active on LinkedIn (which is lip filler of social media) but this will be different.
+First: it is your responsibility to have a direct conversation with your customers, constituents, potential employees—whoever. Even if it's personally taxing, it's a requirement. Thinking back, even my own anti-social-media stance wasn't as pure as it sounded. I've always been active on LinkedIn but this will be different, because, well LinkedIn is LinkedIn. 
 
 
 
