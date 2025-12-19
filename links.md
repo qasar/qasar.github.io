@@ -46,6 +46,8 @@ Videos and links from across on the interwebs.
 
 <a href= "https://hbswk.hbs.edu/item/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
 
+<a href= "https://www.youtube.com/watch?v=pfz0tDQZhqs" target="_blank">Keep it real</a>. 
+
 <a href= "https://youtu.be/1_TuEO6Mttw" target="_blank">It's done</a>. 
 
 <a href="https://www.youtube.com/watch?v=tmnXHPjhSIM&list=FLXJuURIK0_r_mGlRWSPkgCw&index=32&t=0s" target="_blank">Fan Ho</a>. 
