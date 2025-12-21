@@ -1,4 +1,5 @@
 # Basic
+title:              "Qasar Younis"
 name:               "Qasar Younis"
 description:        "My name is Qasar Younis - this is my homepage. I'm a founder, engineer, and angel investor."
 
@@ -68,11 +69,8 @@ defaults:
       layout:       "post"
       image:        "/assets/essay-previews/default.png"
 
-gems:
-- jekyll-seo-tag
-- jekyll-sitemap
-
 plugins:
+- jekyll-seo-tag
 - jekyll-sitemap
 
 future: true
