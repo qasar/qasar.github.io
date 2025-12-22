@@ -655,7 +655,7 @@ tbody tr:nth-child(odd) th {
   }
 
   .masthead .masthead-nav {
-    margin-bottom: 1rem !important;
+    margin-bottom: 0.75rem !important;
     padding-left: 0;
   }
 
@@ -668,7 +668,7 @@ tbody tr:nth-child(odd) th {
     width: 100%;
     padding: 0px;
     padding-left: 1rem;
-    padding-top: 0px;
+    padding-top: 1rem;
     padding-bottom: 0px;
     border-left: none;
     float: left;
@@ -679,10 +679,28 @@ tbody tr:nth-child(odd) th {
     position: relative;
   }
 
-  /* Mobile: Horizontal line matches image width */
+  /* Mobile: Gray line for all content pages */
+  .content::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 1rem;
+    right: 0;
+    height: 1px;
+    background-color: #dedfe0;
+    z-index: 1;
+  }
+
+  /* Ensure gray line shows for .content.post pages */
+  .content.post::before {
+    display: block;
+  }
+
+  /* Mobile: Horizontal line matches image width for pages with images */
   .content.list {
     margin-top: 0px;
-    padding-top: 0px;
+    padding-top: 1rem;
   }
 
   .content.list .hero-image-wrapper {
@@ -692,19 +710,30 @@ tbody tr:nth-child(odd) th {
     max-width: 100%;
     margin-left: 0;
     padding-left: 0;
-    margin-top: 1.2rem;
+    margin-top: 0;
     padding-top: 0px;
   }
 
+  /* Override general gray line for image pages - use image width */
   .content.list .hero-image-wrapper::before {
     content: "";
     display: block;
     position: absolute;
-    top: -1.2rem;
+    top: -1rem;
     left: 0;
     width: 100%;
     height: 1px;
     background-color: #dedfe0;
+  }
+
+  /* Show gray line for all .content.list pages by default */
+  .content.list::before {
+    display: block;
+  }
+
+  /* Hide general gray line when image wrapper line is present (index page) */
+  .content.list:has(.hero-image-wrapper)::before {
+    display: none;
   }
   
   .hero-image {
@@ -730,6 +759,15 @@ tbody tr:nth-child(odd) th {
     font-weight: 600;
     color: #333;
     letter-spacing: -.025rem;
+    line-height: 1.1;
+    padding: 0;
+    margin-top: 0;
+  }
+
+  h1.page-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.1;
   }
 
 .highlight .hll { background-color: #ffffcc }
