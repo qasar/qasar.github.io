@@ -1,5 +1,6 @@
 ---
 title: Example Essay
+published: false
 ---
 
 This is an example essay. You can write your essays in markdown format here.

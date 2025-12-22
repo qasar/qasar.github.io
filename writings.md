@@ -8,8 +8,9 @@ I'll be putting thoughts on various topics here. Most of my writing will be gear
 <p>&nbsp;</p>
 
 {% for essay in site.essay %}
+{% unless essay.published == false %}
 <a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title }}</a>. 
-
+{% endunless %}
 {% endfor %}
 
 
