@@ -1,7 +1,5 @@
 ---
-
 title: "I miss the old Qasar, not the new Qasar"
-
 ---
 
 
