@@ -397,7 +397,33 @@ tbody tr:nth-child(odd) th {
     display: table-cell;
     vertical-align: top;
     overflow: visible;
+    position: relative;
 
+}
+
+/* Desktop: Vertical line stops at image height */
+.content.list {
+    border-left: none;
+}
+
+.content.list .hero-image-wrapper {
+    position: relative;
+}
+
+.content.list .hero-image-wrapper::after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: -40px;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    background-color: #dedfe0;
+}
+
+/* Hide mobile horizontal line on desktop */
+.content.list .hero-image-wrapper::before {
+    display: none;
 }
 
 .list {
@@ -530,6 +556,11 @@ tbody tr:nth-child(odd) th {
 
 @media screen and (max-width: 850px) {
  
+  /* Override global h1 margin-bottom and line-height for mobile */
+  h1 {
+    margin-bottom: 0;
+    line-height: 1.2;
+  }
 
 .hero-image {
     max-width: 100%;
@@ -540,10 +571,6 @@ tbody tr:nth-child(odd) th {
     width: 600px;
 }
   
-  
-  h1{
-    /* font-size: 22px; */
-  }
 
   .container {
     margin: 0px;
@@ -553,54 +580,147 @@ tbody tr:nth-child(odd) th {
 
   .masthead {
     width: 100%;
-    padding-left: 0;
+    padding-left: 1rem;
+    padding-right: 0;
     margin-right: 0;
+    margin-left: 0;
+  }
+
+  /* Reset all margins for precise spacing control */
+  /* Override global h1 margin-bottom - visually compensate for larger font size */
+  h1.masthead-title {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0.7rem !important;
+    line-height: 1.1;
+    display: block;
+  }
+
+  .masthead-title {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0.7rem !important;
+    line-height: 1.1;
+    display: block;
+  }
+
+  .masthead-title strong,
+  .masthead-title a {
+    padding-left: 0;
+    padding-bottom: 0;
+    margin: 0;
+    line-height: inherit;
+    display: inline;
   }
 
   .masthead-nav {
     float: left;
     display: inline;
-    padding-left: 13px;
-    margin-bottom: 2px;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
     font-size: 12px;
+    width: 100%;
+  }
 
-      li {
-        margin: 0;
-        padding: 0;
-        display: inline;
-      }
+  .masthead-nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
 
-      li::after { 
-        content: " | ";
-      }
+  .masthead-nav li {
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
 
-      ul li:last-child::after {
-        content: "";
-      }
+  .masthead-nav li::after { 
+    content: " | ";
+  }
 
-
+  .masthead-nav ul li:last-child::after {
+    content: "";
   }
 
   .masthead .masthead-nav {
-    margin-bottom: 0px;
+    margin-bottom: 1rem !important;
+    padding-left: 0;
+  }
+
+  .masthead .masthead-nav ul {
+    margin-left: 0;
+    padding-left: 0;
   }
 
   .content {
     width: 100%;
     padding: 0px;
+    padding-left: 1rem;
+    padding-top: 0px;
+    padding-bottom: 0px;
     border-left: none;
     float: left;
-    border-top: 1px solid #dedfe0;
-    padding-top: 10px;
+    border-top: none;
     margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     position: relative;
+  }
+
+  /* Mobile: Horizontal line matches image width */
+  .content.list {
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+
+  .content.list .hero-image-wrapper {
+    display: inline-block;
+    text-align: left;
+    position: relative;
+    max-width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 1.2rem;
+    padding-top: 0px;
+  }
+
+  .content.list .hero-image-wrapper::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -1.2rem;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #dedfe0;
+  }
+  
+  .hero-image {
+    margin-left: 0;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* Hide desktop vertical line on mobile */
+  .content.list .hero-image-wrapper::after {
+    display: none;
   }
 
   #gallerycontainer {
     width:100%;
-  }
-
-  #imageText {
   }
 }
 
