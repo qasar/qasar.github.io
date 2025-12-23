@@ -44,7 +44,7 @@ Videos and links from across on the interwebs.
 
 <a href= "https://youtu.be/SfPwR00HXM0" target="_blank">The fog of war</a>. 
 
-<a href= "https://hbswk.hbs.edu/item/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
+<a href= "https://www.library.hbs.edu/working-knowledge/the-luxury-prime-how-luxury-changes-people" target="_blank">Luxury Prime</a>. 
 
 <a href= "https://www.youtube.com/watch?v=pfz0tDQZhqs" target="_blank">Keep it real</a>. 
 
