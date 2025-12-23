@@ -27,7 +27,7 @@
 ### Syntax Verification:
 
 ✅ **Jekyll/Liquid Syntax:**
-- All `{% if %}`, `{% assign %}`, `{{ }}` tags are properly closed
+- All Liquid tags (`{% raw %}{% if %}{% endraw %}`, `{% raw %}{% assign %}{% endraw %}`, `{% raw %}{{ }}{% endraw %}`) are properly closed
 - Template variables correctly referenced
 - No syntax errors in conditional statements
 
