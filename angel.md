@@ -96,9 +96,9 @@ Yes, absolutely. That's the main way I invest.
 
 <strong> Testimonials </strong>
 
-“The single best angel investor I've ever worked with. What else do you want me to say?” -<a href="https://www.athelas.com/announcements" target="_blank">Tanay</a>. 
+"The single best angel investor I've ever worked with. What else do you want me to say?" -Tanay. 
 
-“I hate that I used to advise him and now he advises me. Something is seriously wrong with that.” -<a href="https://mercury.com/blog/company-news/series-b" target="_blank">Immad</a>. 
+"I hate that I used to advise him and now he advises me. Something is seriously wrong with that." -Immad. 
 
 “Did you notice all your testimonials are from brown dudes? Get some diversity in here bro!” -Another brown dude
 
