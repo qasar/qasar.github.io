@@ -2,7 +2,7 @@
 // Version 1.0.0 - Update this version number when you want to force cache refresh
 // Note: Most content is static, so caching is very aggressive
 
-const CACHE_NAME = 'qyco-v1.0.0';
+const CACHE_NAME = 'qyco-v1.0.1';
 const STATIC_CACHE_NAME = 'qyco-static-v1.0.0';
 const IMAGE_CACHE_NAME = 'qyco-images-v1.0.0';
 const WRITINGS_CACHE_NAME = 'qyco-writings-v1.0.0'; // Shorter cache for writings page
@@ -49,7 +49,7 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-// Fetch event - serve from cache, fallback to network
+// Fetch event - network-first for HTML, cache-first for assets
 self.addEventListener('fetch', function(event) {
   const url = new URL(event.request.url);
   
@@ -66,24 +66,44 @@ self.addEventListener('fetch', function(event) {
     return;
   }
   
+  // For HTML pages (navigation requests), use network-first strategy
+  // This ensures pages always load fresh and prevents ERR_FAILED errors
+  if (event.request.mode === 'navigate' || 
+      (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
+    event.respondWith(
+      fetch(event.request).then(function(response) {
+        // If network succeeds, cache it and return
+        if (response && response.status === 200) {
+          const responseToCache = response.clone();
+          let cacheName = CACHE_NAME;
+          if (url.pathname.includes('/writings/')) {
+            cacheName = WRITINGS_CACHE_NAME;
+          }
+          caches.open(cacheName).then(function(cache) {
+            cache.put(event.request, responseToCache);
+          });
+        }
+        return response;
+      }).catch(function(error) {
+        // Network failed - try cache as fallback
+        console.log('Network failed, trying cache:', error);
+        return caches.match(event.request).then(function(cachedResponse) {
+          if (cachedResponse) {
+            return cachedResponse;
+          }
+          // If no cache, let the browser handle the error naturally
+          throw error;
+        });
+      })
+    );
+    return;
+  }
+  
+  // For static assets (images, CSS, JS), use cache-first strategy
   event.respondWith(
     caches.match(event.request).then(function(response) {
       // Cache hit - return cached version
-      // For writings page, still check network in background for updates
       if (response) {
-        // If it's the writings page, fetch in background to update cache
-        if (url.pathname.includes('/writings/')) {
-          fetch(event.request).then(function(networkResponse) {
-            if (networkResponse && networkResponse.status === 200) {
-              const responseToCache = networkResponse.clone();
-              caches.open(WRITINGS_CACHE_NAME).then(function(cache) {
-                cache.put(event.request, responseToCache);
-              });
-            }
-          }).catch(function() {
-            // Network failed, that's okay - use cached version
-          });
-        }
         return response;
       }
       
@@ -105,9 +125,6 @@ self.addEventListener('fetch', function(event) {
                    url.pathname.endsWith('.css') || 
                    url.pathname.endsWith('.js')) {
           cacheName = STATIC_CACHE_NAME;
-        } else if (url.pathname.includes('/writings/')) {
-          // Writings page updates more frequently - use separate cache
-          cacheName = WRITINGS_CACHE_NAME;
         }
         
         // Cache the response
@@ -117,10 +134,9 @@ self.addEventListener('fetch', function(event) {
         
         return response;
       }).catch(function(error) {
-        // Network error - return offline page if available
+        // Network error - return error response
         console.log('Fetch failed:', error);
-        // You could return a custom offline page here
-        return new Response('Offline', { status: 503, statusText: 'Service Unavailable' });
+        throw error; // Let browser handle the error
       });
     })
   );
