@@ -73,10 +73,9 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 
-# Include service worker file in build
+# Include service worker file in build (GitHub Pages copies root files automatically)
 include:
   - sw.js
-  - _headers
 
 future: true
 
