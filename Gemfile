@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
-gem "webrick", "~> 1.9"
+# jekyll-seo-tag and jekyll-sitemap are already included in github-pages gem
+# webrick is also included in github-pages gem
