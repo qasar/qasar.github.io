@@ -16,7 +16,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <div class = "bookContainer">
 
-<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="{{ base_url }}/assets/jid.jpg" alt="book-jiddu" width="122" height="180" loading="eager" fetchpriority="high"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank">The First and Last Freedom</a></h3>
+<h3><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank"><img class="book" src="{{ base_url }}/assets/jid.jpg" alt="book-jiddu" width="122" height="180" loading="eager"></a><a href="https://www.amazon.com/First-Last-Freedom-J-Krishnamurti/dp/0060648317" target="_blank">The First and Last Freedom</a></h3>
 
 <p>Jiddu Krishnamurti</p>
 
