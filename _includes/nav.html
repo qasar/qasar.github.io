@@ -1,5 +1,3 @@
-<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-
 <header class="masthead">
   <h1 class="masthead-title">
       <strong><a href="{{ site.baseurl }}/">{{ site.name }}</a></strong>
@@ -7,8 +5,67 @@
   <nav class="masthead-nav">
       <ul class="navlist">
     {% for nav in site.nav %}
-    <li class="navitem"><a href="{{site.baseurl}}/{{ nav.href }}">{{ nav.name }}</a></li>
+    <li class="navitem"><a href="{{site.baseurl}}/{{ nav.href }}" data-prefetch>{{ nav.name }}</a></li>
     {% endfor %}
     </ul>
   </nav>
 </header>
+
+<script>
+// Prefetch navigation links on hover for faster page transitions
+// Also cache navigation state in localStorage for instant repeat visits
+(function() {
+  // Wait for DOM to be ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initPrefetch);
+  } else {
+    initPrefetch();
+  }
+  
+  function initPrefetch() {
+    var links = document.querySelectorAll('a[data-prefetch]');
+    if (links.length === 0) return; // No links to prefetch
+    
+    var prefetched = new Set();
+    
+    // Load prefetched links from localStorage (for instant repeat visits)
+    try {
+      var cachedPrefetched = localStorage.getItem('qyco-prefetched');
+      if (cachedPrefetched) {
+        var cachedUrls = JSON.parse(cachedPrefetched);
+        cachedUrls.forEach(function(url) {
+          prefetched.add(url);
+          // Prefetch immediately if cached
+          var linkPrefetch = document.createElement('link');
+          linkPrefetch.rel = 'prefetch';
+          linkPrefetch.href = url;
+          document.head.appendChild(linkPrefetch);
+        });
+      }
+    } catch (e) {
+      // localStorage not available or error
+    }
+    
+    links.forEach(function(link) {
+      link.addEventListener('mouseenter', function() {
+        var href = this.getAttribute('href');
+        if (href && !prefetched.has(href)) {
+          var linkPrefetch = document.createElement('link');
+          linkPrefetch.rel = 'prefetch';
+          linkPrefetch.href = href;
+          document.head.appendChild(linkPrefetch);
+          prefetched.add(href);
+          
+          // Cache prefetched URLs in localStorage
+          try {
+            var prefetchedArray = Array.from(prefetched);
+            localStorage.setItem('qyco-prefetched', JSON.stringify(prefetchedArray));
+          } catch (e) {
+            // localStorage not available or quota exceeded
+          }
+        }
+      }, { once: true, passive: true });
+    });
+  }
+})();
+</script>

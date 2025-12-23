@@ -4,7 +4,7 @@ layout: default
 {% include nav.html %}
 <div class="content list">
 <span class="hero-image-wrapper">
-<img src="{{ site.baseurl }}/assets/tom5t-adobe-license.png" class="hero-image" style="border-radius: 0px;"/>
+<img src="{{ site.baseurl }}/assets/tom5t-adobe-license.png" class="hero-image" style="border-radius: 0px;" loading="eager" fetchpriority="high" decoding="async" width="800" height="600"/>
 <span class="tooltip">Design by <em>tom5t</em></span>
 </span>
 <!--
@@ -20,3 +20,96 @@ layout: default
 {% endfor %}
 -->
 </div>
+
+<script>
+// Intelligent photo prefetching - preload photos in background when user visits homepage
+// This anticipates the user might click on the Photos link
+// Deferred execution to not block initial page render
+(function() {
+  function prefetchPhotos() {
+    {% if site.local_dev %}
+    {% assign base_url = "" %}
+    {% else %}
+    {% assign base_url = site.url %}
+    {% endif %}
+    
+    // Photo gallery images from photos.html
+    var photoImages = [
+      "{{ base_url }}/assets/bike.JPG",
+      "{{ base_url }}/assets/king.jpg",
+      "{{ base_url }}/assets/nyc.jpg",
+      "{{ base_url }}/assets/air.jpg",
+      "{{ base_url }}/assets/ken2.jpg",
+      "{{ base_url }}/assets/chi.jpg",
+      "{{ base_url }}/assets/tan.jpg",
+      "{{ base_url }}/assets/arg.jpg",
+      "{{ base_url }}/assets/ecu.jpg",
+      "{{ base_url }}/assets/ess.jpg",
+      "{{ base_url }}/assets/lag.jpg",
+      "{{ base_url }}/assets/mor.jpg",
+      "{{ base_url }}/assets/paris.jpg",
+      "{{ base_url }}/assets/mor3.png",
+      "{{ base_url }}/assets/power.jpg",
+      "{{ base_url }}/assets/viet.jpg",
+      "{{ base_url }}/assets/traf.jpg",
+      "{{ base_url }}/assets/tokyo2.jpg",
+      "{{ base_url }}/assets/fall.jpg",
+      "{{ base_url }}/assets/sof.jpg",
+      "{{ base_url }}/assets/tur.jpg",
+      "{{ base_url }}/assets/slo.jpg",
+      "{{ base_url }}/assets/mor1.jpg",
+      "{{ base_url }}/assets/cop.jpg",
+      "{{ base_url }}/assets/tha.jpg",
+      "{{ base_url }}/assets/pass.jpg",
+      "{{ base_url }}/assets/church.png",
+      "{{ base_url }}/assets/fujifilm.jpg"
+    ];
+    
+    // Prefetch photos using link prefetch (browser-friendly)
+    var prefetchCount = 0;
+    
+    function prefetchNext() {
+      if (prefetchCount < photoImages.length) {
+        var link = document.createElement('link');
+        link.rel = 'prefetch';
+        link.as = 'image';
+        link.href = photoImages[prefetchCount];
+        document.head.appendChild(link);
+        prefetchCount++;
+        
+        // Continue prefetching with a small delay to not block main thread
+        if (prefetchCount < photoImages.length) {
+          setTimeout(prefetchNext, 50);
+        }
+      }
+    }
+    
+    // Start prefetching
+    prefetchNext();
+    
+    // Also prefetch the photos page HTML
+    var photosLink = document.createElement('link');
+    photosLink.rel = 'prefetch';
+    photosLink.href = '{{ site.baseurl }}/photos/';
+    document.head.appendChild(photosLink);
+  }
+  
+  // Wait for page to be fully loaded and interactive before prefetching
+  if (document.readyState === 'complete') {
+    // Use requestIdleCallback if available, otherwise setTimeout
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(prefetchPhotos, { timeout: 2000 });
+    } else {
+      setTimeout(prefetchPhotos, 1000);
+    }
+  } else {
+    window.addEventListener('load', function() {
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(prefetchPhotos, { timeout: 2000 });
+      } else {
+        setTimeout(prefetchPhotos, 1000);
+      }
+    });
+  }
+})();
+</script>

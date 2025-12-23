@@ -73,5 +73,10 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 
+# Include service worker file in build
+include:
+  - sw.js
+  - _headers
+
 future: true
 
