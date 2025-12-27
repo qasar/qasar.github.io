@@ -2,7 +2,7 @@
 // Version 1.0.0 - Update this version number when you want to force cache refresh
 // Note: Most content is static, so caching is very aggressive
 
-const CACHE_NAME = 'qyco-v1.0.1';
+const CACHE_NAME = 'qyco-v1.0.2';
 const STATIC_CACHE_NAME = 'qyco-static-v1.0.0';
 const IMAGE_CACHE_NAME = 'qyco-images-v1.0.0';
 const WRITINGS_CACHE_NAME = 'qyco-writings-v1.0.0'; // Shorter cache for writings page

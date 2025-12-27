@@ -23,26 +23,28 @@ var imageGallery = [
 	"{{ base_url }}/assets-photo2026/ghana.jpg",
 	"{{ base_url }}/assets-photo2026/tan.jpg",
 	"{{ base_url }}/assets-photo2026/slov.jpg",
+	"{{ base_url }}/assets-photo2026/camera.jpeg",
 
 	
 ];		
 	
 		
 var imageText = [		
-"<em>If you look for the bad in people expecting to find it, you surely will.</em>&nbsp;&nbsp;-Abraham Lincoln",
-"<em>I am Time. The destroyer of all. I have come to consume you.</em>&nbsp;&nbsp;-Bhagavad Gita",
-"<em>When I admire the wonder of a sunset, my soul expands in worship of the Creator.</em>&nbsp;&nbsp;-Mahatma Gandhi",
-"<em>I am not who you think I am; I am not who I think I am; I am who I think you think I am.</em>&nbsp;&nbsp;-Thomas Cooley",
-"<em>I am by nature war-like. To attack is my instinct.</em>&nbsp;&nbsp;-Nietzsche",
-"<em>Enjoy the little things, for one day you may look back and realize they were the big things.</em>&nbsp;&nbsp;-Robert Brault",
-"<em>If you think you're free, there's no escape possible.</em>&nbsp;&nbsp;-Ram Dass",
-"<em>By protecting others, you save yourself.</em>&nbsp;&nbsp;-Seven Samurai, Akira Kurosawa",
-"<em>My name is Ozymandias, king of kings; look on my works, ye Mighty, and despair!</em>&nbsp;&nbsp;-Percy Shelley",
-"<em>Hope is the worst of all evils for it prolongs the torments of man.</em>&nbsp;&nbsp;-Friedrich Nietzsche",
-"<em>We shall not cease from exploration, and the end of all our exploring, will be to arrive where we started, and know the place for the first time.</em>&nbsp;&nbsp;-T. S. Eliot",
-"<em>Under capitalism, man exploits man. Under communism, it's just the opposite.</em>&nbsp;&nbsp;-John Kenneth Galbraith",
-"<em>It is no measure of health to be well adjusted to a profoundly sick society.</em>&nbsp;&nbsp;-Krishnamurti",
-"<em>Every revolution evaporates and leaves behind only the slime of a new bureaucracy.</em>&nbsp;&nbsp;-Franz Kafka"
+"<em>If you look for the bad in people expecting to find it, you surely will.</em>&nbsp;&nbsp;‑&nbsp;Abraham Lincoln",
+"<em>I am Time. The destroyer of all. I have come to consume you.</em>&nbsp;&nbsp;‑&nbsp;Bhagavad&nbsp;Gita",
+"<em>When I admire the wonder of a sunset, my soul expands in worship of the Creator.</em>&nbsp;&nbsp;‑&nbsp;Mahatma&nbsp;Gandhi",
+"<em>I am not who you think I am; I am not who I think I am; I am who I think you think I am.</em>&nbsp;&nbsp;‑&nbsp;Thomas&nbsp;Cooley",
+"<em>I am by nature war-like. To attack is my instinct.</em>&nbsp;&nbsp;‑&nbsp;Friedrich&nbsp;Nietzsche",
+"<em>Enjoy the little things, for one day you may look back and realize they were the big things.</em>&nbsp;&nbsp;‑&nbsp;Robert&nbsp;Brault",
+"<em>If you think you're free, there's no escape possible.</em>&nbsp;&nbsp;‑&nbsp;Ram&nbsp;Dass",
+"<em>By protecting others, you save yourself.</em>&nbsp;&nbsp;‑&nbsp;Seven&nbsp;Samurai,&nbsp;Akira&nbsp;Kurosawa",
+"<em>My name is Ozymandias, king of kings; look on my works, ye Mighty, and despair!</em>&nbsp;&nbsp;‑&nbsp;Percy&nbsp;Shelley",
+"<em>Hope is the worst of all evils for it prolongs the torments of man.</em>&nbsp;&nbsp;‑&nbsp;Friedrich&nbsp;Nietzsche",
+"<em>We shall not cease from exploration, and the end of all our exploring, will be to arrive where we started, and know the place for the first time.</em>&nbsp;&nbsp;‑&nbsp;T.&nbsp;S.&nbsp;Eliot",
+"<em>Under capitalism, man exploits man. Under communism, it's just the opposite.</em>&nbsp;&nbsp;‑&nbsp;John&nbsp;Kenneth&nbsp;Galbraith",
+"<em>It is no measure of health to be well adjusted to a profoundly sick society.</em>&nbsp;&nbsp;‑&nbsp;Krishnamurti",
+"<em>Every revolution evaporates and leaves behind only the slime of a new bureaucracy.</em>&nbsp;&nbsp;‑&nbsp;Franz&nbsp;Kafka",
+"This is a collection of photos I've taken over the years. Lightroom says I have taken over 50,000 photos. To say this is curated is an understatement. The quotes I've attached to the photos are often related, but not always.<br><br>I now shoot with a Leica M11-P, but not a single photo in this set was taken with that camera. Almost all the photos are from when I used a Fujifilm X100F, which I shot with for over a decade. Though I've also used a Canon Rebel XT, Nikon Z9, Contax T2, Ricoh GR II, and of course, whatever phone I have.<br><br>In another life, I would have loved to be a Magnum photographer. My favorite photographers are Josef Koudelka (Exiles), Sebastião Salgado (Workers), Fred Herzog (Modern Color), Marie-Laure de Decker (Vivre pour voir), Fan Ho (Hong Kong Yesterday), and of course, Henri Cartier-Bresson (The Decisive Moment). If you're starting in photography, copy them. After that, I don't know what to do because I'm still on that step.<br><br>Qasar Younis<br>December 2025"
 
 	
 ];		
@@ -63,6 +65,7 @@ var locations = [
 	"Elmina (2008)",
 	"Fez (2011)",
 	"Ljubljana (2016)",
+	"",
 
 	
 ];		
@@ -77,33 +80,118 @@ function preloadImages(startIndex) {
   // Preload images starting from startIndex (to avoid duplicate preloading)
   startIndex = startIndex || 0;
   for (var i = startIndex; i < imageGallery.length; i++) {
+    // Skip index 14 (15th image) if we're preloading from index 10, since it's already preloaded immediately
+    if (i === 14 && startIndex < 14) {
+      continue;
+    }
     var img = new Image();
     img.src = imageGallery[i];
   }
 }
 		
 	
-function next() {		
+function updatePhotoStyle() {
+    var galleryImg = document.getElementById("gallery");
+    var imageTextDiv = document.getElementById("imageText");
+    // 15th photo is at index 14 (0-indexed)
+    if (imgCount === 14) {
+        galleryImg.classList.add("explanatory-photo");
+        imageTextDiv.classList.add("explanatory-text");
+    } else {
+        galleryImg.classList.remove("explanatory-photo");
+        imageTextDiv.classList.remove("explanatory-text");
+    }
+}
+
+function next() {
     if(imgCount == totalImgs){		
       imgCount = 0;		
     }  else {		
       imgCount++;		
     }		
-   document.getElementById("gallery").src = imageGallery[imgCount];		
+    var galleryImg = document.getElementById("gallery");
+    // For the 15th image, use the preloaded image object if available to avoid re-decoding
+    if (imgCount === 14 && window.preloadedCameraImg && window.preloadedCameraImg.complete) {
+      // Hide image during transition
+      galleryImg.style.visibility = 'hidden';
+      galleryImg.style.opacity = '0';
+      // Use the preloaded image's src (already decoded)
+      galleryImg.src = window.preloadedCameraImg.src;
+      // Since it's already loaded, show it immediately
+      galleryImg.style.visibility = 'visible';
+      galleryImg.style.opacity = '1';
+    } else {
+      // Check if image is already in browser cache by creating a test image
+      var testImg = new Image();
+      testImg.onload = function() {};
+      testImg.src = imageGallery[imgCount];
+      // Hide image during transition to prevent flash - use visibility for instant hide
+      galleryImg.style.visibility = 'hidden';
+      galleryImg.style.opacity = '0';
+      galleryImg.src = imageGallery[imgCount];
+    }		
    document.getElementById("locationsText").innerHTML = locations[imgCount];	
    document.getElementById("imageText").innerHTML = imageText[imgCount];
 	document.getElementById('currentImage').innerHTML = imgCount + 1
+	updatePhotoStyle();
+    // Smart pre-caching: Prefetch adjacent images
+    prefetchAdjacentImages(imgCount);
+    // Show image when it loads (only if we didn't use preloaded image)
+    if (imgCount !== 14 || !window.preloadedCameraImg || !window.preloadedCameraImg.complete) {
+        if (galleryImg.complete) {
+            galleryImg.style.visibility = 'visible';
+            galleryImg.style.opacity = '1';
+        } else {
+            galleryImg.onload = function() {
+                this.style.visibility = 'visible';
+                this.style.opacity = '1';
+                this.onload = null; // Remove handler after use
+            };
+        }
+    }
 }		
-		
-function previous() {		
+	
+function previous() {
     imgCount--;		
   if(imgCount < 0) imgCount = totalImgs ;		
-       document.getElementById("gallery").src = imageGallery[imgCount];  		
+    var galleryImg = document.getElementById("gallery");
+    // For the 15th image, use the preloaded image object if available to avoid re-decoding
+    if (imgCount === 14 && window.preloadedCameraImg && window.preloadedCameraImg.complete) {
+      // Hide image during transition
+      galleryImg.style.visibility = 'hidden';
+      galleryImg.style.opacity = '0';
+      // Use the preloaded image's src (already decoded)
+      galleryImg.src = window.preloadedCameraImg.src;
+      // Since it's already loaded, show it immediately
+      galleryImg.style.visibility = 'visible';
+      galleryImg.style.opacity = '1';
+    } else {
+      // Hide image during transition to prevent flash - use visibility for instant hide
+      galleryImg.style.visibility = 'hidden';
+      galleryImg.style.opacity = '0';
+      galleryImg.src = imageGallery[imgCount];
+    }  		
        document.getElementById("locationsText").innerHTML = locations[imgCount];	
        document.getElementById("imageText").innerHTML = imageText[imgCount]; 
 	       document.getElementById('currentImage').innerHTML = imgCount + 1
+	       updatePhotoStyle();
+    // Smart pre-caching: Prefetch adjacent images
+    prefetchAdjacentImages(imgCount);
+    // Show image when it loads (only if we didn't use preloaded image)
+    if (imgCount !== 14 || !window.preloadedCameraImg || !window.preloadedCameraImg.complete) {
+        if (galleryImg.complete) {
+            galleryImg.style.visibility = 'visible';
+            galleryImg.style.opacity = '1';
+        } else {
+            galleryImg.onload = function() {
+                this.style.visibility = 'visible';
+                this.style.opacity = '1';
+                this.onload = null; // Remove handler after use
+            };
+        }
+    }
 
-    } 		
+    }
 		
 document.addEventListener("keydown", function(e){		
 	console.log(e.keyCode)		
@@ -280,6 +368,84 @@ function handlePhotoClick(event, img) {
         max-width: 100% !important;
     }
 }
+
+/* Mobile responsive styles - override all fixed widths for proper mobile display */
+@media (max-width: 850px) {
+    /* Override fixed 1200px width on main container */
+    #photolist.list,
+    .content.list#photolist,
+    .list#photolist {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    /* Make gallery container responsive with padding */
+    #photolist #gallerycontainer {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Make buttons container responsive */
+    #photolist #gallerycontainer .buttons,
+    #photolist .buttons {
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Make images fully responsive - remove min-width constraint */
+    #photolist #gallery,
+    #photolist #gallerycontainer #gallery {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0 !important; /* Critical: remove 1200px min-width */
+        height: auto !important;
+        object-fit: contain !important;
+        display: block !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        margin-top: 2em !important;
+        margin-bottom: 0 !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Fix quote text wrapping - remove flex display and fixed dimensions */
+    #photolist #imageText,
+    #photolist #gallerycontainer #imageText,
+    .content.list#photolist #imageText,
+    div#photolist.content.list #gallerycontainer #imageText,
+    div#photolist #gallerycontainer #imageText,
+    #photolist.content.list #gallerycontainer #imageText {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: block !important; /* Change from flex to block for natural wrapping */
+        text-align: center !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        margin-top: 1em !important; /* Add some spacing from image */
+        margin-bottom: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        height: auto !important; /* Allow natural height for wrapping */
+        min-height: auto !important;
+        line-height: 1.5 !important;
+        white-space: normal !important; /* Ensure text wraps */
+        box-sizing: border-box !important;
+        position: relative !important;
+        top: 0 !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+}
 </style>
 <div class="content list" id="photolist">		
 <div id="gallerycontainer">		
@@ -297,8 +463,8 @@ function handlePhotoClick(event, img) {
 {% else %}
 {% assign base_url = site.url %}
 {% endif %}
-<img id="gallery" onclick="handlePhotoClick(event, this)" src="{{ base_url }}/assets-photo2026/nuns.jpg" loading="eager"><div id="locationsText" style="display: none;">Salar de Uyuni (2024)</div><div id="imageText">
-<em>The secret source of humour itself is not joy, but sorrow. There is no humour in heaven.</em>&nbsp;&nbsp;-Mark Twain
+<img id="gallery" onclick="handlePhotoClick(event, this)" src="{{ base_url }}/assets-photo2026/nuns.jpg" loading="eager" decoding="async" fetchpriority="high" width="2400" height="1600"><div id="locationsText" style="display: none;">Salar de Uyuni (2024)</div><div id="imageText">
+<em>The secret source of humour itself is not joy, but sorrow. There is no humour in heaven.</em>&nbsp;&nbsp;‑&nbsp;Mark&nbsp;Twain
 </div>    	
 </div>		
 </div>
@@ -306,26 +472,89 @@ function handlePhotoClick(event, img) {
 
 <script>
 // Initialize first image quote and location on page load
+// Add image load event listener to track when images finish loading
+var galleryImg = document.getElementById("gallery");
+// Ensure image is visible on initial load
+galleryImg.style.visibility = 'visible';
+galleryImg.style.opacity = '1';
+galleryImg.addEventListener('load', function() {
+    // Ensure image is visible after load (in case it was hidden during transition)
+    if (this.style.opacity === '0' || this.style.opacity === '') {
+        this.style.visibility = 'visible';
+        this.style.opacity = '1';
+    }
+});
+galleryImg.addEventListener('error', function() {
+    // Show image even on error to prevent blank screen
+    this.style.visibility = 'visible';
+    this.style.opacity = '1';
+});
 document.getElementById('imageText').innerHTML = imageText[0];
 document.getElementById('locationsText').innerHTML = locations[0];
 document.getElementById('currentImage').innerHTML = imgCount + 1
 document.getElementById('totalImages').innerHTML = imageGallery.length
+updatePhotoStyle();
 
-// Optimized preloading: start immediately for first few, then use requestIdleCallback for rest
+// Enhanced preloading strategy: multiple tiers for optimal performance
 if ('requestIdleCallback' in window) {
-  // Preload first 3 images immediately (critical)
-  for (var i = 0; i < Math.min(3, imageGallery.length); i++) {
+  // Tier 1: Preload first 5 images immediately (critical - user will see these first)
+  for (var i = 0; i < Math.min(5, imageGallery.length); i++) {
     var img = new Image();
     img.fetchPriority = 'high';
     img.src = imageGallery[i];
   }
-  // Preload rest when browser is idle (starting from index 3 to avoid duplicates)
+  
+  // Tier 2: Preload 15th image (explanatory photo) immediately since users often navigate to it
+  // Store it in a global variable to prevent garbage collection
+  if (imageGallery.length > 14) {
+    window.preloadedCameraImg = new Image();
+    window.preloadedCameraImg.fetchPriority = 'high';
+    window.preloadedCameraImg.src = imageGallery[14];
+  }
+  
+  // Tier 3: Preload next 5 images (indices 5-9) after 1 second delay
+  setTimeout(function() {
+    for (var i = 5; i < Math.min(10, imageGallery.length); i++) {
+      if (i !== 14) { // Skip 15th image, already preloaded
+        var img = new Image();
+        img.fetchPriority = 'high';
+        img.src = imageGallery[i];
+      }
+    }
+  }, 1000);
+  
+  // Tier 4: Preload remaining images when browser is idle (starting from index 10, skip 14)
   requestIdleCallback(function() {
-    preloadImages(3);
+    preloadImages(10);
   }, { timeout: 2000 });
 } else {
   // Fallback: preload all images
   preloadImages(0);
+}
+
+// Smart pre-caching: Prefetch adjacent images when viewing a photo
+function prefetchAdjacentImages(currentIndex) {
+  var prefetchIndices = [];
+  // Prefetch previous 2 and next 2 images
+  for (var offset = -2; offset <= 2; offset++) {
+    if (offset === 0) continue; // Skip current image
+    var idx = currentIndex + offset;
+    if (idx >= 0 && idx < imageGallery.length) {
+      prefetchIndices.push(idx);
+    }
+  }
+  
+  prefetchIndices.forEach(function(idx) {
+    // Check if already prefetched to avoid duplicates
+    var existingLink = document.querySelector('link[rel="prefetch"][href="' + imageGallery[idx] + '"]');
+    if (!existingLink) {
+      var link = document.createElement('link');
+      link.rel = 'prefetch';
+      link.as = 'image';
+      link.href = imageGallery[idx];
+      document.head.appendChild(link);
+    }
+  });
 }
 </script>
 
@@ -353,6 +582,86 @@ div#photolist #gallerycontainer #gallery {
     display: block !important;
     vertical-align: bottom !important;
     max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+}
+
+/* CRITICAL: Mobile override for "FINAL OVERRIDE" section - must come after to override */
+/* Override negative margin and flex display on mobile to prevent quote overlap and enable wrapping */
+@media (max-width: 850px) {
+    /* Override "FINAL OVERRIDE" section's negative margin and flex display on mobile */
+    /* Use same high-specificity selectors to ensure override */
+    div#photolist.content.list #gallerycontainer #imageText,
+    div#photolist #gallerycontainer #imageText,
+    #photolist.content.list #gallerycontainer #imageText {
+        margin-top: 1em !important; /* Positive margin to add spacing from image (override -10px) */
+        display: block !important; /* Block display for natural wrapping (override flex) */
+        white-space: normal !important; /* Ensure text wraps naturally */
+        width: 100% !important; /* Full width on mobile */
+        max-width: 100% !important;
+        height: auto !important; /* Allow natural height for wrapping */
+        min-height: auto !important;
+        line-height: 1.5 !important;
+        text-align: center !important;
+        font-size: 0.7em !important; /* Reduce font size on mobile (10.5px from base 15px - about 12.5% smaller) */
+        overflow-wrap: break-word !important; /* Break long words if needed, prefer breaking at spaces */
+        word-break: normal !important; /* Don't break words unnecessarily */
+        hyphens: auto !important; /* Allow hyphenation for better word breaking */
+        text-wrap: balance !important; /* Balance line lengths - break text roughly in middle for 2-line quotes */
+        -webkit-text-wrap: balance !important; /* Safari support for balanced text wrapping */
+    }
+}
+
+/* Smooth opacity transition for image loading */
+#photolist #gallery,
+#photolist #gallerycontainer #gallery,
+div#photolist.content.list #gallerycontainer #gallery {
+    transition: opacity 0.2s ease-in-out !important;
+}
+
+/* Special styling for 15th photo (explanatory photo) - 70% width and centered */
+#photolist #gallery.explanatory-photo,
+#photolist #gallerycontainer #gallery.explanatory-photo,
+div#photolist.content.list #gallerycontainer #gallery.explanatory-photo {
+    width: 70% !important;
+    max-width: 70% !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Adjust text styling for explanatory text - allow natural wrapping */
+#photolist #imageText.explanatory-text,
+#photolist #gallerycontainer #imageText.explanatory-text,
+div#photolist.content.list #gallerycontainer #imageText.explanatory-text {
+    width: 70% !important;
+    max-width: 70% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important; /* Change from flex to block for natural wrapping */
+    height: auto !important; /* Allow natural height */
+    min-height: auto !important;
+    white-space: normal !important;
+    text-align: left !important; /* Left-align for readability of longer text */
+    margin-top: 1.5em !important; /* Add spacing from photo */
+    line-height: 1.6 !important; /* Slightly more line height for readability */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Mobile responsive for explanatory photo */
+@media (max-width: 850px) {
+    #photolist #gallery.explanatory-photo,
+    #photolist #gallerycontainer #gallery.explanatory-photo,
+    div#photolist.content.list #gallerycontainer #gallery.explanatory-photo {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    
+    #photolist #imageText.explanatory-text,
+    #photolist #gallerycontainer #imageText.explanatory-text,
+    div#photolist.content.list #gallerycontainer #imageText.explanatory-text {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
 }
 </style>
 

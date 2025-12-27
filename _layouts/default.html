@@ -47,23 +47,41 @@
   </div>
   
   <!-- Service Worker Registration for aggressive caching -->
+  <!-- Only register in production (not on localhost) -->
   <script>
   // Register service worker for caching (makes repeat visits instant)
+  // Only register in production - skip on localhost for development
   if ('serviceWorker' in navigator) {
-    window.addEventListener('load', function() {
-      navigator.serviceWorker.register('{{ site.baseurl }}/sw.js')
-        .then(function(registration) {
-          console.log('ServiceWorker registration successful');
-          
-          // Check for updates periodically
-          setInterval(function() {
-            registration.update();
-          }, 60000); // Check every minute
-        })
-        .catch(function(error) {
-          console.log('ServiceWorker registration failed:', error);
-        });
-    });
+    // Check if we're on localhost (development) or production
+    const isLocalhost = window.location.hostname === 'localhost' || 
+                        window.location.hostname === '127.0.0.1' ||
+                        window.location.hostname === '';
+    
+    // Only register service worker in production
+    if (!isLocalhost) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('{{ site.baseurl }}/sw.js')
+          .then(function(registration) {
+            console.log('ServiceWorker registration successful');
+            
+            // Check for updates periodically
+            setInterval(function() {
+              registration.update();
+            }, 60000); // Check every minute
+          })
+          .catch(function(error) {
+            console.log('ServiceWorker registration failed:', error);
+          });
+      });
+    } else {
+      // Unregister any existing service workers on localhost
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        for (let registration of registrations) {
+          registration.unregister();
+          console.log('ServiceWorker unregistered for localhost development');
+        }
+      });
+    }
   }
   </script>
 </body>

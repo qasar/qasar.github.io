@@ -20,6 +20,10 @@
 /*.jpeg
   Cache-Control: public, max-age=31536000, immutable
 
+# Cache photo2026 assets aggressively (1 year)
+/assets-photo2026/*
+  Cache-Control: public, max-age=31536000, immutable
+
 /*.png
   Cache-Control: public, max-age=31536000, immutable
 
