@@ -6,6 +6,9 @@
       <ul class="navlist">
     {% for nav in site.nav %}
     <li class="navitem"><a href="{{site.baseurl}}/{{ nav.href }}" data-prefetch>{{ nav.name }}</a></li>
+    {% if nav.href == "photos" and site.local_dev %}
+    <li class="navitem"><a href="{{site.baseurl}}/photo2026" data-prefetch>Photo2026</a></li>
+    {% endif %}
     {% endfor %}
     </ul>
   </nav>

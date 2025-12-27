@@ -1,0 +1,358 @@
+---
+layout: default		
+permalink: /photo2026/		
+---		
+<script>		
+var imageGallery = [		
+{% if site.local_dev %}
+{% assign base_url = "" %}
+{% else %}
+{% assign base_url = site.url %}
+{% endif %}
+	"{{ base_url }}/assets-photo2026/nuns.jpg",
+	"{{ base_url }}/assets-photo2026/7.jpg",
+	"{{ base_url }}/assets-photo2026/iguazu.jpg",
+	"{{ base_url }}/assets-photo2026/room.jpg",
+	"{{ base_url }}/assets-photo2026/masi.jpg",
+	"{{ base_url }}/assets-photo2026/ephesus.jpg",
+	"{{ base_url }}/assets-photo2026/hk.jpg",
+	"{{ base_url }}/assets-photo2026/japan.jpg",
+	"{{ base_url }}/assets-photo2026/pyramids.jpg",
+	"{{ base_url }}/assets-photo2026/airchina.jpg",
+	"{{ base_url }}/assets-photo2026/pak.jpg",
+	"{{ base_url }}/assets-photo2026/ghana.jpg",
+	"{{ base_url }}/assets-photo2026/tan.jpg",
+	"{{ base_url }}/assets-photo2026/slov.jpg",
+
+	
+];		
+	
+		
+var imageText = [		
+"<em>If you look for the bad in people expecting to find it, you surely will.</em>&nbsp;&nbsp;-Abraham Lincoln",
+"<em>I am Time. The destroyer of all. I have come to consume you.</em>&nbsp;&nbsp;-Bhagavad Gita",
+"<em>When I admire the wonder of a sunset, my soul expands in worship of the Creator.</em>&nbsp;&nbsp;-Mahatma Gandhi",
+"<em>I am not who you think I am; I am not who I think I am; I am who I think you think I am.</em>&nbsp;&nbsp;-Thomas Cooley",
+"<em>I am by nature war-like. To attack is my instinct.</em>&nbsp;&nbsp;-Nietzsche",
+"<em>Enjoy the little things, for one day you may look back and realize they were the big things.</em>&nbsp;&nbsp;-Robert Brault",
+"<em>If you think you're free, there's no escape possible.</em>&nbsp;&nbsp;-Ram Dass",
+"<em>By protecting others, you save yourself.</em>&nbsp;&nbsp;-Seven Samurai, Akira Kurosawa",
+"<em>My name is Ozymandias, king of kings; look on my works, ye Mighty, and despair!</em>&nbsp;&nbsp;-Percy Shelley",
+"<em>Hope is the worst of all evils for it prolongs the torments of man.</em>&nbsp;&nbsp;-Friedrich Nietzsche",
+"<em>We shall not cease from exploration, and the end of all our exploring, will be to arrive where we started, and know the place for the first time.</em>&nbsp;&nbsp;-T. S. Eliot",
+"<em>Under capitalism, man exploits man. Under communism, it's just the opposite.</em>&nbsp;&nbsp;-John Kenneth Galbraith",
+"<em>It is no measure of health to be well adjusted to a profoundly sick society.</em>&nbsp;&nbsp;-Krishnamurti",
+"<em>Every revolution evaporates and leaves behind only the slime of a new bureaucracy.</em>&nbsp;&nbsp;-Franz Kafka"
+
+	
+];		
+	
+
+var locations = [		
+	"Salar de Uyuni (2024)",
+	"Sahara (2011)",
+	"Iguazu Falls (2009)",
+	"Boston (2007)",
+	"Masai Mara (2007)",
+	"Ephesus (2010)",
+	"Hong Kong (2016)",
+	"Tokyo (2022)",
+	"Giza (2007)",
+	"Shanghai (2016)",
+	"Rawalpindi (2022)",
+	"Elmina (2008)",
+	"Fez (2011)",
+	"Ljubljana (2016)",
+
+	
+];		
+	
+	
+	
+	
+var imgCount = 0;		
+var totalImgs = imageGallery.length -1;		
+
+function preloadImages(startIndex) {
+  // Preload images starting from startIndex (to avoid duplicate preloading)
+  startIndex = startIndex || 0;
+  for (var i = startIndex; i < imageGallery.length; i++) {
+    var img = new Image();
+    img.src = imageGallery[i];
+  }
+}
+		
+	
+function next() {		
+    if(imgCount == totalImgs){		
+      imgCount = 0;		
+    }  else {		
+      imgCount++;		
+    }		
+   document.getElementById("gallery").src = imageGallery[imgCount];		
+   document.getElementById("locationsText").innerHTML = locations[imgCount];	
+   document.getElementById("imageText").innerHTML = imageText[imgCount];
+	document.getElementById('currentImage').innerHTML = imgCount + 1
+}		
+		
+function previous() {		
+    imgCount--;		
+  if(imgCount < 0) imgCount = totalImgs ;		
+       document.getElementById("gallery").src = imageGallery[imgCount];  		
+       document.getElementById("locationsText").innerHTML = locations[imgCount];	
+       document.getElementById("imageText").innerHTML = imageText[imgCount]; 
+	       document.getElementById('currentImage').innerHTML = imgCount + 1
+
+    } 		
+		
+document.addEventListener("keydown", function(e){		
+	console.log(e.keyCode)		
+	if (e.keyCode == 37) {		
+		previous()		
+	} else if (e.keyCode == 39) {		
+		next()		
+	}		
+});		
+
+	
+function handlePhotoClick(event, img) {
+        var posX = event.offsetX?(event.offsetX):event.pageX-img.offsetLeft;
+        var posY = event.offsetY?(event.offsetY):event.pageY-img.offsetTop;
+        if (posX > img.width / 2) {
+          next()
+        } else {
+          previous()
+        }
+}
+	
+	
+</script>		
+{% include nav.html %}		
+<style>
+/* Photo2026 specific styles - 1200px width, responsive, left-aligned */
+/* Override .list max-width constraint - scoped to photo2026 only */
+/* CRITICAL: Remove .content padding-left: 40px that's causing overflow */
+#photolist.list,
+.content.list#photolist,
+.list#photolist {
+    max-width: 1200px !important;
+    width: 1200px !important;
+    text-align: left !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+    padding-left: 0 !important; /* Remove 40px padding from .content */
+    padding-right: 0 !important;
+}
+
+/* Override original #gallerycontainer width: 600px */
+/* Ensure exact 1200px width with no padding/margins for perfect alignment */
+#photolist #gallerycontainer {
+    width: 1200px !important;
+    max-width: 100% !important;
+    text-align: left !important;
+    float: left !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    box-sizing: border-box !important;
+}
+
+/* Remove any spacing from buttons container */
+#photolist #gallerycontainer .buttons {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Override original #gallery max-height: 500px and ensure 1200px width */
+/* Add 2 line breaks spacing between navigation buttons and photo */
+/* Ensure image width matches buttons container exactly */
+/* For portrait images, constrain height so they don't get too tall */
+#photolist #gallery {
+    max-width: 1200px !important;
+    width: 1200px !important;
+    min-width: 1200px !important;
+    max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+    height: auto !important;
+    object-fit: contain !important; /* Maintain aspect ratio */
+    display: block !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 2em !important; /* 2 line breaks between navigation and photo */
+    margin-bottom: 0 !important; /* No spacing below photo */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    border: 0 !important;
+    outline: 0 !important;
+    float: none !important;
+    clear: both !important;
+    box-sizing: border-box !important;
+}
+
+/* Hide locations text and remove all spacing */
+#photolist #locationsText {
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+    line-height: 0 !important;
+}
+
+/* Make buttons container match photo width exactly so counter aligns to right edge */
+#photolist #gallerycontainer .buttons,
+#photolist .buttons {
+    width: 1200px !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    overflow: visible !important;
+}
+
+/* Center the quote text below photos - override style.scss rules */
+/* Fixed height so images stay in same vertical position regardless of quote length */
+/* Match photo width (1200px) so quote is centered under photo */
+/* AGGRESSIVE: Remove ALL spacing between photo and quote */
+#photolist #imageText,
+#photolist #gallerycontainer #imageText,
+.content.list#photolist #imageText {
+    text-align: center !important;
+    width: 1200px !important;
+    max-width: 100% !important;
+    display: flex !important; /* Use flex for centering */
+    visibility: visible !important;
+    opacity: 1 !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: -10px !important; /* Negative margin to pull quote up and remove gap */
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    height: 90px !important;
+    min-height: 90px !important;
+    line-height: 1.5 !important;
+    box-sizing: border-box !important;
+    position: relative !important;
+    top: 0 !important;
+}
+
+/* AGGRESSIVE: Remove ALL spacing from gallery image bottom */
+/* CRITICAL: Override style.scss max-height: 500px rule, but add our own max-height for portraits */
+#photolist #gallery,
+#photolist #gallerycontainer #gallery {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    vertical-align: bottom !important;
+    display: block !important;
+    line-height: 0 !important;
+    max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+}
+
+/* Responsive: only scale down on screens smaller than 1200px */
+@media (max-width: 1200px) {
+    #photolist #gallerycontainer {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    #photolist #gallerycontainer .buttons,
+    #photolist .buttons {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    #photolist #gallery {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    #photolist #imageText {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+}
+</style>
+<div class="content list" id="photolist">		
+<div id="gallerycontainer">		
+<div class="buttons">		
+<a href="#" onclick="previous(); return false;">Back</a> |		
+<a href="#" onclick="next(); return false;">Next</a>
+	<span style="float:right; color: #aaa;"> <span id="currentImage">0</span> of <span id="totalImages">5</span></span>
+
+	
+	
+</div>		
+
+{% if site.local_dev %}
+{% assign base_url = "" %}
+{% else %}
+{% assign base_url = site.url %}
+{% endif %}
+<img id="gallery" onclick="handlePhotoClick(event, this)" src="{{ base_url }}/assets-photo2026/nuns.jpg" loading="eager"><div id="locationsText" style="display: none;">Salar de Uyuni (2024)</div><div id="imageText">
+<em>The secret source of humour itself is not joy, but sorrow. There is no humour in heaven.</em>&nbsp;&nbsp;-Mark Twain
+</div>    	
+</div>		
+</div>
+
+
+<script>
+// Initialize first image quote and location on page load
+document.getElementById('imageText').innerHTML = imageText[0];
+document.getElementById('locationsText').innerHTML = locations[0];
+document.getElementById('currentImage').innerHTML = imgCount + 1
+document.getElementById('totalImages').innerHTML = imageGallery.length
+
+// Optimized preloading: start immediately for first few, then use requestIdleCallback for rest
+if ('requestIdleCallback' in window) {
+  // Preload first 3 images immediately (critical)
+  for (var i = 0; i < Math.min(3, imageGallery.length); i++) {
+    var img = new Image();
+    img.fetchPriority = 'high';
+    img.src = imageGallery[i];
+  }
+  // Preload rest when browser is idle (starting from index 3 to avoid duplicates)
+  requestIdleCallback(function() {
+    preloadImages(3);
+  }, { timeout: 2000 });
+} else {
+  // Fallback: preload all images
+  preloadImages(0);
+}
+</script>
+
+<style>
+/* FINAL OVERRIDE - Load last to ensure it wins */
+/* Remove ALL spacing between photo and quote - maximum specificity */
+div#photolist.content.list #gallerycontainer #imageText,
+div#photolist #gallerycontainer #imageText,
+#photolist.content.list #gallerycontainer #imageText {
+    margin-top: -10px !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    display: flex !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Ensure image has zero bottom spacing */
+/* CRITICAL: Override style.scss max-height: 500px rule, but add our own max-height for portraits */
+div#photolist.content.list #gallerycontainer #gallery,
+div#photolist #gallerycontainer #gallery {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    display: block !important;
+    vertical-align: bottom !important;
+    max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+}
+</style>
+
