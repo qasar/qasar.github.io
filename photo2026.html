@@ -101,6 +101,8 @@ function updatePhotoStyle() {
         galleryImg.classList.remove("explanatory-photo");
         imageTextDiv.classList.remove("explanatory-text");
     }
+    // Update viewport-aware sizing when style changes
+    setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
 }
 
 function next() {
@@ -141,13 +143,20 @@ function next() {
         if (galleryImg.complete) {
             galleryImg.style.visibility = 'visible';
             galleryImg.style.opacity = '1';
+            // Update viewport-aware sizing after image is shown
+            setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
         } else {
             galleryImg.onload = function() {
                 this.style.visibility = 'visible';
                 this.style.opacity = '1';
                 this.onload = null; // Remove handler after use
+                // Update viewport-aware sizing after image loads
+                setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
             };
         }
+    } else {
+        // Update viewport-aware sizing for preloaded image
+        setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
     }
 }		
 	
@@ -182,13 +191,20 @@ function previous() {
         if (galleryImg.complete) {
             galleryImg.style.visibility = 'visible';
             galleryImg.style.opacity = '1';
+            // Update viewport-aware sizing after image is shown
+            setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
         } else {
             galleryImg.onload = function() {
                 this.style.visibility = 'visible';
                 this.style.opacity = '1';
                 this.onload = null; // Remove handler after use
+                // Update viewport-aware sizing after image loads
+                setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
             };
         }
+    } else {
+        // Update viewport-aware sizing for preloaded image
+        setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 50);
     }
 
     }
@@ -217,26 +233,27 @@ function handlePhotoClick(event, img) {
 </script>		
 {% include nav.html %}		
 <style>
-/* Photo2026 specific styles - 1200px width, responsive, left-aligned */
+/* Photo2026 specific styles - 1200px max-width, responsive, left-aligned */
 /* Override .list max-width constraint - scoped to photo2026 only */
 /* CRITICAL: Remove .content padding-left: 40px that's causing overflow */
+/* Make container responsive so it scales with viewport */
 #photolist.list,
 .content.list#photolist,
 .list#photolist {
     max-width: 1200px !important;
-    width: 1200px !important;
+    width: 100% !important; /* Scale with viewport instead of fixed 1200px */
     text-align: left !important;
     margin-left: 0 !important;
     margin-right: auto !important;
     padding-left: 0 !important; /* Remove 40px padding from .content */
-    padding-right: 0 !important;
+    padding-right: 1.5rem !important; /* Add right padding so image doesn't touch viewport edge */
 }
 
 /* Override original #gallerycontainer width: 600px */
-/* Ensure exact 1200px width with no padding/margins for perfect alignment */
+/* Make container responsive so it scales with viewport */
 #photolist #gallerycontainer {
-    width: 1200px !important;
-    max-width: 100% !important;
+    max-width: 1200px !important;
+    width: 100% !important; /* Scale with viewport instead of fixed 1200px */
     text-align: left !important;
     float: left !important;
     margin-left: 0 !important;
@@ -256,17 +273,17 @@ function handlePhotoClick(event, img) {
     padding-bottom: 0 !important;
 }
 
-/* Override original #gallery max-height: 500px and ensure 1200px width */
+/* Override original #gallery max-height: 500px */
 /* Add 2 line breaks spacing between navigation buttons and photo */
-/* Ensure image width matches buttons container exactly */
-/* For portrait images, constrain height so they don't get too tall */
+/* Viewport-aware sizing: scale to fit both width and height constraints */
+/* Image will scale down if either width (1200px) or height (viewport) constraint is exceeded */
 #photolist #gallery {
     max-width: 1200px !important;
-    width: 1200px !important;
-    min-width: 1200px !important;
-    max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+    width: 100% !important; /* Scale with container so it responds to viewport width */
+    min-width: 0 !important; /* Remove fixed min-width to allow scaling */
+    max-height: var(--gallery-max-height, calc(100vh - 200px)) !important; /* Use CSS variable for JS override, fallback to calc */
     height: auto !important;
-    object-fit: contain !important; /* Maintain aspect ratio */
+    object-fit: contain !important; /* Maintain aspect ratio - CSS will scale to whichever constraint is more restrictive */
     display: block !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
@@ -291,10 +308,11 @@ function handlePhotoClick(event, img) {
 }
 
 /* Make buttons container match photo width exactly so counter aligns to right edge */
+/* Make responsive so it scales with viewport */
 #photolist #gallerycontainer .buttons,
 #photolist .buttons {
-    width: 1200px !important;
-    max-width: 100% !important;
+    max-width: 1200px !important;
+    width: 100% !important; /* Scale with viewport instead of fixed 1200px */
     box-sizing: border-box !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
@@ -309,14 +327,14 @@ function handlePhotoClick(event, img) {
 
 /* Center the quote text below photos - override style.scss rules */
 /* Fixed height so images stay in same vertical position regardless of quote length */
-/* Match photo width (1200px) so quote is centered under photo */
-/* AGGRESSIVE: Remove ALL spacing between photo and quote */
+/* Match photo width so quote is centered under photo */
+/* Ensure quote is always visible with proper spacing */
 #photolist #imageText,
 #photolist #gallerycontainer #imageText,
 .content.list#photolist #imageText {
     text-align: center !important;
-    width: 1200px !important;
-    max-width: 100% !important;
+    max-width: 1200px !important;
+    width: 100% !important; /* Scale with viewport instead of fixed 1200px */
     display: flex !important; /* Use flex for centering */
     visibility: visible !important;
     opacity: 1 !important;
@@ -324,8 +342,8 @@ function handlePhotoClick(event, img) {
     justify-content: center !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
-    margin-top: -10px !important; /* Negative margin to pull quote up and remove gap */
-    margin-bottom: 0 !important;
+    margin-top: 0.5em !important; /* Small positive margin to ensure visibility */
+    margin-bottom: 2rem !important; /* Add bottom margin for white space below quote */
     padding-top: 0 !important;
     padding-bottom: 0 !important;
     height: 90px !important;
@@ -337,7 +355,7 @@ function handlePhotoClick(event, img) {
 }
 
 /* AGGRESSIVE: Remove ALL spacing from gallery image bottom */
-/* CRITICAL: Override style.scss max-height: 500px rule, but add our own max-height for portraits */
+/* CRITICAL: Override style.scss max-height: 500px rule, use viewport-aware height */
 #photolist #gallery,
 #photolist #gallerycontainer #gallery {
     margin-bottom: 0 !important;
@@ -345,10 +363,11 @@ function handlePhotoClick(event, img) {
     vertical-align: bottom !important;
     display: block !important;
     line-height: 0 !important;
-    max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+    max-height: var(--gallery-max-height, calc(100vh - 200px)) !important; /* Use CSS variable for JS override, fallback to calc */
 }
 
 /* Responsive: only scale down on screens smaller than 1200px */
+/* Viewport-aware sizing for medium screens */
 @media (max-width: 1200px) {
     #photolist #gallerycontainer {
         width: 100% !important;
@@ -362,6 +381,8 @@ function handlePhotoClick(event, img) {
     #photolist #gallery {
         width: 100% !important;
         max-width: 100% !important;
+        min-width: 0 !important; /* Remove fixed min-width for responsiveness */
+        max-height: var(--gallery-max-height, calc(100vh - 200px)) !important; /* Use CSS variable for JS override, fallback to calc */
     }
     #photolist #imageText {
         width: 100% !important;
@@ -399,11 +420,13 @@ function handlePhotoClick(event, img) {
     }
 
     /* Make images fully responsive - remove min-width constraint */
+    /* Viewport-aware height for mobile to ensure image + quote fit */
     #photolist #gallery,
     #photolist #gallerycontainer #gallery {
         width: 100% !important;
         max-width: 100% !important;
         min-width: 0 !important; /* Critical: remove 1200px min-width */
+        max-height: var(--gallery-max-height, calc(100vh - 180px)) !important; /* Use CSS variable for JS override, fallback to calc */
         height: auto !important;
         object-fit: contain !important;
         display: block !important;
@@ -430,7 +453,7 @@ function handlePhotoClick(event, img) {
         margin-left: 0 !important;
         margin-right: 0 !important;
         margin-top: 1em !important; /* Add some spacing from image */
-        margin-bottom: 0 !important;
+        margin-bottom: 2rem !important; /* Add bottom margin for white space below quote */
         padding-top: 0 !important;
         padding-bottom: 0 !important;
         padding-left: 0 !important;
@@ -494,6 +517,8 @@ document.getElementById('locationsText').innerHTML = locations[0];
 document.getElementById('currentImage').innerHTML = imgCount + 1
 document.getElementById('totalImages').innerHTML = imageGallery.length
 updatePhotoStyle();
+// Update viewport-aware sizing after initial setup
+setTimeout(function() { if (typeof updateImageMaxHeight === 'function') updateImageMaxHeight(); }, 100);
 
 // Enhanced preloading strategy: multiple tiers for optimal performance
 if ('requestIdleCallback' in window) {
@@ -556,32 +581,102 @@ function prefetchAdjacentImages(currentIndex) {
     }
   });
 }
+
+// Viewport-aware image sizing: Dynamically calculate max-height and max-width based on actual viewport
+// This ensures image + quote + navigation always fit without scrolling
+// Image will scale to whichever constraint (width or height) is more restrictive
+function updateImageMaxHeight() {
+  var galleryImg = document.getElementById("gallery");
+  var imageTextDiv = document.getElementById("imageText");
+  var buttonsDiv = document.querySelector("#photolist .buttons");
+  var photolistContainer = document.getElementById("photolist");
+  var sidebar = document.querySelector('.masthead');
+  
+  if (!galleryImg) return;
+  
+  // Get actual viewport dimensions
+  var viewportHeight = window.innerHeight;
+  var viewportWidth = window.innerWidth;
+  
+  // Calculate available height: navigation buttons, quote, margins, and bottom padding
+  var buttonsHeight = buttonsDiv ? buttonsDiv.offsetHeight : 40; // Fallback to 40px if not found
+  var quoteHeight = imageTextDiv ? imageTextDiv.offsetHeight : 90; // Fallback to 90px if not found
+  var imageMarginTop = 32; // 2em margin-top on image
+  var quoteMarginTop = 8; // 0.5em margin-top on quote
+  var quoteMarginBottom = 32; // 2rem bottom margin for white space below quote
+  var extraPadding = 20; // Safety padding
+  
+  // Calculate available height for image
+  var availableHeight = viewportHeight - buttonsHeight - quoteHeight - imageMarginTop - quoteMarginTop - quoteMarginBottom - extraPadding;
+  
+  // Ensure minimum height (at least 200px)
+  availableHeight = Math.max(availableHeight, 200);
+  
+  // Calculate available width: viewport width minus sidebar, margins, and right padding
+  var sidebarWidth = sidebar ? sidebar.offsetWidth : 193; // Default sidebar width from CSS
+  var rightPadding = 24; // 1.5rem right padding on photolist container
+  var extraWidthPadding = 20; // Safety padding
+  var availableWidth = viewportWidth - sidebarWidth - rightPadding - extraWidthPadding;
+  
+  // Cap at 1200px max (design constraint)
+  availableWidth = Math.min(availableWidth, 1200);
+  
+  // Ensure minimum width (at least 200px)
+  availableWidth = Math.max(availableWidth, 200);
+  
+  // Apply calculated max-height using CSS custom property (works with !important)
+  if (photolistContainer) {
+    photolistContainer.style.setProperty('--gallery-max-height', availableHeight + 'px', 'important');
+    // Also set max-width if we want to constrain it further (though CSS max-width: 1200px should handle this)
+    // The image with width: 100% will scale with container, and max-height will constrain vertically
+    // CSS object-fit: contain will ensure it fits within both constraints
+  } else {
+    // Fallback: set directly on image (may not override !important)
+    galleryImg.style.maxHeight = availableHeight + 'px';
+  }
+}
+
+// Update image height on load, resize, and orientation change
+function initViewportSizing() {
+  updateImageMaxHeight();
+  window.addEventListener('resize', updateImageMaxHeight);
+  window.addEventListener('orientationchange', function() {
+    setTimeout(updateImageMaxHeight, 100); // Delay for orientation change to complete
+  });
+}
+
+// Initialize viewport sizing when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initViewportSizing);
+} else {
+  initViewportSizing();
+}
 </script>
 
 <style>
 /* FINAL OVERRIDE - Load last to ensure it wins */
-/* Remove ALL spacing between photo and quote - maximum specificity */
+/* Ensure quote is always visible with proper spacing - maximum specificity */
 div#photolist.content.list #gallerycontainer #imageText,
 div#photolist #gallerycontainer #imageText,
 #photolist.content.list #gallerycontainer #imageText {
-    margin-top: -10px !important;
+    margin-top: 0.5em !important; /* Small positive margin to ensure visibility */
+    margin-bottom: 2rem !important; /* Add bottom margin for white space below quote */
     visibility: visible !important;
     opacity: 1 !important;
     display: flex !important;
-    margin-bottom: 0 !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
 }
 
 /* Ensure image has zero bottom spacing */
-/* CRITICAL: Override style.scss max-height: 500px rule, but add our own max-height for portraits */
+/* CRITICAL: Override style.scss max-height: 500px rule, use viewport-aware height */
 div#photolist.content.list #gallerycontainer #gallery,
 div#photolist #gallerycontainer #gallery {
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
     display: block !important;
     vertical-align: bottom !important;
-    max-height: 840px !important; /* Constrain portrait images (20% bigger than 700px) */
+    max-height: var(--gallery-max-height, calc(100vh - 200px)) !important; /* Use CSS variable for JS override, fallback to calc */
 }
 
 /* CRITICAL: Mobile override for "FINAL OVERRIDE" section - must come after to override */
@@ -611,19 +706,24 @@ div#photolist #gallerycontainer #gallery {
 }
 
 /* Smooth opacity transition for image loading */
+/* Ensure image is always visible and never hidden (but allow opacity transitions) */
 #photolist #gallery,
 #photolist #gallerycontainer #gallery,
 div#photolist.content.list #gallerycontainer #gallery {
     transition: opacity 0.2s ease-in-out !important;
+    display: block !important; /* Ensure image is always displayed */
+    /* visibility and opacity are controlled by JavaScript for transitions */
 }
 
 /* Special styling for 15th photo (explanatory photo) - 70% width and centered */
+/* Viewport-aware height for explanatory photo */
 #photolist #gallery.explanatory-photo,
 #photolist #gallerycontainer #gallery.explanatory-photo,
 div#photolist.content.list #gallerycontainer #gallery.explanatory-photo {
     width: 70% !important;
     max-width: 70% !important;
     min-width: 0 !important;
+    max-height: var(--gallery-max-height, calc(100vh - 200px)) !important; /* Use CSS variable for JS override, fallback to calc */
     margin-left: auto !important;
     margin-right: auto !important;
 }
@@ -654,6 +754,7 @@ div#photolist.content.list #gallerycontainer #imageText.explanatory-text {
     div#photolist.content.list #gallerycontainer #gallery.explanatory-photo {
         width: 100% !important;
         max-width: 100% !important;
+        max-height: var(--gallery-max-height, calc(100vh - 180px)) !important; /* Use CSS variable for JS override, fallback to calc */
     }
     
     #photolist #imageText.explanatory-text,
@@ -661,6 +762,23 @@ div#photolist.content.list #gallerycontainer #imageText.explanatory-text {
     div#photolist.content.list #gallerycontainer #imageText.explanatory-text {
         width: 100% !important;
         max-width: 100% !important;
+    }
+}
+
+/* Very small viewports - ensure everything fits */
+@media (max-height: 600px) {
+    #photolist #gallery,
+    #photolist #gallerycontainer #gallery,
+    div#photolist.content.list #gallerycontainer #gallery {
+        max-height: var(--gallery-max-height, calc(100vh - 150px)) !important; /* Use CSS variable for JS override, fallback to calc */
+    }
+    
+    #photolist #imageText,
+    #photolist #gallerycontainer #imageText,
+    div#photolist.content.list #gallerycontainer #imageText {
+        height: auto !important;
+        min-height: auto !important;
+        font-size: 0.9em !important; /* Slightly smaller font on very small viewports */
     }
 }
 </style>
