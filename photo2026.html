@@ -43,7 +43,7 @@ var imageText = [
 "<em>We shall not cease from exploration, and the end of all our exploring, will be to arrive where we started, and know the place for the first time.</em>&nbsp;&nbsp;‑&nbsp;T.&nbsp;S.&nbsp;Eliot",
 "<em>Under capitalism, man exploits man. Under communism, it's just the opposite.</em>&nbsp;&nbsp;‑&nbsp;John&nbsp;Kenneth&nbsp;Galbraith",
 "<em>It is no measure of health to be well adjusted to a profoundly sick society.</em>&nbsp;&nbsp;‑&nbsp;Krishnamurti",
-"<em>Those who seek absolute power, even though they seek it to do what they regard as good, are simply demanding the right to enforce their own version of heaven on earth. And let me remind you, they are the very ones who always create the most hellish tyrannies. Absolute power does corrupt, and those who seek it must be suspect and must be opposed.</em>&nbsp;&nbsp;<span style=\"white-space: nowrap;\">‑&nbsp;Barry&nbsp;Goldwater</span>",
+"<em>Those who seek absolute power, even though they seek it to do what they regard as good, are simply demanding the right to enforce their own version of heaven on earth. And let me remind you, they are the very ones who always create the most hellish tyrannies. Absolute power does corrupt, and those who seek it must be suspect and must be opposed.</em>&nbsp;&nbsp;‑&nbsp;Barry&nbsp;Goldwater",
 "This is a collection of photos I've taken over the years. Lightroom says I have taken over 50,000 photos. To say this is curated is an understatement. The quotes I've attached to the photos are often related, but not always.<br><br>I now shoot with a Leica M11-P, but not a single photo in this set was taken with that camera. Almost all the photos are from when I used a Fujifilm X100S, which I shot with for over a decade. Though I've also used a Canon Rebel XT, Nikon Z9, Contax T2, Ricoh GR II, and of course, whatever phone I have.<br><br>In another life, I would have loved to be a Magnum photographer. My favorite photographers are Josef Koudelka (Exiles), Sebastião Salgado (Workers), Fred Herzog (Modern Color), Marie-Laure de Decker (Vivre pour voir), Fan Ho (Hong Kong Yesterday), and of course, Henri Cartier-Bresson (The Decisive Moment). If you're starting in photography, copy them. After that, I don't know what to do because I'm still on that step.<br><br>Qasar Younis<br>December 2025"
 
 	
@@ -288,7 +288,7 @@ function handlePhotoClick(event, img) {
     margin-left: 0 !important;
     margin-right: 0 !important;
     margin-top: 2em !important; /* 2 line breaks between navigation and photo */
-    margin-bottom: 0 !important; /* No spacing below photo */
+    margin-bottom: 1.6rem !important; /* One line of spacing below photo */
     padding-left: 0 !important;
     padding-right: 0 !important;
     border: 0 !important;
@@ -335,11 +335,9 @@ function handlePhotoClick(event, img) {
     text-align: center !important;
     max-width: 1200px !important;
     width: 100% !important; /* Scale with viewport instead of fixed 1200px */
-    display: flex !important; /* Use flex for centering */
+    display: block !important; /* Use block for natural text flow */
     visibility: visible !important;
     opacity: 1 !important;
-    align-items: center !important;
-    justify-content: center !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
     margin-top: 0.5em !important; /* Small positive margin to ensure visibility */
@@ -358,7 +356,7 @@ function handlePhotoClick(event, img) {
 /* CRITICAL: Override style.scss max-height: 500px rule, use viewport-aware height */
 #photolist #gallery,
 #photolist #gallerycontainer #gallery {
-    margin-bottom: 0 !important;
+    margin-bottom: 1.6rem !important;
     padding-bottom: 0 !important;
     vertical-align: bottom !important;
     display: block !important;
@@ -663,7 +661,7 @@ div#photolist #gallerycontainer #imageText,
     margin-bottom: 2rem !important; /* Add bottom margin for white space below quote */
     visibility: visible !important;
     opacity: 1 !important;
-    display: flex !important;
+    display: block !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
 }
@@ -672,7 +670,7 @@ div#photolist #gallerycontainer #imageText,
 /* CRITICAL: Override style.scss max-height: 500px rule, use viewport-aware height */
 div#photolist.content.list #gallerycontainer #gallery,
 div#photolist #gallerycontainer #gallery {
-    margin-bottom: 0 !important;
+    margin-bottom: 1.6rem !important;
     padding-bottom: 0 !important;
     display: block !important;
     vertical-align: bottom !important;
