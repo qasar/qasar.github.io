@@ -134,6 +134,15 @@ function next() {
     }		
    document.getElementById("locationsText").innerHTML = locations[imgCount];	
    document.getElementById("imageText").innerHTML = imageText[imgCount];
+   // Handle blockquote quote for 15th image
+   var imageQuoteDiv = document.getElementById("imageQuote");
+   if (imgCount === 14) {
+     imageQuoteDiv.style.display = "block";
+     imageQuoteDiv.innerHTML = "<em>Photography is not like painting. There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera.</em>&nbsp;&nbsp;‑&nbsp;Henri&nbsp;Cartier-Bresson";
+   } else {
+     imageQuoteDiv.style.display = "none";
+     imageQuoteDiv.innerHTML = "";
+   }
 	document.getElementById('currentImage').innerHTML = imgCount + 1
 	updatePhotoStyle();
     // Smart pre-caching: Prefetch adjacent images
@@ -181,7 +190,16 @@ function previous() {
       galleryImg.src = imageGallery[imgCount];
     }  		
        document.getElementById("locationsText").innerHTML = locations[imgCount];	
-       document.getElementById("imageText").innerHTML = imageText[imgCount]; 
+       document.getElementById("imageText").innerHTML = imageText[imgCount];
+       // Handle blockquote quote for 15th image
+       var imageQuoteDiv = document.getElementById("imageQuote");
+       if (imgCount === 14) {
+         imageQuoteDiv.style.display = "block";
+         imageQuoteDiv.innerHTML = "<em>Photography is not like painting. There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera.</em>&nbsp;&nbsp;‑&nbsp;Henri&nbsp;Cartier-Bresson";
+       } else {
+         imageQuoteDiv.style.display = "none";
+         imageQuoteDiv.innerHTML = "";
+       }
 	       document.getElementById('currentImage').innerHTML = imgCount + 1
 	       updatePhotoStyle();
     // Smart pre-caching: Prefetch adjacent images
@@ -352,6 +370,35 @@ function handlePhotoClick(event, img) {
     top: 0 !important;
 }
 
+/* Style blockquote quote for 15th image - match writings page blockquote style */
+#photolist #imageQuote,
+#photolist #gallerycontainer #imageQuote,
+.content.list#photolist #imageQuote {
+    border-left: 3px solid #e5e5e5 !important;
+    padding-left: 1.5rem !important;
+    font-style: italic !important;
+    color: #666 !important;
+    margin-top: 0.5em !important; /* Match #imageText margin-top */
+    margin-bottom: 1.5rem !important; /* Space before explanatory text */
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 1200px !important;
+    width: 100% !important;
+    text-align: left !important; /* Left-align like writings page blockquotes */
+    box-sizing: border-box !important;
+}
+
+/* Style blockquote for explanatory photo - 75% of explanatory text width (52.5% of container) */
+/* Blockquote is only shown for 15th image, so make it slightly narrower than explanatory text */
+#photolist #imageQuote,
+#photolist #gallerycontainer #imageQuote,
+.content.list#photolist #imageQuote {
+    width: 52.5% !important; /* 75% of 70% (explanatory text width) */
+    max-width: 52.5% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
 /* AGGRESSIVE: Remove ALL spacing from gallery image bottom */
 /* CRITICAL: Override style.scss max-height: 500px rule, use viewport-aware height */
 #photolist #gallery,
@@ -484,7 +531,7 @@ function handlePhotoClick(event, img) {
 {% else %}
 {% assign base_url = site.url %}
 {% endif %}
-<img id="gallery" onclick="handlePhotoClick(event, this)" src="{{ base_url }}/assets-photo2026/nuns.jpg" loading="eager" decoding="async" fetchpriority="high" width="2400" height="1600"><div id="locationsText" style="display: none;">Salar de Uyuni (2024)</div><div id="imageText">
+<img id="gallery" onclick="handlePhotoClick(event, this)" src="{{ base_url }}/assets-photo2026/nuns.jpg" loading="eager" decoding="async" fetchpriority="high" width="2400" height="1600"><div id="locationsText" style="display: none;">Salar de Uyuni (2024)</div><blockquote id="imageQuote" style="display: none;"></blockquote><div id="imageText">
 <em>The secret source of humour itself is not joy, but sorrow. There is no humour in heaven.</em>&nbsp;&nbsp;‑&nbsp;Mark&nbsp;Twain
 </div>    	
 </div>		
@@ -512,6 +559,15 @@ galleryImg.addEventListener('error', function() {
 });
 document.getElementById('imageText').innerHTML = imageText[0];
 document.getElementById('locationsText').innerHTML = locations[0];
+// Initialize blockquote quote (hidden for first image, only shown for 15th image)
+var imageQuoteDiv = document.getElementById("imageQuote");
+if (imgCount === 14) {
+  imageQuoteDiv.style.display = "block";
+  imageQuoteDiv.innerHTML = "<em>Photography is not like painting. There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera.</em>&nbsp;&nbsp;‑&nbsp;Henri&nbsp;Cartier-Bresson";
+} else {
+  imageQuoteDiv.style.display = "none";
+  imageQuoteDiv.innerHTML = "";
+}
 document.getElementById('currentImage').innerHTML = imgCount + 1
 document.getElementById('totalImages').innerHTML = imageGallery.length
 updatePhotoStyle();
@@ -700,6 +756,14 @@ div#photolist #gallerycontainer #gallery {
         hyphens: auto !important; /* Allow hyphenation for better word breaking */
         text-wrap: balance !important; /* Balance line lengths - break text roughly in middle for 2-line quotes */
         -webkit-text-wrap: balance !important; /* Safari support for balanced text wrapping */
+    }
+    
+    /* Mobile responsive for blockquote - 75% of explanatory text width (75% of container on mobile) */
+    #photolist #imageQuote,
+    #photolist #gallerycontainer #imageQuote,
+    .content.list#photolist #imageQuote {
+        width: 75% !important; /* 75% of 100% (explanatory text width on mobile) */
+        max-width: 75% !important;
     }
 }
 
