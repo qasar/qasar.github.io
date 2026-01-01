@@ -57,7 +57,7 @@
   <meta name="twitter:site" content="@{{ site.twitter.username }}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
   <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.url }}{% if page.twitter_image %}{{ page.twitter_image }}{% else %}{{ page.image }}{% endif %}">
 {% endif %}
 </head>
 <body>
