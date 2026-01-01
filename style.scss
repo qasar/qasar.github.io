@@ -138,6 +138,10 @@ strong {
   font-weight: 600;
 }
 
+.green-bold {
+  color: red;
+}
+
 abbr {
   font-size: 85%;
   font-weight: bold;
@@ -364,7 +368,7 @@ tbody tr:nth-child(odd) th {
   &-title {
     margin-bottom: 1rem;
     font-size: 1.1rem;
-    font-weight: 600;
+    font-weight: 300;
     color: #333;
     letter-spacing: -.025rem;
   }
@@ -454,6 +458,25 @@ tbody tr:nth-child(odd) th {
     border-left: 3px solid #e5e5e5;
     font-style: italic;
     color: #666;
+  }
+  
+  dl {
+    margin-bottom: 1.2rem;
+    
+    dt {
+      margin-top: 1.2rem;
+      margin-bottom: 0.25rem;
+      font-weight: 600;
+      
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+    
+    dd {
+      margin-bottom: 0.5rem;
+      margin-left: 3rem;
+    }
   }
 }
 
