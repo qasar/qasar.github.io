@@ -44,7 +44,7 @@ var imageText = [
 "<em>Under capitalism, man exploits man. Under communism, it's just the opposite.</em>&nbsp;&nbsp;‑&nbsp;John&nbsp;Kenneth&nbsp;Galbraith",
 "<em>It is no measure of health to be well adjusted to a profoundly sick society.</em>&nbsp;&nbsp;‑&nbsp;Krishnamurti",
 "<em>Those who seek absolute power, even though they seek it to do what they regard as good, are simply demanding the right to enforce their own version of heaven on earth. And let me remind you, they are the very ones who always create the most hellish tyrannies. Absolute power does corrupt, and those who seek it must be suspect and must be opposed.</em>&nbsp;&nbsp;‑&nbsp;Barry&nbsp;Goldwater",
-"This is a collection of photos I've taken over the years. Lightroom says I have taken over 50,000 photos. To say this is curated is an understatement. The quotes I've attached to the photos are often related, but not always.<br><br>I now shoot with a Leica M11-P, but not a single photo in this set was taken with that camera. Almost all the photos are from when I used a Fujifilm X100S, which I shot with for over a decade. Though I've also used a Canon Rebel XT, Nikon Z9, Contax T2, Ricoh GR II, and of course, whatever phone I have.<br><br>In another life, I would have loved to be a Magnum photographer. My favorite photographers are Josef Koudelka (Exiles), Sebastião Salgado (Workers), Fred Herzog (Modern Color), Marie-Laure de Decker (Vivre pour voir), Fan Ho (Hong Kong Yesterday), and of course, Henri Cartier-Bresson (The Decisive Moment). If you're starting in photography, copy them. After that, I don't know what to do because I'm still on that step.<br><br>Qasar Younis<br>December 2025"
+"This is a collection of photos I've taken over the years. Lightroom says I have taken over 50,000 photos. To say this is curated is an understatement. The quotes I've attached to the photos are often related, but not always.<br><br>I now shoot with a Leica M11-P, but not a single photo in this set was taken with that camera. Almost all the photos are from when I used a Fujifilm X100S, which I shot with for over a decade. Though I've also used a Canon Rebel XT, Nikon Z9, Contax T2, Ricoh GR II, and of course, whatever phone I have.<br><br>In another life, I would have loved to be a Magnum photographer. My favorite photographers are Josef Koudelka (Exiles), Sebastião Salgado (Workers), Fred Herzog (Modern Color), Marie-Laure de Decker (Self titled), Fan Ho (Hong Kong Yesterday), and of course, Henri Cartier-Bresson (The Decisive Moment). If you're starting in photography, copy them. After that, I don't know what to do because I'm still on that step.<br><br>Qasar Younis<br>January 2025"
 
 	
 ];		
@@ -388,13 +388,13 @@ function handlePhotoClick(event, img) {
     box-sizing: border-box !important;
 }
 
-/* Style blockquote for explanatory photo - 75% of explanatory text width (52.5% of container) */
+/* Style blockquote for explanatory photo - 75% of explanatory text width (44.6% of container) */
 /* Blockquote is only shown for 15th image, so make it slightly narrower than explanatory text */
 #photolist #imageQuote,
 #photolist #gallerycontainer #imageQuote,
 .content.list#photolist #imageQuote {
-    width: 52.5% !important; /* 75% of 70% (explanatory text width) */
-    max-width: 52.5% !important;
+    width: 44.6% !important; /* 75% of 59.5% (explanatory text width) */
+    max-width: 44.6% !important;
     margin-left: auto !important;
     margin-right: auto !important;
 }
@@ -777,13 +777,13 @@ div#photolist.content.list #gallerycontainer #gallery {
     /* visibility and opacity are controlled by JavaScript for transitions */
 }
 
-/* Special styling for 15th photo (explanatory photo) - 70% width and centered */
+/* Special styling for 15th photo (explanatory photo) - 59.5% width and centered */
 /* Viewport-aware height for explanatory photo */
 #photolist #gallery.explanatory-photo,
 #photolist #gallerycontainer #gallery.explanatory-photo,
 div#photolist.content.list #gallerycontainer #gallery.explanatory-photo {
-    width: 70% !important;
-    max-width: 70% !important;
+    width: 59.5% !important;
+    max-width: 59.5% !important;
     min-width: 0 !important;
     max-height: var(--gallery-max-height, calc(100vh - 200px)) !important; /* Use CSS variable for JS override, fallback to calc */
     margin-left: auto !important;
@@ -794,8 +794,8 @@ div#photolist.content.list #gallerycontainer #gallery.explanatory-photo {
 #photolist #imageText.explanatory-text,
 #photolist #gallerycontainer #imageText.explanatory-text,
 div#photolist.content.list #gallerycontainer #imageText.explanatory-text {
-    width: 70% !important;
-    max-width: 70% !important;
+    width: 59.5% !important;
+    max-width: 59.5% !important;
     margin-left: auto !important;
     margin-right: auto !important;
     display: block !important; /* Change from flex to block for natural wrapping */
