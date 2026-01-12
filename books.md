@@ -20,7 +20,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Jiddu Krishnamurti</p>
 
-<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurthi explains, in painstaking detail, concepts that are seemingly very simple but simultaneously deeply profound. I realized many assumptions are so ossified in our minds, that one can barely recognize their existence. Upon completion, I closed the book and saw the quote on the back cover: "Truth is a pathless land" and was finally beginning to understand what that means.</p>
+<p>About 1/4 of the way into this book I was really wondering if I could make it through what seemed like ramblings; a guru with more style than substance. Krishnamurti explains, in painstaking detail, concepts that are seemingly very simple but simultaneously deeply profound. I realized many assumptions are so ossified in our minds, that one can barely recognize their existence. Upon completion, I closed the book and saw the quote on the back cover: "Truth is a pathless land" and was finally beginning to understand what that means.</p>
 
 </div>
 <hr>
@@ -47,7 +47,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Tom Juravich</p>
 
-<p>I read this book when I was a 19 year old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
+<p>I read this book when I was a 19-year-old production manager at Lake Orion Assembly and again when I was a manufacturing engineer at Flint Engine Assembly. It was my first insight into the sociology of work. Many lessons here are applicable to broader management principles that apply far from the factory floor.</p>
 </div>
 <hr>
 
@@ -97,7 +97,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Sam Walton</p>
 
-<p>This is perhaps my all-time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. What is particularly impressive about the Sam Walton story is how seemingly straightforward it is -- build a good business, treat people well, and attain success. Like Warren Buffet, Walton shows how a few guiding principles followed for long periods of time can have a tremendous impact.</p>
+<p>This is perhaps my all-time favorite business book even though it's an autobiography. Maybe because it's hard to separate Sam Walton from Walmart, it seems it's as much of a story of a business as it is a man. What is particularly impressive about the Sam Walton story is how seemingly straightforward it is -- build a good business, treat people well, and attain success. Like Warren Buffett, Walton shows how a few guiding principles followed for long periods of time can have a tremendous impact.</p>
 </div>
 <hr>
 
@@ -125,7 +125,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Bill Gates</p>
 
-<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. I read it shortly before I moved into high tech from the automotive industry and served as a great primer to how much things can change in a short time. The ideas are still fascinating and the book also serves as a great snapshot of what the technology world looked like as it was being engulfed by the internet.</p>
+<p>I read this not so well known book in 2005, just a little under 10 years after it was written and was struck by how clairvoyant and approachable it was. I read it shortly before I moved into high tech from the automotive industry and it served as a great primer to how much things can change in a short time. The ideas are still fascinating and the book also serves as a great snapshot of what the technology world looked like as it was being engulfed by the internet.</p>
 </div>
 <hr>
 
@@ -137,7 +137,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Aldous Huxley</p>
 
-<p>I happened to read this book nearly back to back with 1984 and quickly thought that the future would much more likely resemble this book than 1984. This is because we resist control from others but willingly subjugate ourselves if we get something in return. I would recommend reading it for no other reason to see aspects of our modern society so accurately reflected by someone writing in 1932.</p>
+<p>I happened to read this book nearly back to back with 1984 and quickly thought that the future would much more likely resemble this book than 1984. This is because we resist control from others but willingly subjugate ourselves if we get something in return. I would recommend reading it for no other reason than to see aspects of our modern society so accurately reflected by someone writing in 1932.</p>
 </div>
 <hr>
 
@@ -240,7 +240,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Roger Fouts</p>
 
-<p>I mistakenly picked up this book thinking it was <i>In The Shadow of Man</i>. Nonetheless, it ended up being incredible. It filled in the missing pieces in my brain that shows a clear link to other animals. The latter part of this book delivers an emotional impact. Once the reader can see that chimpanzees are indeed more human than we have considered, it's sad to see how they were being treated. It's hearting to realize we made good progress since this book was written to address this type of abuse.</p>
+<p>I mistakenly picked up this book thinking it was <i>In The Shadow of Man</i>. Nonetheless, it ended up being incredible. It filled in the missing pieces in my brain that shows a clear link to other animals. The latter part of this book delivers an emotional impact. Once the reader can see that chimpanzees are indeed more human than we have considered, it's sad to see how they were being treated. It's heartening to realize we made good progress since this book was written to address this type of abuse.</p>
 </div>
 <hr>
 
@@ -279,7 +279,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Booker T. Washington</p>
 
-<p>Shortly before Booker T. Washington was freed from slavery in his early teens, Abraham Lincoln wrote: "If slavery isn't wrong, nothing is wrong." Washington would spend most of his life not fighting for freedom but the long shadow of slavery. He recounts literally building Tuskeegee and puts forward a role model for self-reliance. After reading his own words, I'm someone who cannot support the criticism Washington received later in his life, most notably from W.E.B. Dubois. Washington was pragmatic and through that lens spoke on the condition of America at the time.</p>
+<p>Shortly before Booker T. Washington was freed from slavery in his early teens, Abraham Lincoln wrote: "If slavery isn't wrong, nothing is wrong." Washington would spend most of his life not fighting for freedom but the long shadow of slavery. He recounts literally building Tuskegee and puts forward a role model for self-reliance. After reading his own words, I'm someone who cannot support the criticism Washington received later in his life, most notably from W.E.B. Dubois. Washington was pragmatic and through that lens spoke on the condition of America at the time.</p>
 </div>
 <hr>
 
@@ -390,7 +390,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Samuel Beckett</p>
 
-<p>I'm fairly certain when if I had read this play without the accompanying analysis, it wouldn't have the impact that it did. However, thankfully, that wasn't the case. Although the work is high art, it delivers in a force that's usually not commonly associated with the genre. The work is an example of stripping ideas down to their bare bones to see their inner machinations.
+<p>I'm fairly certain that if I had read this play without the accompanying analysis, it wouldn't have the impact that it did. However, thankfully, that wasn't the case. Although the work is high art, it delivers in a force that's usually not commonly associated with the genre. The work is an example of stripping ideas down to their bare bones to see their inner machinations.
 </p>
 </div>
 <hr>
@@ -468,7 +468,7 @@ Below is a list of books that have made a deep and lasting impact on me. As the 
 
 <p>Stephen Hawking</p>
 
-<p>One of my biggest regrets in life is that I got decent grades at the sacrifice of learning. So over the past years, I found myself relearning simple things like thermal radiation to wave-particle duality. Since I'm not looking to apply these learnings (like I was when I was getting my Mechanical Engineering degree), I found myself veering towards modern physics and from there to astronomy. There have been a handful of great books I've read that are so dense that I'm not sure I could get through them again, let alone recommend them. However, Brief Answers, is exactly the opposite. It simplifies astronomy (and cosmology) in a way that is logical and entertaining, while not requiring prequalification.</p>
+<p>One of my biggest regrets in life is that I got decent grades at the sacrifice of learning. So over the past years, I found myself relearning simple things like thermal radiation to wave-particle duality. Since I'm not looking to apply these learnings (like I was when I was getting my Mechanical Engineering degree), I found myself veering towards modern physics and from there to astronomy. There have been a handful of great books I've read that are so dense that I'm not sure I could get through them again, let alone recommend them. However, Brief Answers is exactly the opposite. It simplifies astronomy (and cosmology) in a way that is logical and entertaining, while not requiring prequalification.</p>
 </div>
 <hr>
 

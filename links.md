@@ -3,20 +3,20 @@ title: Links
 permalink: /links/
 ---
 
-Videos and links from across on the interwebs.
+Videos and links from across the interwebs.
 
 
 <p>&nbsp;</p>
 
 <a href="https://youtu.be/5pYeoZaoWrA?si=QOgqOLh45iEySRPY" target="_blank">This IS financial advice</a>. 
 
-<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detoit Piston's Isiah Thomas: I thought it would be best if I just spoke from my heart</a>. 
+<a href="https://youtu.be/8VnW3EE-4Mo?t=287" target="_blank">Detroit Pistons' Isiah Thomas: I thought it would be best if I just spoke from my heart</a>. 
 
 <a href="https://www.youtube.com/watch?v=9aGRHOpMRUg&list=FLXJuURIK0_r_mGlRWSPkgCw&index=78&t=0s" target="_blank">Why these all-white paintings are in museums and mine aren't</a>. 
 
 <a href="https://www.youtube.com/watch?v=Z6CRc2r9dM8&list=FLXJuURIK0_r_mGlRWSPkgCw&index=5&t=0s" target="_blank">Even in a contest between man and steer, the issue is not certain</a>. 
 
-<a href="https://www.youtube.com/watch?v=O4etinsAy34&list=FLXJuURIK0_r_mGlRWSPkgCw&index=109&t=0s" target="_blank">In search of the distinctively human; philosophy of blade runner 2049</a>. 
+<a href="https://www.youtube.com/watch?v=O4etinsAy34&list=FLXJuURIK0_r_mGlRWSPkgCw&index=109&t=0s" target="_blank">In search of the distinctively human; philosophy of Blade Runner 2049</a>. 
 
 <a href="https://www.youtube.com/watch?v=u6aEYuemt0M" target="_blank">Andrej Karpathy on deep learning for computer vision (2016)</a>. 
 
@@ -30,7 +30,7 @@ Videos and links from across on the interwebs.
 
 <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">We have a lot less life left than we think</a>. 
 
-<a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s" target="_blank">Warren Buffet talk at Nebraska (2003)</a>.
+<a href="https://www.youtube.com/watch?v=M-vQGxTFfPU&list=FLXJuURIK0_r_mGlRWSPkgCw&index=103&t=0s" target="_blank">Warren Buffett talk at Nebraska (2003)</a>.
 
 <a href= "https://www.youtube.com/watch?v=ojIHZqvJpV0&list=FLXJuURIK0_r_mGlRWSPkgCw&index=64&t=0s" target="_blank">Qawwali of Nusrat Fateh Ali Khan</a>. 
  
