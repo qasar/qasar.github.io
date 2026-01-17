@@ -27,5 +27,5 @@ In the words of Andy Grove: I am an engineer by training and a manager of a high
 <br>
 <br>
 <br>
-<br> <i> Site updated December 2025. Built w/ Github pages. </i>
+<br> <i> Site updated January 2026. Built w/ Github pages. </i>
 <br>
